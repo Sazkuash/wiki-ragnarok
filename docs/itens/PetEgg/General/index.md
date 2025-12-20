@@ -1,0 +1,100 @@
+# General
+
+Itens disponíveis:
+
+- **[Poring Egg (9001)](9001.md)**
+- **[Drops Egg (9002)](9002.md)**
+- **[Poporing Egg (9003)](9003.md)**
+- **[Lunatic Egg (9004)](9004.md)**
+- **[Picky Egg (9005)](9005.md)**
+- **[Chonchon Egg (9006)](9006.md)**
+- **[Steel Chonchon Egg (9007)](9007.md)**
+- **[Hunter Fly Egg (9008)](9008.md)**
+- **[Savage Babe Egg (9009)](9009.md)**
+- **[Baby Desert Wolf Egg (9010)](9010.md)**
+- **[Rocker Egg (9011)](9011.md)**
+- **[Spore Egg (9012)](9012.md)**
+- **[Poison Spore Egg (9013)](9013.md)**
+- **[Peco Peco Egg (9014)](9014.md)**
+- **[Smokie Egg (9015)](9015.md)**
+- **[Yoyo Egg (9016)](9016.md)**
+- **[Orc Warrior Egg (9017)](9017.md)**
+- **[Munak Egg (9018)](9018.md)**
+- **[Dokebi Egg (9019)](9019.md)**
+- **[Sohee Egg (9020)](9020.md)**
+- **[Isis Egg (9021)](9021.md)**
+- **[Green Petite Egg (9022)](9022.md)**
+- **[Deviruchi Egg (9023)](9023.md)**
+- **[Bapho Jr. Egg (9024)](9024.md)**
+- **[Bongun Egg (9025)](9025.md)**
+- **[Zealotus Egg (9026)](9026.md)**
+- **[Alice Egg (9027)](9027.md)**
+- **[Hard Rice Cake (9028)](9028.md)**
+- **[Christmas Goblin's Egg (9029)](9029.md)**
+- **[Green Maiden Egg (9030)](9030.md)**
+- **[Spring Rabbit Egg (9031)](9031.md)**
+- **[Knife Goblin Egg (9032)](9032.md)**
+- **[Flail Goblin Egg (9033)](9033.md)**
+- **[Hammer Goblin Egg (9034)](9034.md)**
+- **[Red Deleter Egg (9035)](9035.md)**
+- **[Diabolic Egg (9036)](9036.md)**
+- **[Wanderer Egg (9037)](9037.md)**
+- **[Civil Servant Egg (9040)](9040.md)**
+- **[Leaf Cat Egg (9041)](9041.md)**
+- **[Loli Ruri Egg (9042)](9042.md)**
+- **[Marionette Egg (9043)](9043.md)**
+- **[Shinobi Egg (9044)](9044.md)**
+- **[Whisper Egg (9045)](9045.md)**
+- **[Goblin Leader Egg (9046)](9046.md)**
+- **[Wicked Nymph Egg (9047)](9047.md)**
+- **[Miyabi Ningyo Egg (9048)](9048.md)**
+- **[Dullahan Egg (9049)](9049.md)**
+- **[Medusa Egg (9050)](9050.md)**
+- **[Incubus Egg (9052)](9052.md)**
+- **[Golem Egg (9053)](9053.md)**
+- **[Nightmare Terror Egg (9054)](9054.md)**
+- **[Succubus Egg (9055)](9055.md)**
+- **[Imp Egg (9056)](9056.md)**
+- **[Christmas Snow Rabbit Egg (9058)](9058.md)**
+- **[Tikbalang Egg (9059)](9059.md)**
+- **[Novice Poring Egg (9062)](9062.md)**
+- **[Blue Unicorn Egg (9068)](9068.md)**
+- **[Mastering Egg (9069)](9069.md)**
+- **[Savage Egg (9070)](9070.md)**
+- **[Grand Peco Peco Egg (9071)](9071.md)**
+- **[High Orc Egg (9087)](9087.md)**
+- **[Angeling Egg (9088)](9088.md)**
+- **[Am Mut Egg (9089)](9089.md)**
+- **[Little Isis Egg (9090)](9090.md)**
+- **[Choco Egg (9091)](9091.md)**
+- **[Eggring Egg (9092)](9092.md)**
+- **[Hyegun Egg (9093)](9093.md)**
+- **[Leaf Lunatic Egg (9094)](9094.md)**
+- **[Nine Tail Egg (9095)](9095.md)**
+- **[Cat o Nine Tail Egg (9096)](9096.md)**
+- **[Diabolic Egg (9097)](9097.md)**
+- **[Fire Deleter Egg (9098)](9098.md)**
+- **[Teddy Bear Egg (9099)](9099.md)**
+- **[Gremlin Egg (9100)](9100.md)**
+- **[Scatleton's Cage (9101)](9101.md)**
+- **[Mummy Egg (9102)](9102.md)**
+- **[Willow Egg (9103)](9103.md)**
+- **[Roween Egg (9104)](9104.md)**
+- **[Hodremlin Egg (9105)](9105.md)**
+- **[Metaller Egg (9106)](9106.md)**
+- **[Ancient Mummy Egg (9107)](9107.md)**
+- **[Xmas Teddy Bear Egg (9108)](9108.md)**
+- **[Sweet Drops Egg (9109)](9109.md)**
+- **[Phreeoni Egg (9111)](9111.md)**
+- **[Moonlight Egg (9112)](9112.md)**
+- **[Roost Of Skelion (9113)](9113.md)**
+- **[Bacsojin Egg (9115)](9115.md)**
+- **[Aliot Egg (9118)](9118.md)**
+- **[Alicel Egg (9119)](9119.md)**
+- **[Aliza Egg (9120)](9120.md)**
+- **[Orc Hero Egg (9121)](9121.md)**
+- **[Gloom Under Night Egg (9122)](9122.md)**
+- **[Kiel-D-01 Egg (9126)](9126.md)**
+- **[Dark Priest Egg (9128)](9128.md)**
+- **[Desert Wolf Egg (9129)](9129.md)**
+- **[Fire Golem Egg (9131)](9131.md)**

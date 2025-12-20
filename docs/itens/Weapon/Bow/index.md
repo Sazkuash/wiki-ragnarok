@@ -1,0 +1,48 @@
+# Bow
+
+Itens disponíveis:
+
+- **[Bow (1701)](1701.md)**
+- **[Bow (1702)](1702.md)**
+- **[Bow (1703)](1703.md)**
+- **[Composite Bow (1704)](1704.md)**
+- **[Composite Bow (1705)](1705.md)**
+- **[Composite Bow (1706)](1706.md)**
+- **[Great Bow (1707)](1707.md)**
+- **[Great Bow (1708)](1708.md)**
+- **[Great Bow (1709)](1709.md)**
+- **[Crossbow (1710)](1710.md)**
+- **[Crossbow (1711)](1711.md)**
+- **[Crossbow (1712)](1712.md)**
+- **[Arbalest (1713)](1713.md)**
+- **[Gakkung Bow (1714)](1714.md)**
+- **[Arbalest (1715)](1715.md)**
+- **[Gakkung Bow (1716)](1716.md)**
+- **[Hunter Bow (1718)](1718.md)**
+- **[Roguemaster's Bow (1719)](1719.md)**
+- **[Rudra Bow (1720)](1720.md)**
+- **[Repeating Crossbow (1721)](1721.md)**
+- **[Ballista (1722)](1722.md)**
+- **[Luna Bow (1723)](1723.md)**
+- **[Dragon Wing (1724)](1724.md)**
+- **[Minstrel Bow (1725)](1725.md)**
+- **[Hunter Bow (1726)](1726.md)**
+- **[Ballista (1727)](1727.md)**
+- **[Burning Bow (1730)](1730.md)**
+- **[Frozen Bow (1731)](1731.md)**
+- **[Earth Bow (1732)](1732.md)**
+- **[Gust Bow (1733)](1733.md)**
+- **[Orc Archer Bow (1734)](1734.md)**
+- **[Double Bound (1736)](1736.md)**
+- **[Ixion Wings (1737)](1737.md)**
+- **[Nepenthes Bow (1740)](1740.md)**
+- **[Cursed Lyre (1741)](1741.md)**
+- **[Falken Blitz (1745)](1745.md)**
+- **[Malangdo Crab (18107)](18107.md)**
+- **[Zebra Eel (18108)](18108.md)**
+- **[Orc Archer Bow (18115)](18115.md)**
+- **[Arcus Daemonicus (18125)](18125.md)**
+- **[Ixion Wing (18129)](18129.md)**
+- **[Lightning Bow (18133)](18133.md)**
+- **[Unrivaled Bow (18142)](18142.md)**
+- **[Blue Bow (18144)](18144.md)**

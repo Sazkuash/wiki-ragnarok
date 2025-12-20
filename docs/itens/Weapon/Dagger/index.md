@@ -1,0 +1,71 @@
+# Dagger
+
+Itens disponíveis:
+
+- **[Knife (1201)](1201.md)**
+- **[Knife (1202)](1202.md)**
+- **[Knife (1203)](1203.md)**
+- **[Cutter (1204)](1204.md)**
+- **[Cutter (1205)](1205.md)**
+- **[Cutter (1206)](1206.md)**
+- **[Main Gauche (1207)](1207.md)**
+- **[Main Gauche (1208)](1208.md)**
+- **[Main Gauche (1209)](1209.md)**
+- **[Dirk (1210)](1210.md)**
+- **[Dirk (1211)](1211.md)**
+- **[Dirk (1212)](1212.md)**
+- **[Dagger (1213)](1213.md)**
+- **[Dagger (1214)](1214.md)**
+- **[Dagger (1215)](1215.md)**
+- **[Stiletto (1216)](1216.md)**
+- **[Stiletto (1217)](1217.md)**
+- **[Stiletto (1218)](1218.md)**
+- **[Gladius (1219)](1219.md)**
+- **[Gladius (1220)](1220.md)**
+- **[Gladius (1221)](1221.md)**
+- **[Damascus (1222)](1222.md)**
+- **[Fortune Sword (1223)](1223.md)**
+- **[Swordbreaker (1224)](1224.md)**
+- **[Mailbreaker (1225)](1225.md)**
+- **[Damascus (1226)](1226.md)**
+- **[Weeder Knife (1227)](1227.md)**
+- **[Combat Knife (1228)](1228.md)**
+- **[Kitchen Knife (1229)](1229.md)**
+- **[Ice Pick (1230)](1230.md)**
+- **[Bazerald (1231)](1231.md)**
+- **[Assassin Dagger (1232)](1232.md)**
+- **[Exorciser (1233)](1233.md)**
+- **[Moonlight Dagger (1234)](1234.md)**
+- **[Azoth (1235)](1235.md)**
+- **[Sucsamad (1236)](1236.md)**
+- **[Grimtooth (1237)](1237.md)**
+- **[Poison Knife (1239)](1239.md)**
+- **[Cursed Dagger (1241)](1241.md)**
+- **[Dagger of Counter (1242)](1242.md)**
+- **[Obsidian Dagger (1248)](1248.md)**
+- **[Dragon Killer (13001)](13001.md)**
+- **[Ginnungagap (13002)](13002.md)**
+- **[Poison Knife (13016)](13016.md)**
+- **[Ice Pick (13017)](13017.md)**
+- **[Sucsamad (13018)](13018.md)**
+- **[Ginnungagap (13019)](13019.md)**
+- **[Scalpel (13027)](13027.md)**
+- **[Tooth Blade (13028)](13028.md)**
+- **[Dragon Killer (13030)](13030.md)**
+- **[Swordbreaker (13031)](13031.md)**
+- **[Mailbreaker (13032)](13032.md)**
+- **[Desert Twilight (13034)](13034.md)**
+- **[Sandstorm (13035)](13035.md)**
+- **[Dagger of Hunter (13038)](13038.md)**
+- **[Ivory Knife (13039)](13039.md)**
+- **[Krierg (13046)](13046.md)**
+- **[Weihna (13047)](13047.md)**
+- **[Keris (13067)](13067.md)**
+- **[Vellum Damascus (13072)](13072.md)**
+- **[Counter Dagger (13073)](13073.md)**
+- **[Rogue Kinfe (13080)](13080.md)**
+- **[Goldsmithing Dagger (13086)](13086.md)**
+- **[Faceworm Leg (13089)](13089.md)**
+- **[Thunder Sword (28708)](28708.md)**
+- **[Unrivaled Dagger (28715)](28715.md)**
+- **[Blue Dagger (28720)](28720.md)**

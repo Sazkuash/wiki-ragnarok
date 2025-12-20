@@ -1,0 +1,52 @@
+# 1hSword
+
+Itens disponíveis:
+
+- **[Sword (1101)](1101.md)**
+- **[Sword (1102)](1102.md)**
+- **[Sword (1103)](1103.md)**
+- **[Falchion (1104)](1104.md)**
+- **[Falchion (1105)](1105.md)**
+- **[Falchion (1106)](1106.md)**
+- **[Blade (1107)](1107.md)**
+- **[Blade (1108)](1108.md)**
+- **[Blade (1109)](1109.md)**
+- **[Tsurugi (1119)](1119.md)**
+- **[Tsurugi (1120)](1120.md)**
+- **[Tsurugi (1121)](1121.md)**
+- **[Ring Pommel Saber (1122)](1122.md)**
+- **[Haedonggum (1123)](1123.md)**
+- **[Ring Pommel Saber (1125)](1125.md)**
+- **[Saber (1126)](1126.md)**
+- **[Saber (1127)](1127.md)**
+- **[Haedonggum (1128)](1128.md)**
+- **[Flamberge (1129)](1129.md)**
+- **[Nagan (1130)](1130.md)**
+- **[Ice Falchion (1131)](1131.md)**
+- **[Edge (1132)](1132.md)**
+- **[Fireblend (1133)](1133.md)**
+- **[Caesar's Sword (1134)](1134.md)**
+- **[Cutlus (1135)](1135.md)**
+- **[Solar Sword (1136)](1136.md)**
+- **[Excalibur (1137)](1137.md)**
+- **[Mysteltainn (1138)](1138.md)**
+- **[Tirfing (1139)](1139.md)**
+- **[Byeollungum (1140)](1140.md)**
+- **[Immaterial Sword (1141)](1141.md)**
+- **[Jeweled Sword (1142)](1142.md)**
+- **[Gaia Sword (1143)](1143.md)**
+- **[Sashimi (1144)](1144.md)**
+- **[Holy Avenger (1145)](1145.md)**
+- **[Flamberge (1149)](1149.md)**
+- **[Cutlus (13400)](13400.md)**
+- **[Platinum Shotel (13404)](13404.md)**
+- **[Curved Sword (13405)](13405.md)**
+- **[Twin Edge of Naght Sieger (13412)](13412.md)**
+- **[Twin Edge of Naght Sieger (13413)](13413.md)**
+- **[Elemental Sword (13414)](13414.md)**
+- **[Honglyun's Sword (13420)](13420.md)**
+- **[Ruber (13421)](13421.md)**
+- **[Old Parasol (13442)](13442.md)**
+- **[Byeollungum (13447)](13447.md)**
+- **[Gladius Daemonicus (13449)](13449.md)**
+- **[Mysteltainn (13453)](13453.md)**

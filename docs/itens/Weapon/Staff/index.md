@@ -1,0 +1,41 @@
+# Staff
+
+Itens disponíveis:
+
+- **[Rod (1601)](1601.md)**
+- **[Rod (1602)](1602.md)**
+- **[Rod (1603)](1603.md)**
+- **[Wand (1604)](1604.md)**
+- **[Wand (1605)](1605.md)**
+- **[Wand (1606)](1606.md)**
+- **[Staff (1607)](1607.md)**
+- **[Staff (1608)](1608.md)**
+- **[Staff (1609)](1609.md)**
+- **[Arc Wand (1610)](1610.md)**
+- **[Arc Wand (1611)](1611.md)**
+- **[Arc Wand (1612)](1612.md)**
+- **[Mighty Staff (1613)](1613.md)**
+- **[Wand of Occult (1614)](1614.md)**
+- **[Evil Bone Wand (1615)](1615.md)**
+- **[Wing Staff (1616)](1616.md)**
+- **[Lich's Bone Wand (1624)](1624.md)**
+- **[Healing Staff (1625)](1625.md)**
+- **[Piercing Staff (1626)](1626.md)**
+- **[Gentleman's Staff (1629)](1629.md)**
+- **[Release of Wish (1630)](1630.md)**
+- **[Holy Stick (1631)](1631.md)**
+- **[Thorn Staff of Darkness (1636)](1636.md)**
+- **[Eraser (1637)](1637.md)**
+- **[Dead Tree Cane (1643)](1643.md)**
+- **[La'cryma Stick (1646)](1646.md)**
+- **[Croce Staff (1647)](1647.md)**
+- **[Staff Of Bordeaux (1648)](1648.md)**
+- **[Mental Destroyer (1661)](1661.md)**
+- **[Healing Staff (1666)](1666.md)**
+- **[Sword Stick (1668)](1668.md)**
+- **[Evil Slayer Vanquisher Staff (1671)](1671.md)**
+- **[Gentleman's Staff (1675)](1675.md)**
+- **[Laphine Staff (1679)](1679.md)**
+- **[Thunder Wand (1688)](1688.md)**
+- **[Unrivaled Staff (26102)](26102.md)**
+- **[Blue Staff (26104)](26104.md)**

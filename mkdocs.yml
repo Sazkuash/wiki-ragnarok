@@ -1,0 +1,19 @@
+site_name: Ragnarok Wiki
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: red
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+
+plugins:
+  - search
+  - awesome-pages
+
+nav:
+  - Home: index.md
+  - Database: itens/index.md
