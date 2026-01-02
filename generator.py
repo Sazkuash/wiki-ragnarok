@@ -6,51 +6,82 @@ import re
 from collections import defaultdict
 
 # =========================
-# UTILITIES
+# CONFIGURACAO DE HIERARQUIA
 # =========================
 
-def load_yaml_file(file_path):
-    if not os.path.exists(file_path): return None
+def get_mapped_categories(raw_type):
+    """
+    Organiza itens em Categorias Mae e Subcategorias.
+    Ex: Weapons -> Swords -> One-Handed Sword
+    """
+    t = raw_type.lower().replace("_", " ").strip()
+    
+    # --- DEFINICAO DE ARMAS ---
+    weapon_list = ["sword", "axe", "spear", "mace", "staff", "bow", "dagger", "katar", "knuckle", "whip", "instrument"]
+    
+    for w in weapon_list:
+        if w in t:
+            cat_mae = "Weapons"
+            # Identifica se e 1H ou 2H
+            if "2h" in t or "two handed" in t or "two-handed" in t:
+                sub_cat = f"Two-Handed {w.title()}"
+            elif "1h" in t or "one handed" in t or "one-handed" in t or w == "sword":
+                # Para Swords, se nao for 2H, assumimos 1H por padrao
+                sub_cat = f"One-Handed {w.title()}"
+            else:
+                sub_cat = w.title()
+            return cat_mae, sub_cat
+
+    # --- DEFINICAO DE ARMADURAS ---
+    if t in ["armor", "headgear", "shield", "garment", "cape", "shoes", "boots"]:
+        cat_mae = "Armor"
+        sub_cat = "Garment and Cape" if t in ["garment", "cape"] else t.title()
+        return cat_mae, sub_cat
+
+    # --- CONSUMIVEIS ---
+    if t in ["healing", "usable", "delayconsume", "recovery", "support"]:
+        return "Consumables", t.title()
+
+    # --- OUTROS (Etc, Cartas, etc) ---
+    return "Other", t.title()
+
+# =========================
+# FUNCOES DE SUPORTE
+# =========================
+
+def load_yaml(path):
+    if not os.path.exists(path): return None
     try:
-        with open(file_path, "r", encoding="utf-8") as f:
-            data = yaml.safe_load(f)
+        with open(path, "r", encoding="utf-8") as f:
+            return yaml.safe_load(f)
     except:
-        with open(file_path, "r", encoding="latin-1") as f:
-            data = yaml.safe_load(f)
-    return data
+        with open(path, "r", encoding="latin-1") as f:
+            return yaml.safe_load(f)
 
 def parse_lua_item_info(file_path):
-    item_info = {}
-    if not os.path.exists(file_path): return item_info
+    items_lua = {}
+    if not os.path.exists(file_path): return items_lua
     with open(file_path, "r", encoding="latin-1", errors="ignore") as f:
         content = f.read()
     item_chunks = re.split(r'\[\s*(\d+)\s*\]\s*=\s*\{', content)
     for i in range(1, len(item_chunks), 2):
         item_id = int(item_chunks[i])
-        block_content = item_chunks[i+1]
-        name_match = re.search(r'NAME\s*=\s*["\'](.*?)["\']', block_content)
+        block = item_chunks[i+1]
+        name_match = re.search(r'NAME\s*=\s*["\'](.*?)["\']', block)
         display_name = name_match.group(1).strip() if name_match else None
-        desc_match = re.search(r'DESCRICAO\s*=\s*\{(.*?)\}', block_content, re.DOTALL)
-        clean_lines = []
+        desc_match = re.search(r'DESCRICAO\s*=\s*\{(.*?)\}', block, re.DOTALL)
+        lines_clean = []
+        found_type = "Etc"
         if desc_match:
             lines = re.findall(r'["\'](.*?)["\']', desc_match.group(1))
             for l in lines:
-                l_clean = re.sub(r'\^[0-9a-fA-F]{6}', '', l).strip()
-                if l_clean and "____" not in l_clean: clean_lines.append(l_clean)
-        item_info[item_id] = {"name": display_name, "desc": clean_lines}
-    return item_info
-
-def safe_folder(value, default="Other"):
-    if not value: return default
-    value = str(value).strip()
-    aliases = {
-        "shadowgear": "Shadowgear", "weapon": "Weapon", "armor": "Armor",
-        "etc": "Etc", "consumable": "Consumable", "card": "Card",
-        "healing": "Healing", "usable": "Usable", "delayconsume": "Usable"
-    }
-    key = value.lower().replace("-", "").replace("_", "").replace(" ", "")
-    if key in ["ammo", "petarmor"]: return None
-    return aliases.get(key, value.capitalize())
+                clean_l = re.sub(r'\^[0-9a-fA-F]{6}', '', l).strip()
+                if "Type:" in clean_l:
+                    found_type = clean_l.split("Type:")[-1].strip()
+                if clean_l and "____" not in clean_l:
+                    lines_clean.append(clean_l)
+        items_lua[item_id] = {"name": display_name, "desc": lines_clean, "type": found_type}
+    return items_lua
 
 def write_file(path, lines):
     os.makedirs(os.path.dirname(path), exist_ok=True)
@@ -58,132 +89,110 @@ def write_file(path, lines):
         f.write("\n".join(lines))
 
 # =========================
-# MAIN GENERATOR
+# GERADOR PRINCIPAL
 # =========================
 
 def generate():
-    print("--- Generating Tanelorn Chronicles Wiki (Fixing Index Files) ---")
+    print("--- Generating Categorized Wiki (Weapon 1H/2H Fix) ---")
 
-    # 1. LOAD DATA
-    mob_db_data = load_yaml_file("data/mob_db.yml")
-    mobs = mob_db_data.get("Body", []) if mob_db_data else []
+    # 1. Carregar dados
+    mob_db = load_yaml("data/mob_db.yml")
+    mobs = mob_db.get("Body", []) if mob_db else []
     
-    # 2. READ LOCATIONS FROM CONSOLIDATED FILE
-    mob_locations = defaultdict(set)
-    consolidated_file = "data/mobs_totais.txt" 
-    
-    if os.path.exists(consolidated_file):
-        location_pattern = re.compile(r'Map:\s*([^\s|]+).*?ID:\s*(\d+)', re.IGNORECASE)
-        with open(consolidated_file, 'r', encoding='utf-8', errors='ignore') as f:
-            for line in f:
-                match = location_pattern.search(line)
-                if match:
-                    map_name = match.group(1).strip()
-                    mob_id = int(match.group(2))
-                    mob_locations[mob_id].add(map_name)
-    
-    # 3. LOAD TRANSLATIONS AND ITEMS
-    lua_data = parse_lua_item_info("data/import_iteminfo.lua")
-    droppable_items_aegis = {d["Item"] for m in mobs if m and "Drops" in m for d in m["Drops"]}
-
-    all_items = []
-    item_files = ["data/item_db_equip.yml", "data/item_db_etc.yml", "data/item_db_usable.yml"]
-    for f_path in item_files:
-        data = load_yaml_file(f_path)
-        body = data.get("Body") if data else None
-        if body:
-            for i in body:
-                if i and i.get("AegisName") in droppable_items_aegis:
-                    if safe_folder(i.get("Type")) is not None: all_items.append(i)
-
-    # 4. MAP LINKS
-    item_path_map = {}
     aegis_to_id = {}
-    for i in all_items:
-        tipo, subtipo = safe_folder(i.get("Type")), safe_folder(i.get("SubType", "General"))
-        item_path_map[i['Id']] = f"../items/{tipo}/{subtipo}/{i['Id']}.md"
-        aegis_to_id[i['AegisName']] = i['Id']
+    item_yamls = ["data/item_db_equip.yml", "data/item_db_etc.yml", "data/item_db_usable.yml"]
+    for y_file in item_yamls:
+        data = load_yaml(y_file)
+        if data and data.get("Body"):
+            for item in data["Body"]:
+                if item:
+                    clean_name = item["AegisName"].strip().strip('_').lower()
+                    aegis_to_id[clean_name] = item["Id"]
 
-    drops_on_item_page = defaultdict(list)
+    lua_data = parse_lua_item_info("data/import_iteminfo.lua")
+
+    # 2. Mapear Drops
+    item_drop_map = defaultdict(list)
+    ids_que_dropam = set()
     for m in mobs:
-        if m and "Drops" in m:
-            for d in m["Drops"]:
-                item_id = aegis_to_id.get(d["Item"])
-                if item_id:
-                    rate = d["Rate"]/100
-                    drops_on_item_page[item_id].append(f"| [{m['Name']}](../../../monsters/{m['Id']}.md) | {rate:.2f}% |")
-
-    # 5. CLEAR OLD DOCS
-    for folder in ["items", "monsters"]:
-        target_path = os.path.join("docs", folder)
-        if os.path.exists(target_path): shutil.rmtree(target_path)
-
-    write_file("docs/index.md", ["# Tanelorn Chronicles Wiki", "", "Welcome to the database."])
-
-    # 6. GENERATE ITEMS + INDEX FILES
-    tree = defaultdict(lambda: defaultdict(list))
-    for i in all_items: tree[safe_folder(i.get("Type"))][safe_folder(i.get("SubType", "General"))].append(i)
-    
-    # Create main Item Index (docs/items/index.md)
-    items_main_idx = ["# Item Database", "", "Select a category:", ""]
-    for tipo in sorted(tree.keys()):
-        items_main_idx.append(f"- [{tipo}]({tipo}/index.md)")
-    write_file("docs/items/index.md", items_main_idx)
-
-    for tipo, subtipos in tree.items():
-        # Create Type Index (docs/items/Weapon/index.md)
-        tipo_idx = [f"# {tipo}", "", "Select a sub-type:", ""]
-        for s in sorted(subtipos.keys()):
-            tipo_idx.append(f"- [{s}]({s}/index.md)")
-        write_file(f"docs/items/{tipo}/index.md", tipo_idx)
-
-        for subtipo, itens_lista in subtipos.items():
-            # Create Subtype Index (docs/items/Weapon/Sword/index.md)
-            sub_idx = [f"# {subtipo}", "", "Items:", ""]
-            for i in sorted(itens_lista, key=lambda x: x["Name"]):
-                sub_idx.append(f"- [{i['Name']}]({i['Id']}.md)")
-                info = lua_data.get(i['Id'], {"name": i['Name'], "desc": []})
-                item_page = [
-                    f"# {info['name'] or i['Name']} (ID: {i['Id']})",
-                    "\n## Description", "> " + "  \n> ".join(info['desc']) if info['desc'] else "*No description found.*",
-                    "\n## Attributes", "| Attribute | Value |", "| :--- | :--- |", 
-                    f"| Weight | {i.get('Weight', 0)/10} |", f"| Slots | {i.get('Slots', 0)} |",
-                    f"| Attack | {i.get('Attack')} |" if i.get('Attack') else "",
-                    f"| Defense | {i.get('Defense')} |" if i.get('Defense') else "",
-                    "\n## Where to Find", "| Monster | Chance |", "| :--- | :--- |",
-                    *drops_on_item_page.get(i["Id"], ["| - | Not dropped by monsters |"])
-                ]
-                write_file(f"docs/items/{tipo}/{subtipo}/{i['Id']}.md", item_page)
-            write_file(f"docs/items/{tipo}/{subtipo}/index.md", sub_idx)
-
-    # 7. GENERATE MONSTERS + INDEX FILE
-    mobs_main_idx = ["# Monster Database", "", "| ID | Name |", "|---|---|"]
-    for m in sorted(mobs, key=lambda x: x['Id'] if x else 0):
         if not m: continue
-        mobs_main_idx.append(f"| {m['Id']} | [{m['Name']}]({m['Id']}.md) |")
+        for d in (m.get("Drops", []) + m.get("MvpDrops", [])):
+            a_name = d["Item"].strip().strip('_').lower()
+            it_id = aegis_to_id.get(a_name)
+            if it_id:
+                ids_que_dropam.add(it_id)
+                rate = d["Rate"] / 100
+                m_link = f"| [{m['Name']}](../../../monsters/{m['Id']}.md) | {rate:.2f}% |"
+                item_drop_map[it_id].append(m_link)
+
+    # 3. Limpar pastas
+    for folder in ["items", "monsters"]:
+        path = os.path.join("docs", folder)
+        if os.path.exists(path): shutil.rmtree(path)
+
+    # 4. Gerar Itens com Categorias e Subcategorias
+    tree = defaultdict(lambda: defaultdict(list))
+    for it_id in ids_que_dropam:
+        raw_t = lua_data.get(it_id, {}).get("type", "Etc")
+        main_cat, sub_cat = get_mapped_categories(raw_t)
+        tree[main_cat][sub_cat].append(it_id)
         
-        found_maps = sorted(list(mob_locations.get(int(m['Id']), [])))
-        location_list_md = "\n".join([f"* {loc}" for loc in found_maps]) if found_maps else "* Special Spawn"
-
-        m_drops = ["| Item | Chance |", "| :--- | :--- |"]
-        if "Drops" in m:
-            for d in m["Drops"]:
-                it_id = aegis_to_id.get(d["Item"])
-                it_info = lua_data.get(it_id, {"name": d["Item"]}) if it_id else {"name": d["Item"]}
-                m_drops.append(f"| [{it_info['name']}]({item_path_map[it_id]}) | {d['Rate']/100:.2f}% |" if it_id else f"| {d['Item']} | {d['Rate']/100:.2f}% |")
-
-        mob_page = [
-            f"# {m['Name']} (ID: {m['Id']})", 
-            "\n## Location", location_list_md,
-            "\n## Status", "| Level | HP | Race | Element |", "| :--- | :--- | :--- | :--- |", 
-            f"| {m.get('Level')} | {m.get('Hp')} | {m.get('Race')} | {m.get('Element')} |", 
-            "\n## Drop Table", *m_drops
+        info = lua_data.get(it_id, {"name": f"Item {it_id}", "desc": []})
+        item_page = [
+            f"# {info['name']} (ID: {it_id})",
+            "\n## Description", "> " + "  \n> ".join(info['desc']) if info['desc'] else "*No description.*",
+            "\n## Dropped By", "| Monster | Rate |", "| :--- | :--- |",
+            *(item_drop_map[it_id] if item_drop_map[it_id] else ["| - | Special Obtain |"]),
+            "\n---", f"\n*Location:* {main_cat} > **{sub_cat}**"
         ]
-        write_file(f"docs/monsters/{m['Id']}.md", mob_page)
-    # Create main Monster Index (docs/monsters/index.md)
-    write_file("docs/monsters/index.md", mobs_main_idx)
+        write_file(f"docs/items/{main_cat}/{sub_cat}/{it_id}.md", item_page)
 
-    print("? Wiki successfully generated with all Index files.")
+    # 5. Gerar Monstros
+    mob_locations = defaultdict(set)
+    if os.path.exists("data/mobs_totais.txt"):
+        with open("data/mobs_totais.txt", "r", encoding="utf-8", errors="ignore") as f:
+            for line in f:
+                match = re.search(r'Map:\s*([^\s|]+).*?ID:\s*(\d+)', line, re.I)
+                if match: mob_locations[int(match.group(2))].add(match.group(1).strip())
 
-if __name__ == "__main__":
-    generate()
+    for m in mobs:
+        if not m: continue
+        m_id = m['Id']
+        m_drops_table = ["| Item | ID | Rate |", "| :--- | :--- | :--- |"]
+        for d in (m.get("Drops", []) + m.get("MvpDrops", [])):
+            it_id = aegis_to_id.get(d["Item"].strip().strip('_').lower())
+            if it_id:
+                it_lua = lua_data.get(it_id, {"name": d["Item"], "type": "Etc"})
+                m_cat, s_cat = get_mapped_categories(it_lua["type"])
+                link = f"[{it_lua['name']}](../items/{m_cat}/{s_cat}/{it_id}.md)"
+                m_drops_table.append(f"| {link} | {it_id} | {d['Rate']/100:.2f}% |")
+
+        locs = sorted(list(mob_locations.get(m_id, [])))
+        mob_page = [f"# {m['Name']} (ID: {m_id})", "\n## Location", "\n".join([f"* {l}" for l in locs]) or "* Special Spawn", 
+                    "\n## Status", "| HP | Race | Element |", "| :--- | :--- | :--- |", f"| {m.get('Hp')} | {m.get('Race')} | {m.get('Element')} |",
+                    "\n## Drop Table", *m_drops_table]
+        write_file(f"docs/monsters/{m_id}.md", mob_page)
+
+    # 6. Home e Indices
+    write_file("docs/index.md", ["# Tanelorn Wiki", "", "- [Items](items/index.md)", "- [Monsters](monsters/index.md)"])
+    
+    mobs_idx = ["# Monster Database", "", "| Level | Name | ID |", "| :---: | :--- | :---: |"]
+    for m in sorted(mobs, key=lambda x: (int(x.get('Level', 0)), x['Id'])):
+        mobs_idx.append(f"| {m.get('Level', 0)} | [{m['Name']}]({m['Id']}.md) | {m['Id']} |")
+    write_file("docs/monsters/index.md", mobs_idx)
+    
+    item_main_idx = ["# Item Database", ""]
+    for mc in sorted(tree.keys()):
+        item_main_idx.append(f"## {mc}")
+        for sc in sorted(tree[mc].keys()):
+            item_main_idx.append(f"- [{sc}]({mc}/{sc}/index.md)")
+            sub_file = [f"# {sc}", "", "Items:", ""]
+            for it_id in sorted(tree[mc][sc]):
+                n = lua_data.get(it_id, {"name": str(it_id)})["name"]
+                sub_file.append(f"- [{n}]({it_id}.md)")
+            write_file(f"docs/items/{mc}/{sc}/index.md", sub_file)
+    write_file("docs/items/index.md", item_main_idx)
+
+    print("Success! Wiki generated with full subcategories.")
+
+if __name__ == "__main__": generate()

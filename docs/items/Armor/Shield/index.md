@@ -1,0 +1,28 @@
+# Shield
+
+Items:
+
+- [Guard](2102.md)
+- [Buckler](2104.md)
+- [Shield](2106.md)
+- [Herald of God](2111.md)
+- [Stone Buckler](2114.md)
+- [Valkyrie Shield](2115.md)
+- [Memory Book](2121.md)
+- [Platinum Shield](2122.md)
+- [Orlean](2123.md)
+- [Thorny Buckler](2124.md)
+- [Strong Shield](2125.md)
+- [Cross Shield](2130.md)
+- [Magic Bible Vol.1](2131.md)
+- [Tournament Shield](2133.md)
+- [Shield of Naga](2134.md)
+- [Shadow Guard](2135.md)
+- [Bradium Shield](2138.md)
+- [Silver Guard](2146.md)
+- [Round Buckler](2147.md)
+- [Devil](2166.md)
+- [Immune Shield](2168.md)
+- [Dark Book](2176.md)
+- [Shield of Death](2177.md)
+- [Svalinn](2188.md)

@@ -1,3 +1,4 @@
-# Tanelorn Chronicles Wiki
+# Tanelorn Wiki
 
-Welcome to the database.
+- [Items](items/index.md)
+- [Monsters](monsters/index.md)
