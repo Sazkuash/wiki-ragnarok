@@ -1,0 +1,2830 @@
+--- Relatorio Consolidado de Monstros ---
+Total de spawns encontrados: 2827
+--------------------------------------------------
+Map: //brasilis | ID: 2081 | Name: Strange Hydra
+Map: //sp_os | ID: 20355 | Name: Heart Hunter Bellare
+Map: //sp_os | ID: 20357 | Name: Heart Hunter Sanare
+Map: //sp_os | ID: 20363 | Name: Venenum
+Map: //tha_t01 | ID: 1191 | Name: Mimic
+Map: //tha_t01 | ID: 1195 | Name: Rideword
+Map: //tha_t01 | ID: 1275 | Name: Alice
+Map: //tha_t01 | ID: 1695 | Name: Plasma
+Map: //tha_t01 | ID: 1703 | Name: Lady Solace
+Map: //tha_t02 | ID: 1191 | Name: Mimic
+Map: //tha_t02 | ID: 1195 | Name: Rideword
+Map: //tha_t02 | ID: 1275 | Name: Alice
+Map: //tha_t02 | ID: 1377 | Name: Elder
+Map: //tha_t02 | ID: 1697 | Name: Plasma
+Map: //tha_t02 | ID: 1698 | Name: Death Word
+Map: //tha_t02 | ID: 1699 | Name: Ancient Mimic
+Map: //tha_t02 | ID: 1702 | Name: Baroness of Retribution
+Map: //tha_t03 | ID: 1191 | Name: Mimic
+Map: //tha_t03 | ID: 1195 | Name: Rideword
+Map: //tha_t03 | ID: 1377 | Name: Elder
+Map: //tha_t03 | ID: 1696 | Name: Plasma
+Map: //tha_t03 | ID: 1698 | Name: Death Word
+Map: //tha_t03 | ID: 1699 | Name: Ancient Mimic
+Map: //tha_t03 | ID: 1701 | Name: Mistress of Shelter
+Map: //tha_t04 | ID: 1191 | Name: Mimic
+Map: //tha_t04 | ID: 1195 | Name: Rideword
+Map: //tha_t04 | ID: 1295 | Name: Owl Baron
+Map: //tha_t04 | ID: 1320 | Name: Owl Duke
+Map: //tha_t04 | ID: 1377 | Name: Elder
+Map: //tha_t04 | ID: 1694 | Name: Plasma
+Map: //tha_t04 | ID: 1698 | Name: Death Word
+Map: //tha_t04 | ID: 1699 | Name: Ancient Mimic
+Map: //tha_t04 | ID: 1700 | Name: Dame of Sentinel
+Map: //tha_t05 | ID: 1295 | Name: Owl Baron
+Map: //tha_t05 | ID: 1320 | Name: Owl Duke
+Map: //tha_t05 | ID: 1377 | Name: Elder
+Map: //tha_t05 | ID: 1694 | Name: Plasma
+Map: //tha_t05 | ID: 1695 | Name: Plasma
+Map: //tha_t05 | ID: 1696 | Name: Plasma
+Map: //tha_t05 | ID: 1697 | Name: Plasma
+Map: //tha_t05 | ID: 1698 | Name: Death Word
+Map: //tha_t05 | ID: 1699 | Name: Ancient Mimic
+Map: //tha_t05 | ID: 1707 | Name: Dolor of Thanatos
+Map: //tha_t06 | ID: 1295 | Name: Owl Baron
+Map: //tha_t06 | ID: 1320 | Name: Owl Duke
+Map: //tha_t06 | ID: 1377 | Name: Elder
+Map: //tha_t06 | ID: 1694 | Name: Plasma
+Map: //tha_t06 | ID: 1695 | Name: Plasma
+Map: //tha_t06 | ID: 1696 | Name: Plasma
+Map: //tha_t06 | ID: 1697 | Name: Plasma
+Map: //tha_t06 | ID: 1698 | Name: Death Word
+Map: //tha_t06 | ID: 1699 | Name: Ancient Mimic
+Map: //tha_t06 | ID: 1706 | Name: Maero of Thanatos
+Map: //tha_t07 | ID: 1698 | Name: Death Word
+Map: //tha_t07 | ID: 1699 | Name: Ancient Mimic
+Map: //tha_t07 | ID: 1700 | Name: Dame of Sentinel
+Map: //tha_t07 | ID: 1701 | Name: Mistress of Shelter
+Map: //tha_t07 | ID: 1702 | Name: Baroness of Retribution
+Map: //tha_t07 | ID: 1703 | Name: Lady Solace
+Map: //tha_t07 | ID: 1705 | Name: Despero of Thanatos
+Map: //tha_t08 | ID: 1698 | Name: Death Word
+Map: //tha_t08 | ID: 1700 | Name: Dame of Sentinel
+Map: //tha_t08 | ID: 1702 | Name: Baroness of Retribution
+Map: //tha_t08 | ID: 1704 | Name: Odium of Thanatos
+Map: //tha_t08 | ID: 1705 | Name: Despero of Thanatos
+Map: //tha_t08 | ID: 1706 | Name: Maero of Thanatos
+Map: //tha_t08 | ID: 1707 | Name: Dolor of Thanatos
+Map: //tha_t09 | ID: 20779 | Name: Void Mimic
+Map: //tha_t09 | ID: 20780 | Name: Book of Death
+Map: //tha_t09 | ID: 20781 | Name: Eldest
+Map: //tha_t09 | ID: 20782 | Name: Crow Duke
+Map: //tha_t09 | ID: 20783 | Name: Crow Braon
+Map: //tha_t10 | ID: 20773 | Name: Emphatizer
+Map: //tha_t10 | ID: 20774 | Name: Happy Giver
+Map: //tha_t10 | ID: 20779 | Name: Void Mimic
+Map: //tha_t10 | ID: 20780 | Name: Book of Death
+Map: //tha_t10 | ID: 20781 | Name: Eldest
+Map: //tha_t11 | ID: 20773 | Name: Emphatizer
+Map: //tha_t11 | ID: 20774 | Name: Happy Giver
+Map: //tha_t11 | ID: 20776 | Name: Horror of Thanatos
+Map: //tha_t11 | ID: 20777 | Name: Resentful of Thanatos
+Map: //tha_t11 | ID: 20779 | Name: Void Mimic
+Map: //tha_t11 | ID: 20780 | Name: Book of Death
+Map: //tha_t11 | ID: 20844 | Name: Pray Giver
+Map: //tha_t11 | ID: 20845 | Name: Smile Giver
+Map: //tha_t12 | ID: 20775 | Name: Anger of Thanatos
+Map: //tha_t12 | ID: 20776 | Name: Horror of Thanatos
+Map: //tha_t12 | ID: 20777 | Name: Resentful of Thanatos
+Map: //tha_t12 | ID: 20778 | Name: Regret of Thanatos
+Map: //tha_t12 | ID: 20780 | Name: Book of Death
+Map: //ve_fild06 | ID: 1083 | Name: Shining Plant
+Map: //yuno_fild01 | ID: 2414 | Name: Runaway Book
+Map: //yuno_fild02 | ID: 2414 | Name: Runaway Book
+Map: //yuno_fild03 | ID: 2414 | Name: Runaway Book
+Map: //yuno_fild04 | ID: 2414 | Name: Runaway Book
+Map: //yuno_fild06 | ID: 2414 | Name: Runaway Book
+Map: //yuno_fild07 | ID: 2414 | Name: Runaway Book
+Map: //yuno_fild08 | ID: 2414 | Name: Runaway Book
+Map: //yuno_fild09 | ID: 2414 | Name: Runaway Book
+Map: //yuno_fild12 | ID: 2414 | Name: Runaway Book
+Map: abbey01 | ID: 1036 | Name: Ghoul
+Map: abbey01 | ID: 1864 | Name: Zombie Slaughter
+Map: abbey01 | ID: 1865 | Name: Ragged Zombie
+Map: abbey01 | ID: 1866 | Name: Hellhound
+Map: abbey01 | ID: 1867 | Name: Banshee
+Map: abbey01 | ID: 1869 | Name: Flame Skull
+Map: abbey01 | ID: 22269 | Name: Gholast
+Map: abbey01 | ID: 23072 | Name: Carnifex
+Map: abbey01 | ID: 23073 | Name: Moribundus
+Map: abbey01 | ID: 23074 | Name: Cerberon
+Map: abbey01 | ID: 23075 | Name: Screalia
+Map: abbey01 | ID: 23077 | Name: Pyrocran
+Map: abbey02 | ID: 1864 | Name: Zombie Slaughter
+Map: abbey02 | ID: 1865 | Name: Ragged Zombie
+Map: abbey02 | ID: 1869 | Name: Flame Skull
+Map: abbey02 | ID: 1870 | Name: Necromancer
+Map: abbey02 | ID: 1871 | Name: Fallen Bishop
+Map: abbey02 | ID: 23072 | Name: Carnifex
+Map: abbey02 | ID: 23073 | Name: Moribundus
+Map: abbey02 | ID: 23077 | Name: Pyrocran
+Map: abbey03 | ID: 1867 | Name: Banshee
+Map: abbey03 | ID: 1869 | Name: Flame Skull
+Map: abbey03 | ID: 1870 | Name: Necromancer
+Map: abbey03 | ID: 1873 | Name: Beelzebub
+Map: abbey03 | ID: 23075 | Name: Screalia
+Map: abbey03 | ID: 23077 | Name: Pyrocran
+Map: abyss_01 | ID: 1191 | Name: Mimic
+Map: abyss_01 | ID: 1216 | Name: Penomena
+Map: abyss_01 | ID: 1699 | Name: Ancient Mimic
+Map: abyss_01 | ID: 1714 | Name: Ferus
+Map: abyss_01 | ID: 1715 | Name: Novus
+Map: abyss_01 | ID: 1717 | Name: Ferus
+Map: abyss_01 | ID: 1718 | Name: Novus
+Map: abyss_01 | ID: 1721 | Name: Dragon Egg
+Map: abyss_01 | ID: 22416 | Name: Illusorym
+Map: abyss_01 | ID: 22440 | Name: Phenora
+Map: abyss_01 | ID: 22907 | Name: Vestigo
+Map: abyss_01 | ID: 22922 | Name: Feritus
+Map: abyss_01 | ID: 22923 | Name: Novalyn
+Map: abyss_02 | ID: 1191 | Name: Mimic
+Map: abyss_02 | ID: 1699 | Name: Ancient Mimic
+Map: abyss_02 | ID: 1713 | Name: Acidus
+Map: abyss_02 | ID: 1714 | Name: Ferus
+Map: abyss_02 | ID: 1715 | Name: Novus
+Map: abyss_02 | ID: 1716 | Name: Acidus
+Map: abyss_02 | ID: 1718 | Name: Novus
+Map: abyss_02 | ID: 1721 | Name: Dragon Egg
+Map: abyss_02 | ID: 22416 | Name: Illusorym
+Map: abyss_02 | ID: 22907 | Name: Vestigo
+Map: abyss_02 | ID: 22921 | Name: Acidium
+Map: abyss_02 | ID: 22922 | Name: Feritus
+Map: abyss_02 | ID: 22923 | Name: Novalyn
+Map: abyss_03 | ID: 1191 | Name: Mimic
+Map: abyss_03 | ID: 1699 | Name: Ancient Mimic
+Map: abyss_03 | ID: 1713 | Name: Acidus
+Map: abyss_03 | ID: 1714 | Name: Ferus
+Map: abyss_03 | ID: 1716 | Name: Acidus
+Map: abyss_03 | ID: 1717 | Name: Ferus
+Map: abyss_03 | ID: 1719 | Name: Detardeurus
+Map: abyss_03 | ID: 1720 | Name: Hydrolancer
+Map: abyss_03 | ID: 1721 | Name: Dragon Egg
+Map: abyss_03 | ID: 22416 | Name: Illusorym
+Map: abyss_03 | ID: 22907 | Name: Vestigo
+Map: abyss_03 | ID: 22921 | Name: Acidium
+Map: abyss_03 | ID: 22922 | Name: Feritus
+Map: alb_ship | ID: 2057 | Name: Strange Mouse
+Map: alde_dun01 | ID: 1111 | Name: Drainliar
+Map: alde_dun01 | ID: 1194 | Name: Arclouze
+Map: alde_dun01 | ID: 22342 | Name: Siphylos
+Map: alde_dun01 | ID: 22419 | Name: Arclorax
+Map: alde_dun02 | ID: 1189 | Name: Orc Archer
+Map: alde_dun02 | ID: 1194 | Name: Arclouze
+Map: alde_dun02 | ID: 1211 | Name: Brilight
+Map: alde_dun02 | ID: 1213 | Name: High Orc
+Map: alde_dun02 | ID: 22414 | Name: Orcturion
+Map: alde_dun02 | ID: 22419 | Name: Arclorax
+Map: alde_dun02 | ID: 22435 | Name: Brilyx
+Map: alde_dun02 | ID: 22437 | Name: Orkhaz
+Map: alde_dun03 | ID: 1111 | Name: Drainliar
+Map: alde_dun03 | ID: 1209 | Name: Cramp
+Map: alde_dun03 | ID: 1216 | Name: Penomena
+Map: alde_dun03 | ID: 22342 | Name: Siphylos
+Map: alde_dun03 | ID: 22434 | Name: Spasmon
+Map: alde_dun03 | ID: 22440 | Name: Phenora
+Map: alde_dun04 | ID: 1102 | Name: Bathory
+Map: alde_dun04 | ID: 1131 | Name: Joker
+Map: alde_dun04 | ID: 1179 | Name: Whisper
+Map: alde_dun04 | ID: 22333 | Name: Bathyrix
+Map: alde_dun04 | ID: 22362 | Name: Jokaris
+Map: alde_dun04 | ID: 22406 | Name: Wispra
+Map: ama_dun01 | ID: 1401 | Name: Shinobi
+Map: ama_dun01 | ID: 1403 | Name: Firelock Soldier
+Map: ama_dun01 | ID: 1404 | Name: Miyabi Doll
+Map: ama_dun01 | ID: 22614 | Name: Shingari
+Map: ama_dun01 | ID: 22616 | Name: Pyrobolt
+Map: ama_dun01 | ID: 22617 | Name: Ayamiko
+Map: ama_dun02 | ID: 1129 | Name: Horong
+Map: ama_dun02 | ID: 1375 | Name: The Paper
+Map: ama_dun02 | ID: 1401 | Name: Shinobi
+Map: ama_dun02 | ID: 1402 | Name: Poison Toad
+Map: ama_dun02 | ID: 1403 | Name: Firelock Soldier
+Map: ama_dun02 | ID: 1404 | Name: Miyabi Doll
+Map: ama_dun02 | ID: 22360 | Name: Horonix
+Map: ama_dun02 | ID: 22588 | Name: Tabulon
+Map: ama_dun02 | ID: 22614 | Name: Shingari
+Map: ama_dun02 | ID: 22615 | Name: Toxifrog
+Map: ama_dun02 | ID: 22616 | Name: Pyrobolt
+Map: ama_dun02 | ID: 22617 | Name: Ayamiko
+Map: ama_dun03 | ID: 1191 | Name: Mimic
+Map: ama_dun03 | ID: 1375 | Name: The Paper
+Map: ama_dun03 | ID: 1401 | Name: Shinobi
+Map: ama_dun03 | ID: 1403 | Name: Firelock Soldier
+Map: ama_dun03 | ID: 1404 | Name: Miyabi Doll
+Map: ama_dun03 | ID: 1405 | Name: Tengu
+Map: ama_dun03 | ID: 1492 | Name: Samurai Specter
+Map: ama_dun03 | ID: 22416 | Name: Illusorym
+Map: ama_dun03 | ID: 22588 | Name: Tabulon
+Map: ama_dun03 | ID: 22614 | Name: Shingari
+Map: ama_dun03 | ID: 22616 | Name: Pyrobolt
+Map: ama_dun03 | ID: 22617 | Name: Ayamiko
+Map: ama_dun03 | ID: 22618 | Name: Kazephyr
+Map: ama_fild01 | ID: 1060 | Name: Bigfoot
+Map: ama_fild01 | ID: 1068 | Name: Hydra
+Map: ama_fild01 | ID: 1400 | Name: Karakasa
+Map: ama_fild01 | ID: 1402 | Name: Poison Toad
+Map: ama_fild01 | ID: 1404 | Name: Miyabi Doll
+Map: ama_fild01 | ID: 1406 | Name: Kapha
+Map: ama_fild01 | ID: 22292 | Name: Goliathus
+Map: ama_fild01 | ID: 22613 | Name: Karakuro
+Map: ama_fild01 | ID: 22615 | Name: Toxifrog
+Map: ama_fild01 | ID: 22617 | Name: Ayamiko
+Map: ama_fild01 | ID: 22619 | Name: Kafloom
+Map: anthell01 | ID: 1005 | Name: Familiar
+Map: anthell01 | ID: 1095 | Name: Andre
+Map: anthell01 | ID: 1097 | Name: Ant Egg
+Map: anthell01 | ID: 1105 | Name: Deniro
+Map: anthell01 | ID: 1121 | Name: Giearth
+Map: anthell01 | ID: 1160 | Name: Piere
+Map: anthell01 | ID: 1176 | Name: Vitata
+Map: anthell01 | ID: 22243 | Name: Umbrion
+Map: anthell01 | ID: 22326 | Name: Andril
+Map: anthell01 | ID: 22336 | Name: Denirum
+Map: anthell01 | ID: 22352 | Name: Gravelax
+Map: anthell01 | ID: 22391 | Name: Jesterk
+Map: anthell01 | ID: 22403 | Name: Vitolia
+Map: anthell02 | ID: 1005 | Name: Familiar
+Map: anthell02 | ID: 1095 | Name: Andre
+Map: anthell02 | ID: 1097 | Name: Ant Egg
+Map: anthell02 | ID: 1105 | Name: Deniro
+Map: anthell02 | ID: 1121 | Name: Giearth
+Map: anthell02 | ID: 1147 | Name: Maya
+Map: anthell02 | ID: 1160 | Name: Piere
+Map: anthell02 | ID: 1176 | Name: Vitata
+Map: anthell02 | ID: 22243 | Name: Umbrion
+Map: anthell02 | ID: 22326 | Name: Andril
+Map: anthell02 | ID: 22336 | Name: Denirum
+Map: anthell02 | ID: 22352 | Name: Gravelax
+Map: anthell02 | ID: 22391 | Name: Jesterk
+Map: anthell02 | ID: 22403 | Name: Vitolia
+Map: ayo_dun01 | ID: 1036 | Name: Ghoul
+Map: ayo_dun01 | ID: 1179 | Name: Whisper
+Map: ayo_dun01 | ID: 1586 | Name: Leaf Cat
+Map: ayo_dun01 | ID: 1587 | Name: Kraben
+Map: ayo_dun01 | ID: 22269 | Name: Gholast
+Map: ayo_dun01 | ID: 22406 | Name: Wispra
+Map: ayo_dun01 | ID: 22794 | Name: Folivora
+Map: ayo_dun01 | ID: 22795 | Name: Kravian
+Map: ayo_dun02 | ID: 1179 | Name: Whisper
+Map: ayo_dun02 | ID: 1584 | Name: Tamruan
+Map: ayo_dun02 | ID: 1587 | Name: Kraben
+Map: ayo_dun02 | ID: 1688 | Name: Lady Tanee
+Map: ayo_dun02 | ID: 22406 | Name: Wispra
+Map: ayo_dun02 | ID: 22792 | Name: Tamuranix
+Map: ayo_dun02 | ID: 22795 | Name: Kravian
+Map: ayo_fild01 | ID: 1056 | Name: Smokie
+Map: ayo_fild01 | ID: 1057 | Name: Yoyo
+Map: ayo_fild01 | ID: 1080 | Name: Green Plant
+Map: ayo_fild01 | ID: 1104 | Name: Coco
+Map: ayo_fild01 | ID: 22288 | Name: Fumajin
+Map: ayo_fild01 | ID: 22289 | Name: Yovian
+Map: ayo_fild01 | ID: 22335 | Name: Cocovus
+Map: ayo_fild02 | ID: 1057 | Name: Yoyo
+Map: ayo_fild02 | ID: 1081 | Name: Yellow Plant
+Map: ayo_fild02 | ID: 1586 | Name: Leaf Cat
+Map: ayo_fild02 | ID: 1587 | Name: Kraben
+Map: ayo_fild02 | ID: 22289 | Name: Yovian
+Map: ayo_fild02 | ID: 22794 | Name: Folivora
+Map: ayo_fild02 | ID: 22795 | Name: Kravian
+Map: beach_dun | ID: 1148 | Name: Medusa
+Map: beach_dun | ID: 1255 | Name: Nereid
+Map: beach_dun | ID: 1256 | Name: Pest
+Map: beach_dun | ID: 1264 | Name: Merman
+Map: beach_dun | ID: 1583 | Name: Tao Gunka
+Map: beach_dun | ID: 22379 | Name: Gorgonax
+Map: beach_dun | ID: 22469 | Name: Neritos
+Map: beach_dun | ID: 22470 | Name: Pestil
+Map: beach_dun | ID: 22478 | Name: Maridox
+Map: beach_dun2 | ID: 1068 | Name: Hydra
+Map: beach_dun2 | ID: 1255 | Name: Nereid
+Map: beach_dun2 | ID: 1274 | Name: Megalith
+Map: beach_dun2 | ID: 1278 | Name: Stalactic Golem
+Map: beach_dun2 | ID: 1279 | Name: Tri Joint
+Map: beach_dun2 | ID: 22469 | Name: Neritos
+Map: beach_dun2 | ID: 22488 | Name: Stronos
+Map: beach_dun2 | ID: 22492 | Name: Cryolith
+Map: beach_dun2 | ID: 22493 | Name: Trisectis
+Map: beach_dun3 | ID: 1034 | Name: Thara Frog
+Map: beach_dun3 | ID: 1064 | Name: Megalodon
+Map: beach_dun3 | ID: 1068 | Name: Hydra
+Map: beach_dun3 | ID: 1255 | Name: Nereid
+Map: beach_dun3 | ID: 22267 | Name: Tharalux
+Map: beach_dun3 | ID: 22296 | Name: Primalith
+Map: beach_dun3 | ID: 22469 | Name: Neritos
+Map: bif_fild01 | ID: 1992 | Name: Cornus
+Map: bif_fild01 | ID: 1994 | Name: Luciola Vespa
+Map: bif_fild01 | ID: 2132 | Name: Pom Spider
+Map: bif_fild01 | ID: 2133 | Name: Angra Mantis
+Map: bif_fild01 | ID: 2136 | Name: Little Fatum
+Map: bif_fild01 | ID: 2137 | Name: Miming
+Map: bif_fild01 | ID: 23200 | Name: Corvitas
+Map: bif_fild01 | ID: 23202 | Name: Vesplux
+Map: bif_fild01 | ID: 23315 | Name: Pompkin
+Map: bif_fild01 | ID: 23316 | Name: Angris
+Map: bif_fild01 | ID: 23319 | Name: Fatemus
+Map: bif_fild01 | ID: 23320 | Name: Mimorus
+Map: bif_fild02 | ID: 1992 | Name: Cornus
+Map: bif_fild02 | ID: 1994 | Name: Luciola Vespa
+Map: bif_fild02 | ID: 2132 | Name: Pom Spider
+Map: bif_fild02 | ID: 2133 | Name: Angra Mantis
+Map: bif_fild02 | ID: 2136 | Name: Little Fatum
+Map: bif_fild02 | ID: 2137 | Name: Miming
+Map: bif_fild02 | ID: 23200 | Name: Corvitas
+Map: bif_fild02 | ID: 23202 | Name: Vesplux
+Map: bif_fild02 | ID: 23315 | Name: Pompkin
+Map: bif_fild02 | ID: 23316 | Name: Angris
+Map: bif_fild02 | ID: 23319 | Name: Fatemus
+Map: bif_fild02 | ID: 23320 | Name: Mimorus
+Map: c_tower1 | ID: 1102 | Name: Bathory
+Map: c_tower1 | ID: 1195 | Name: Rideword
+Map: c_tower1 | ID: 1199 | Name: Punk
+Map: c_tower1 | ID: 1270 | Name: Clock Tower Manager
+Map: c_tower1 | ID: 22333 | Name: Bathyrix
+Map: c_tower1 | ID: 22420 | Name: Codexia
+Map: c_tower1 | ID: 22424 | Name: Anarkon
+Map: c_tower1 | ID: 22484 | Name: Machinarch
+Map: c_tower2 | ID: 1191 | Name: Mimic
+Map: c_tower2 | ID: 1195 | Name: Rideword
+Map: c_tower2 | ID: 1199 | Name: Punk
+Map: c_tower2 | ID: 1269 | Name: Clock
+Map: c_tower2 | ID: 1270 | Name: Clock Tower Manager
+Map: c_tower2 | ID: 1377 | Name: Elder
+Map: c_tower2 | ID: 22416 | Name: Illusorym
+Map: c_tower2 | ID: 22420 | Name: Codexia
+Map: c_tower2 | ID: 22424 | Name: Anarkon
+Map: c_tower2 | ID: 22483 | Name: Horologin
+Map: c_tower2 | ID: 22484 | Name: Machinarch
+Map: c_tower2 | ID: 22590 | Name: Ancien
+Map: c_tower3 | ID: 1191 | Name: Mimic
+Map: c_tower3 | ID: 1193 | Name: Alarm
+Map: c_tower3 | ID: 1195 | Name: Rideword
+Map: c_tower3 | ID: 1270 | Name: Clock Tower Manager
+Map: c_tower3 | ID: 22416 | Name: Illusorym
+Map: c_tower3 | ID: 22418 | Name: Chronus
+Map: c_tower3 | ID: 22420 | Name: Codexia
+Map: c_tower3 | ID: 22484 | Name: Machinarch
+Map: c_tower4 | ID: 1179 | Name: Whisper
+Map: c_tower4 | ID: 1191 | Name: Mimic
+Map: c_tower4 | ID: 1193 | Name: Alarm
+Map: c_tower4 | ID: 1195 | Name: Rideword
+Map: c_tower4 | ID: 1269 | Name: Clock
+Map: c_tower4 | ID: 1270 | Name: Clock Tower Manager
+Map: c_tower4 | ID: 1320 | Name: Owl Duke
+Map: c_tower4 | ID: 1377 | Name: Elder
+Map: c_tower4 | ID: 22406 | Name: Wispra
+Map: c_tower4 | ID: 22416 | Name: Illusorym
+Map: c_tower4 | ID: 22418 | Name: Chronus
+Map: c_tower4 | ID: 22420 | Name: Codexia
+Map: c_tower4 | ID: 22483 | Name: Horologin
+Map: c_tower4 | ID: 22484 | Name: Machinarch
+Map: c_tower4 | ID: 22590 | Name: Ancien
+Map: cmd_fild01 | ID: 1079 | Name: Blue Plant
+Map: cmd_fild01 | ID: 1080 | Name: Green Plant
+Map: cmd_fild01 | ID: 1083 | Name: Shining Plant
+Map: cmd_fild01 | ID: 1118 | Name: Flora
+Map: cmd_fild01 | ID: 1687 | Name: Grove
+Map: cmd_fild01 | ID: 22349 | Name: Vineria
+Map: cmd_fild01 | ID: 22895 | Name: Sylvon
+Map: cmd_fild02 | ID: 1073 | Name: Crab
+Map: cmd_fild02 | ID: 1074 | Name: Shellfish
+Map: cmd_fild02 | ID: 1266 | Name: Aster
+Map: cmd_fild02 | ID: 1313 | Name: Mobster
+Map: cmd_fild02 | ID: 1317 | Name: Seal
+Map: cmd_fild02 | ID: 1391 | Name: Galapago
+Map: cmd_fild02 | ID: 22305 | Name: Carapax
+Map: cmd_fild02 | ID: 22306 | Name: Skelldra
+Map: cmd_fild02 | ID: 22480 | Name: Astralit
+Map: cmd_fild02 | ID: 22526 | Name: Mobstrik
+Map: cmd_fild02 | ID: 22530 | Name: Seltus
+Map: cmd_fild02 | ID: 22604 | Name: Galastro
+Map: cmd_fild03 | ID: 1083 | Name: Shining Plant
+Map: cmd_fild03 | ID: 1089 | Name: Toad
+Map: cmd_fild03 | ID: 1118 | Name: Flora
+Map: cmd_fild03 | ID: 1262 | Name: Mutant Dragonoid
+Map: cmd_fild03 | ID: 1271 | Name: Alligator
+Map: cmd_fild03 | ID: 22349 | Name: Vineria
+Map: cmd_fild03 | ID: 22485 | Name: Kaimano
+Map: cmd_fild04 | ID: 1073 | Name: Crab
+Map: cmd_fild04 | ID: 1074 | Name: Shellfish
+Map: cmd_fild04 | ID: 1266 | Name: Aster
+Map: cmd_fild04 | ID: 1323 | Name: Sea Otter
+Map: cmd_fild04 | ID: 1391 | Name: Galapago
+Map: cmd_fild04 | ID: 22305 | Name: Carapax
+Map: cmd_fild04 | ID: 22306 | Name: Skelldra
+Map: cmd_fild04 | ID: 22480 | Name: Astralit
+Map: cmd_fild04 | ID: 22536 | Name: Aquadrin
+Map: cmd_fild04 | ID: 22604 | Name: Galastro
+Map: cmd_fild06 | ID: 1040 | Name: Golem
+Map: cmd_fild06 | ID: 1058 | Name: Metaller
+Map: cmd_fild06 | ID: 1081 | Name: Yellow Plant
+Map: cmd_fild06 | ID: 22273 | Name: Golmur
+Map: cmd_fild06 | ID: 22290 | Name: Metacron
+Map: cmd_fild07 | ID: 1073 | Name: Crab
+Map: cmd_fild07 | ID: 1074 | Name: Shellfish
+Map: cmd_fild07 | ID: 1254 | Name: Raggler
+Map: cmd_fild07 | ID: 1266 | Name: Aster
+Map: cmd_fild07 | ID: 22305 | Name: Carapax
+Map: cmd_fild07 | ID: 22306 | Name: Skelldra
+Map: cmd_fild07 | ID: 22468 | Name: Raglithe
+Map: cmd_fild07 | ID: 22480 | Name: Astralit
+Map: cmd_fild08 | ID: 1040 | Name: Golem
+Map: cmd_fild08 | ID: 1081 | Name: Yellow Plant
+Map: cmd_fild08 | ID: 1095 | Name: Andre
+Map: cmd_fild08 | ID: 1097 | Name: Ant Egg
+Map: cmd_fild08 | ID: 1105 | Name: Deniro
+Map: cmd_fild08 | ID: 1160 | Name: Piere
+Map: cmd_fild08 | ID: 22273 | Name: Golmur
+Map: cmd_fild08 | ID: 22326 | Name: Andril
+Map: cmd_fild08 | ID: 22336 | Name: Denirum
+Map: cmd_fild08 | ID: 22391 | Name: Jesterk
+Map: cmd_fild09 | ID: 1058 | Name: Metaller
+Map: cmd_fild09 | ID: 1095 | Name: Andre
+Map: cmd_fild09 | ID: 1097 | Name: Ant Egg
+Map: cmd_fild09 | ID: 1105 | Name: Deniro
+Map: cmd_fild09 | ID: 1160 | Name: Piere
+Map: cmd_fild09 | ID: 22290 | Name: Metacron
+Map: cmd_fild09 | ID: 22326 | Name: Andril
+Map: cmd_fild09 | ID: 22336 | Name: Denirum
+Map: cmd_fild09 | ID: 22391 | Name: Jesterk
+Map: dew_dun01 | ID: 2152 | Name: Comodo
+Map: dew_dun01 | ID: 2156 | Name: Leak
+Map: dew_dun01 | ID: 23335 | Name: Komodex
+Map: dew_dun02 | ID: 2154 | Name: Banaspaty
+Map: dew_dun02 | ID: 2155 | Name: Butoijo
+Map: dew_dun02 | ID: 23337 | Name: Banaspyr
+Map: dew_dun02 | ID: 23338 | Name: Butoxus
+Map: dew_fild01 | ID: 1099 | Name: Argiope
+Map: dew_fild01 | ID: 2151 | Name: Alnoldi
+Map: dew_fild01 | ID: 2153 | Name: Cendrawasih
+Map: dew_fild01 | ID: 22330 | Name: Argylla
+Map: dew_fild01 | ID: 23334 | Name: Rafflix
+Map: dew_fild01 | ID: 23336 | Name: Avispar
+Map: dic_dun01 | ID: 2083 | Name: One-Horned Scaraba
+Map: dic_dun01 | ID: 2084 | Name: Two-Horned Scaraba
+Map: dic_dun01 | ID: 2088 | Name: Scaraba Egg
+Map: dic_dun01 | ID: 2089 | Name: Scaraba Egg
+Map: dic_dun01 | ID: 23278 | Name: Unicara
+Map: dic_dun01 | ID: 23279 | Name: Duocara
+Map: dic_dun02 | ID: 2085 | Name: Antler Scaraba
+Map: dic_dun02 | ID: 2086 | Name: Rake Scaraba
+Map: dic_dun02 | ID: 2087 | Name: Scaraba Queen
+Map: dic_dun02 | ID: 2090 | Name: Antler Scaraba Egg
+Map: dic_dun02 | ID: 2091 | Name: Rake Scaraba Egg
+Map: dic_dun02 | ID: 23280 | Name: Cornix
+Map: dic_dun02 | ID: 23281 | Name: Scaurus
+Map: dic_fild01 | ID: 1986 | Name: Tatacho
+Map: dic_fild01 | ID: 1987 | Name: Centipede
+Map: dic_fild01 | ID: 1999 | Name: Centipede Larva
+Map: dic_fild01 | ID: 2092 | Name: Dolomedes
+Map: dic_fild01 | ID: 23194 | Name: Tachoran
+Map: dic_fild01 | ID: 23195 | Name: Centidrax
+Map: dic_fild01 | ID: 23206 | Name: Centipax
+Map: dic_fild01 | ID: 23287 | Name: Doloma
+Map: dic_fild02 | ID: 1986 | Name: Tatacho
+Map: dic_fild02 | ID: 1987 | Name: Centipede
+Map: dic_fild02 | ID: 1999 | Name: Centipede Larva
+Map: dic_fild02 | ID: 2024 | Name: Bradium Golem
+Map: dic_fild02 | ID: 2092 | Name: Dolomedes
+Map: dic_fild02 | ID: 23194 | Name: Tachoran
+Map: dic_fild02 | ID: 23195 | Name: Centidrax
+Map: dic_fild02 | ID: 23206 | Name: Centipax
+Map: dic_fild02 | ID: 23231 | Name: Bradionite
+Map: dic_fild02 | ID: 23287 | Name: Doloma
+Map: ecl_fild01 | ID: 23544 | Name: Mendrake
+Map: ecl_fild01 | ID: 23545 | Name: Petalia
+Map: ecl_fild01 | ID: 2363 | Name: Menblatt
+Map: ecl_fild01 | ID: 2364 | Name: Petal
+Map: ecl_tdun01 | ID: 23546 | Name: Ceneris
+Map: ecl_tdun01 | ID: 23547 | Name: Scriptus
+Map: ecl_tdun01 | ID: 2365 | Name: Cenere
+Map: ecl_tdun01 | ID: 2366 | Name: Antique Book
+Map: ecl_tdun01 | ID: 2367 | Name: Blue Lichtern
+Map: ecl_tdun01 | ID: 2368 | Name: Yellow Lichtern
+Map: ecl_tdun02 | ID: 23546 | Name: Ceneris
+Map: ecl_tdun02 | ID: 23547 | Name: Scriptus
+Map: ecl_tdun02 | ID: 2365 | Name: Cenere
+Map: ecl_tdun02 | ID: 2366 | Name: Antique Book
+Map: ecl_tdun02 | ID: 2368 | Name: Yellow Lichtern
+Map: ecl_tdun02 | ID: 2369 | Name: Red Lichtern
+Map: ecl_tdun03 | ID: 23547 | Name: Scriptus
+Map: ecl_tdun03 | ID: 23552 | Name: Fidelis
+Map: ecl_tdun03 | ID: 2366 | Name: Antique Book
+Map: ecl_tdun03 | ID: 2368 | Name: Yellow Lichtern
+Map: ecl_tdun03 | ID: 2370 | Name: Green Lichtern
+Map: ecl_tdun03 | ID: 2371 | Name: Faithful Manager
+Map: ein_dun01 | ID: 1616 | Name: Pitman
+Map: ein_dun01 | ID: 1617 | Name: Old Stove
+Map: ein_dun01 | ID: 1618 | Name: Ungoliant
+Map: ein_dun01 | ID: 1619 | Name: Porcellio
+Map: ein_dun01 | ID: 1620 | Name: Noxious
+Map: ein_dun01 | ID: 1621 | Name: Venomous
+Map: ein_dun01 | ID: 22824 | Name: Trenchor
+Map: ein_dun01 | ID: 22825 | Name: Cinderion
+Map: ein_dun01 | ID: 22826 | Name: Telcar
+Map: ein_dun01 | ID: 22827 | Name: Armadilux
+Map: ein_dun01 | ID: 22828 | Name: Corrodia
+Map: ein_dun01 | ID: 22829 | Name: Serpensol
+Map: ein_dun02 | ID: 1614 | Name: Mineral
+Map: ein_dun02 | ID: 1615 | Name: Obsidian
+Map: ein_dun02 | ID: 1617 | Name: Old Stove
+Map: ein_dun02 | ID: 1622 | Name: Teddy Bear
+Map: ein_dun02 | ID: 1623 | Name: RSX-0806
+Map: ein_dun02 | ID: 22822 | Name: Crystos
+Map: ein_dun02 | ID: 22823 | Name: Voidian
+Map: ein_dun02 | ID: 22825 | Name: Cinderion
+Map: ein_dun02 | ID: 22830 | Name: Stitchen
+Map: ein_fild03 | ID: 1080 | Name: Green Plant
+Map: ein_fild03 | ID: 1081 | Name: Yellow Plant
+Map: ein_fild03 | ID: 1616 | Name: Pitman
+Map: ein_fild03 | ID: 1620 | Name: Noxious
+Map: ein_fild03 | ID: 1621 | Name: Venomous
+Map: ein_fild03 | ID: 1622 | Name: Teddy Bear
+Map: ein_fild03 | ID: 22824 | Name: Trenchor
+Map: ein_fild03 | ID: 22828 | Name: Corrodia
+Map: ein_fild03 | ID: 22829 | Name: Serpensol
+Map: ein_fild03 | ID: 22830 | Name: Stitchen
+Map: ein_fild04 | ID: 1078 | Name: Red Plant
+Map: ein_fild04 | ID: 1080 | Name: Green Plant
+Map: ein_fild04 | ID: 1081 | Name: Yellow Plant
+Map: ein_fild04 | ID: 1378 | Name: Demon Pungus
+Map: ein_fild04 | ID: 1616 | Name: Pitman
+Map: ein_fild04 | ID: 1620 | Name: Noxious
+Map: ein_fild04 | ID: 1621 | Name: Venomous
+Map: ein_fild04 | ID: 1622 | Name: Teddy Bear
+Map: ein_fild04 | ID: 22591 | Name: Sporeus
+Map: ein_fild04 | ID: 22824 | Name: Trenchor
+Map: ein_fild04 | ID: 22828 | Name: Corrodia
+Map: ein_fild04 | ID: 22829 | Name: Serpensol
+Map: ein_fild04 | ID: 22830 | Name: Stitchen
+Map: ein_fild05 | ID: 1378 | Name: Demon Pungus
+Map: ein_fild05 | ID: 1616 | Name: Pitman
+Map: ein_fild05 | ID: 1620 | Name: Noxious
+Map: ein_fild05 | ID: 1621 | Name: Venomous
+Map: ein_fild05 | ID: 1622 | Name: Teddy Bear
+Map: ein_fild05 | ID: 22591 | Name: Sporeus
+Map: ein_fild05 | ID: 22824 | Name: Trenchor
+Map: ein_fild05 | ID: 22828 | Name: Corrodia
+Map: ein_fild05 | ID: 22829 | Name: Serpensol
+Map: ein_fild05 | ID: 22830 | Name: Stitchen
+Map: ein_fild06 | ID: 1078 | Name: Red Plant
+Map: ein_fild06 | ID: 1081 | Name: Yellow Plant
+Map: ein_fild06 | ID: 1613 | Name: Metaling
+Map: ein_fild06 | ID: 1628 | Name: Holden
+Map: ein_fild06 | ID: 22821 | Name: Ferrix
+Map: ein_fild06 | ID: 22836 | Name: Holdor
+Map: ein_fild07 | ID: 1078 | Name: Red Plant
+Map: ein_fild07 | ID: 1081 | Name: Yellow Plant
+Map: ein_fild07 | ID: 1085 | Name: Red Mushroom
+Map: ein_fild07 | ID: 1613 | Name: Metaling
+Map: ein_fild07 | ID: 1618 | Name: Ungoliant
+Map: ein_fild07 | ID: 1619 | Name: Porcellio
+Map: ein_fild07 | ID: 1628 | Name: Holden
+Map: ein_fild07 | ID: 22821 | Name: Ferrix
+Map: ein_fild07 | ID: 22826 | Name: Telcar
+Map: ein_fild07 | ID: 22827 | Name: Armadilux
+Map: ein_fild07 | ID: 22836 | Name: Holdor
+Map: ein_fild08 | ID: 1078 | Name: Red Plant
+Map: ein_fild08 | ID: 1081 | Name: Yellow Plant
+Map: ein_fild08 | ID: 1085 | Name: Red Mushroom
+Map: ein_fild08 | ID: 1613 | Name: Metaling
+Map: ein_fild08 | ID: 1619 | Name: Porcellio
+Map: ein_fild08 | ID: 22821 | Name: Ferrix
+Map: ein_fild08 | ID: 22827 | Name: Armadilux
+Map: ein_fild09 | ID: 1078 | Name: Red Plant
+Map: ein_fild09 | ID: 1081 | Name: Yellow Plant
+Map: ein_fild09 | ID: 1085 | Name: Red Mushroom
+Map: ein_fild09 | ID: 1613 | Name: Metaling
+Map: ein_fild09 | ID: 1619 | Name: Porcellio
+Map: ein_fild09 | ID: 22821 | Name: Ferrix
+Map: ein_fild09 | ID: 22827 | Name: Armadilux
+Map: gef_dun00 | ID: 1031 | Name: Poporing
+Map: gef_dun00 | ID: 1035 | Name: Hunter Fly
+Map: gef_dun00 | ID: 1077 | Name: Poison Spore
+Map: gef_dun00 | ID: 1078 | Name: Red Plant
+Map: gef_dun00 | ID: 1080 | Name: Green Plant
+Map: gef_dun00 | ID: 1081 | Name: Yellow Plant
+Map: gef_dun00 | ID: 1083 | Name: Shining Plant
+Map: gef_dun00 | ID: 1084 | Name: Black Mushroom
+Map: gef_dun00 | ID: 22264 | Name: Poxus
+Map: gef_dun00 | ID: 22268 | Name: Sanguivor
+Map: gef_dun00 | ID: 22308 | Name: Toxifume
+Map: gef_dun01 | ID: 1015 | Name: Zombie
+Map: gef_dun01 | ID: 1036 | Name: Ghoul
+Map: gef_dun01 | ID: 1061 | Name: Nightmare
+Map: gef_dun01 | ID: 1079 | Name: Blue Plant
+Map: gef_dun01 | ID: 1082 | Name: White Plant
+Map: gef_dun01 | ID: 1084 | Name: Black Mushroom
+Map: gef_dun01 | ID: 1111 | Name: Drainliar
+Map: gef_dun01 | ID: 1130 | Name: Jakk
+Map: gef_dun01 | ID: 1389 | Name: Dracula
+Map: gef_dun01 | ID: 22252 | Name: Zomarin
+Map: gef_dun01 | ID: 22269 | Name: Gholast
+Map: gef_dun01 | ID: 22293 | Name: Phantasma
+Map: gef_dun01 | ID: 22342 | Name: Siphylos
+Map: gef_dun01 | ID: 22361 | Name: Jakkar
+Map: gef_dun02 | ID: 1035 | Name: Hunter Fly
+Map: gef_dun02 | ID: 1036 | Name: Ghoul
+Map: gef_dun02 | ID: 1046 | Name: Doppelganger
+Map: gef_dun02 | ID: 1061 | Name: Nightmare
+Map: gef_dun02 | ID: 1082 | Name: White Plant
+Map: gef_dun02 | ID: 1083 | Name: Shining Plant
+Map: gef_dun02 | ID: 1109 | Name: Deviruchi
+Map: gef_dun02 | ID: 1143 | Name: Marionette
+Map: gef_dun02 | ID: 1179 | Name: Whisper
+Map: gef_dun02 | ID: 22268 | Name: Sanguivor
+Map: gef_dun02 | ID: 22269 | Name: Gholast
+Map: gef_dun02 | ID: 22293 | Name: Phantasma
+Map: gef_dun02 | ID: 22340 | Name: Rucifer
+Map: gef_dun02 | ID: 22374 | Name: Marinetta
+Map: gef_dun02 | ID: 22406 | Name: Wispra
+Map: gef_dun03 | ID: 1082 | Name: White Plant
+Map: gef_dun03 | ID: 1083 | Name: Shining Plant
+Map: gef_dun03 | ID: 1192 | Name: Wraith
+Map: gef_dun03 | ID: 1263 | Name: Wind Ghost
+Map: gef_dun03 | ID: 1626 | Name: Hellion Revenant
+Map: gef_dun03 | ID: 22477 | Name: Aeroctus
+Map: gef_fild00 | ID: 1002 | Name: Poring
+Map: gef_fild00 | ID: 1007 | Name: Fabre
+Map: gef_fild00 | ID: 1011 | Name: Chonchon
+Map: gef_fild00 | ID: 1079 | Name: Blue Plant
+Map: gef_fild00 | ID: 1080 | Name: Green Plant
+Map: gef_fild00 | ID: 22241 | Name: Porion
+Map: gef_fild00 | ID: 22244 | Name: Fabron
+Map: gef_fild00 | ID: 22248 | Name: Chonix
+Map: gef_fild01 | ID: 1012 | Name: Roda Frog
+Map: gef_fild01 | ID: 1080 | Name: Green Plant
+Map: gef_fild01 | ID: 1089 | Name: Toad
+Map: gef_fild01 | ID: 1094 | Name: Ambernite
+Map: gef_fild01 | ID: 22249 | Name: Rodagon
+Map: gef_fild01 | ID: 22325 | Name: Ambroxide
+Map: gef_fild02 | ID: 1031 | Name: Poporing
+Map: gef_fild02 | ID: 1033 | Name: Elder Willow
+Map: gef_fild02 | ID: 1079 | Name: Blue Plant
+Map: gef_fild02 | ID: 1080 | Name: Green Plant
+Map: gef_fild02 | ID: 1083 | Name: Shining Plant
+Map: gef_fild02 | ID: 1085 | Name: Red Mushroom
+Map: gef_fild02 | ID: 1104 | Name: Coco
+Map: gef_fild02 | ID: 1128 | Name: Horn
+Map: gef_fild02 | ID: 22264 | Name: Poxus
+Map: gef_fild02 | ID: 22266 | Name: Arborealith
+Map: gef_fild02 | ID: 22335 | Name: Cocovus
+Map: gef_fild02 | ID: 22359 | Name: Hordis
+Map: gef_fild03 | ID: 1023 | Name: Orc Warrior
+Map: gef_fild03 | ID: 1080 | Name: Green Plant
+Map: gef_fild03 | ID: 1087 | Name: Orc Hero
+Map: gef_fild03 | ID: 1273 | Name: Orc Lady
+Map: gef_fild03 | ID: 1686 | Name: Orc Baby
+Map: gef_fild03 | ID: 22257 | Name: Warok
+Map: gef_fild03 | ID: 22487 | Name: Orkina
+Map: gef_fild03 | ID: 22894 | Name: Orctos
+Map: gef_fild04 | ID: 1007 | Name: Fabre
+Map: gef_fild04 | ID: 1011 | Name: Chonchon
+Map: gef_fild04 | ID: 1020 | Name: Mandragora
+Map: gef_fild04 | ID: 1063 | Name: Lunatic
+Map: gef_fild04 | ID: 1080 | Name: Green Plant
+Map: gef_fild04 | ID: 22244 | Name: Fabron
+Map: gef_fild04 | ID: 22248 | Name: Chonix
+Map: gef_fild04 | ID: 22295 | Name: Celestia
+Map: gef_fild05 | ID: 1018 | Name: Creamy
+Map: gef_fild05 | ID: 1048 | Name: Thief Bug Egg
+Map: gef_fild05 | ID: 1051 | Name: Thief Bug
+Map: gef_fild05 | ID: 1056 | Name: Smokie
+Map: gef_fild05 | ID: 1078 | Name: Red Plant
+Map: gef_fild05 | ID: 1174 | Name: Stainer
+Map: gef_fild05 | ID: 22254 | Name: Cremave
+Map: gef_fild05 | ID: 22283 | Name: Skulken
+Map: gef_fild05 | ID: 22288 | Name: Fumajin
+Map: gef_fild05 | ID: 22401 | Name: Steinar
+Map: gef_fild06 | ID: 1037 | Name: Side Winder
+Map: gef_fild06 | ID: 1083 | Name: Shining Plant
+Map: gef_fild06 | ID: 1139 | Name: Mantis
+Map: gef_fild06 | ID: 1155 | Name: Petite
+Map: gef_fild06 | ID: 22270 | Name: Serpentis
+Map: gef_fild06 | ID: 22370 | Name: Mantrix
+Map: gef_fild06 | ID: 22386 | Name: Tytanite
+Map: gef_fild07 | ID: 1002 | Name: Poring
+Map: gef_fild07 | ID: 1007 | Name: Fabre
+Map: gef_fild07 | ID: 1008 | Name: Pupa
+Map: gef_fild07 | ID: 1011 | Name: Chonchon
+Map: gef_fild07 | ID: 1079 | Name: Blue Plant
+Map: gef_fild07 | ID: 1080 | Name: Green Plant
+Map: gef_fild07 | ID: 1083 | Name: Shining Plant
+Map: gef_fild07 | ID: 22241 | Name: Porion
+Map: gef_fild07 | ID: 22244 | Name: Fabron
+Map: gef_fild07 | ID: 22248 | Name: Chonix
+Map: gef_fild08 | ID: 1079 | Name: Blue Plant
+Map: gef_fild08 | ID: 1118 | Name: Flora
+Map: gef_fild08 | ID: 1139 | Name: Mantis
+Map: gef_fild08 | ID: 1156 | Name: Petite
+Map: gef_fild08 | ID: 22349 | Name: Vineria
+Map: gef_fild08 | ID: 22370 | Name: Mantrix
+Map: gef_fild09 | ID: 1012 | Name: Roda Frog
+Map: gef_fild09 | ID: 1079 | Name: Blue Plant
+Map: gef_fild09 | ID: 1085 | Name: Red Mushroom
+Map: gef_fild09 | ID: 1104 | Name: Coco
+Map: gef_fild09 | ID: 22249 | Name: Rodagon
+Map: gef_fild09 | ID: 22335 | Name: Cocovus
+Map: gef_fild10 | ID: 1023 | Name: Orc Warrior
+Map: gef_fild10 | ID: 1079 | Name: Blue Plant
+Map: gef_fild10 | ID: 1080 | Name: Green Plant
+Map: gef_fild10 | ID: 1190 | Name: Orc Lord
+Map: gef_fild10 | ID: 1273 | Name: Orc Lady
+Map: gef_fild10 | ID: 1686 | Name: Orc Baby
+Map: gef_fild10 | ID: 22257 | Name: Warok
+Map: gef_fild10 | ID: 22487 | Name: Orkina
+Map: gef_fild10 | ID: 22894 | Name: Orctos
+Map: gef_fild11 | ID: 1122 | Name: Goblin
+Map: gef_fild11 | ID: 1123 | Name: Goblin
+Map: gef_fild11 | ID: 1124 | Name: Goblin
+Map: gef_fild11 | ID: 1125 | Name: Goblin
+Map: gef_fild11 | ID: 1299 | Name: Goblin Leader
+Map: gef_fild11 | ID: 22512 | Name: Grokkus
+Map: gefenia01 | ID: 1203 | Name: Mysteltainn
+Map: gefenia01 | ID: 1204 | Name: Ogretooth
+Map: gefenia01 | ID: 1205 | Name: Executioner
+Map: gefenia01 | ID: 1219 | Name: Abysmal Knight
+Map: gefenia01 | ID: 1268 | Name: Bloody Knight
+Map: gefenia01 | ID: 1292 | Name: Mini Demon
+Map: gefenia01 | ID: 1370 | Name: Succubus
+Map: gefenia01 | ID: 1371 | Name: False Angel
+Map: gefenia01 | ID: 1374 | Name: Incubus
+Map: gefenia01 | ID: 1390 | Name: Violy
+Map: gefenia01 | ID: 22441 | Name: Abyslor
+Map: gefenia01 | ID: 22482 | Name: Karmasin
+Map: gefenia01 | ID: 22505 | Name: Malakor
+Map: gefenia01 | ID: 22583 | Name: Succhara
+Map: gefenia01 | ID: 22584 | Name: Malachus
+Map: gefenia01 | ID: 22587 | Name: Incarnus
+Map: gefenia01 | ID: 22603 | Name: Vioris
+Map: gefenia02 | ID: 1203 | Name: Mysteltainn
+Map: gefenia02 | ID: 1204 | Name: Ogretooth
+Map: gefenia02 | ID: 1205 | Name: Executioner
+Map: gefenia02 | ID: 1219 | Name: Abysmal Knight
+Map: gefenia02 | ID: 1268 | Name: Bloody Knight
+Map: gefenia02 | ID: 1292 | Name: Mini Demon
+Map: gefenia02 | ID: 1370 | Name: Succubus
+Map: gefenia02 | ID: 1371 | Name: False Angel
+Map: gefenia02 | ID: 1374 | Name: Incubus
+Map: gefenia02 | ID: 1390 | Name: Violy
+Map: gefenia02 | ID: 22441 | Name: Abyslor
+Map: gefenia02 | ID: 22482 | Name: Karmasin
+Map: gefenia02 | ID: 22505 | Name: Malakor
+Map: gefenia02 | ID: 22583 | Name: Succhara
+Map: gefenia02 | ID: 22584 | Name: Malachus
+Map: gefenia02 | ID: 22587 | Name: Incarnus
+Map: gefenia02 | ID: 22603 | Name: Vioris
+Map: gefenia03 | ID: 1203 | Name: Mysteltainn
+Map: gefenia03 | ID: 1204 | Name: Ogretooth
+Map: gefenia03 | ID: 1205 | Name: Executioner
+Map: gefenia03 | ID: 1219 | Name: Abysmal Knight
+Map: gefenia03 | ID: 1268 | Name: Bloody Knight
+Map: gefenia03 | ID: 1292 | Name: Mini Demon
+Map: gefenia03 | ID: 1370 | Name: Succubus
+Map: gefenia03 | ID: 1371 | Name: False Angel
+Map: gefenia03 | ID: 1374 | Name: Incubus
+Map: gefenia03 | ID: 1390 | Name: Violy
+Map: gefenia03 | ID: 22441 | Name: Abyslor
+Map: gefenia03 | ID: 22482 | Name: Karmasin
+Map: gefenia03 | ID: 22505 | Name: Malakor
+Map: gefenia03 | ID: 22583 | Name: Succhara
+Map: gefenia03 | ID: 22584 | Name: Malachus
+Map: gefenia03 | ID: 22587 | Name: Incarnus
+Map: gefenia03 | ID: 22603 | Name: Vioris
+Map: gefenia04 | ID: 1203 | Name: Mysteltainn
+Map: gefenia04 | ID: 1204 | Name: Ogretooth
+Map: gefenia04 | ID: 1205 | Name: Executioner
+Map: gefenia04 | ID: 1219 | Name: Abysmal Knight
+Map: gefenia04 | ID: 1268 | Name: Bloody Knight
+Map: gefenia04 | ID: 1292 | Name: Mini Demon
+Map: gefenia04 | ID: 1370 | Name: Succubus
+Map: gefenia04 | ID: 1371 | Name: False Angel
+Map: gefenia04 | ID: 1374 | Name: Incubus
+Map: gefenia04 | ID: 1390 | Name: Violy
+Map: gefenia04 | ID: 22441 | Name: Abyslor
+Map: gefenia04 | ID: 22482 | Name: Karmasin
+Map: gefenia04 | ID: 22505 | Name: Malakor
+Map: gefenia04 | ID: 22583 | Name: Succhara
+Map: gefenia04 | ID: 22584 | Name: Malachus
+Map: gefenia04 | ID: 22587 | Name: Incarnus
+Map: gefenia04 | ID: 22603 | Name: Vioris
+Map: gl_cas01 | ID: 1179 | Name: Whisper
+Map: gl_cas01 | ID: 1195 | Name: Rideword
+Map: gl_cas01 | ID: 1260 | Name: Dark Frame
+Map: gl_cas01 | ID: 1267 | Name: Carat
+Map: gl_cas01 | ID: 1275 | Name: Alice
+Map: gl_cas01 | ID: 1281 | Name: Sage Worm
+Map: gl_cas01 | ID: 1295 | Name: Owl Baron
+Map: gl_cas01 | ID: 1320 | Name: Owl Duke
+Map: gl_cas01 | ID: 22406 | Name: Wispra
+Map: gl_cas01 | ID: 22420 | Name: Codexia
+Map: gl_cas01 | ID: 22474 | Name: Nyxframe
+Map: gl_cas01 | ID: 22481 | Name: Kryllos
+Map: gl_cas01 | ID: 22489 | Name: Aelise
+Map: gl_cas01 | ID: 22495 | Name: Luminarix
+Map: gl_cas02 | ID: 1117 | Name: Evil Druid
+Map: gl_cas02 | ID: 1132 | Name: Khalitzburg
+Map: gl_cas02 | ID: 1163 | Name: Raydric
+Map: gl_cas02 | ID: 1185 | Name: Whisper
+Map: gl_cas02 | ID: 1191 | Name: Mimic
+Map: gl_cas02 | ID: 1195 | Name: Rideword
+Map: gl_cas02 | ID: 1203 | Name: Mysteltainn
+Map: gl_cas02 | ID: 1204 | Name: Ogretooth
+Map: gl_cas02 | ID: 1208 | Name: Wanderer
+Map: gl_cas02 | ID: 1219 | Name: Abysmal Knight
+Map: gl_cas02 | ID: 1275 | Name: Alice
+Map: gl_cas02 | ID: 1276 | Name: Raydric Archer
+Map: gl_cas02 | ID: 1283 | Name: Chimera
+Map: gl_cas02 | ID: 22348 | Name: Malefor
+Map: gl_cas02 | ID: 22363 | Name: Khalizent
+Map: gl_cas02 | ID: 22394 | Name: Raydenn
+Map: gl_cas02 | ID: 22416 | Name: Illusorym
+Map: gl_cas02 | ID: 22420 | Name: Codexia
+Map: gl_cas02 | ID: 22433 | Name: Vagus
+Map: gl_cas02 | ID: 22441 | Name: Abyslor
+Map: gl_cas02 | ID: 22489 | Name: Aelise
+Map: gl_cas02 | ID: 22490 | Name: Raydrixor
+Map: gl_church | ID: 1117 | Name: Evil Druid
+Map: gl_church | ID: 1191 | Name: Mimic
+Map: gl_church | ID: 1192 | Name: Wraith
+Map: gl_church | ID: 22348 | Name: Malefor
+Map: gl_church | ID: 22416 | Name: Illusorym
+Map: gl_chyard | ID: 1035 | Name: Hunter Fly
+Map: gl_chyard | ID: 1117 | Name: Evil Druid
+Map: gl_chyard | ID: 1191 | Name: Mimic
+Map: gl_chyard | ID: 1192 | Name: Wraith
+Map: gl_chyard | ID: 1198 | Name: Dark Priest
+Map: gl_chyard | ID: 1272 | Name: Dark Lord
+Map: gl_chyard | ID: 1302 | Name: Dark Illusion
+Map: gl_chyard | ID: 22268 | Name: Sanguivor
+Map: gl_chyard | ID: 22348 | Name: Malefor
+Map: gl_chyard | ID: 22416 | Name: Illusorym
+Map: gl_chyard | ID: 22423 | Name: Malignus
+Map: gl_dun01 | ID: 1194 | Name: Arclouze
+Map: gl_dun01 | ID: 1207 | Name: Sting
+Map: gl_dun01 | ID: 22419 | Name: Arclorax
+Map: gl_dun01 | ID: 22432 | Name: Venix
+Map: gl_dun02 | ID: 1253 | Name: Gargoyle
+Map: gl_dun02 | ID: 1310 | Name: Majoruros
+Map: gl_dun02 | ID: 22467 | Name: Garnor
+Map: gl_dun02 | ID: 22523 | Name: Majurolix
+Map: gl_in01 | ID: 1143 | Name: Marionette
+Map: gl_in01 | ID: 1195 | Name: Rideword
+Map: gl_in01 | ID: 1208 | Name: Wanderer
+Map: gl_in01 | ID: 1260 | Name: Dark Frame
+Map: gl_in01 | ID: 1275 | Name: Alice
+Map: gl_in01 | ID: 1281 | Name: Sage Worm
+Map: gl_in01 | ID: 22374 | Name: Marinetta
+Map: gl_in01 | ID: 22420 | Name: Codexia
+Map: gl_in01 | ID: 22433 | Name: Vagus
+Map: gl_in01 | ID: 22474 | Name: Nyxframe
+Map: gl_in01 | ID: 22489 | Name: Aelise
+Map: gl_in01 | ID: 22495 | Name: Luminarix
+Map: gl_knt01 | ID: 1084 | Name: Black Mushroom
+Map: gl_knt01 | ID: 1132 | Name: Khalitzburg
+Map: gl_knt01 | ID: 1163 | Name: Raydric
+Map: gl_knt01 | ID: 1186 | Name: Giant Whisper
+Map: gl_knt01 | ID: 1195 | Name: Rideword
+Map: gl_knt01 | ID: 1219 | Name: Abysmal Knight
+Map: gl_knt01 | ID: 1275 | Name: Alice
+Map: gl_knt01 | ID: 1276 | Name: Raydric Archer
+Map: gl_knt01 | ID: 22363 | Name: Khalizent
+Map: gl_knt01 | ID: 22394 | Name: Raydenn
+Map: gl_knt01 | ID: 22420 | Name: Codexia
+Map: gl_knt01 | ID: 22441 | Name: Abyslor
+Map: gl_knt01 | ID: 22489 | Name: Aelise
+Map: gl_knt01 | ID: 22490 | Name: Raydrixor
+Map: gl_knt02 | ID: 1132 | Name: Khalitzburg
+Map: gl_knt02 | ID: 1163 | Name: Raydric
+Map: gl_knt02 | ID: 1203 | Name: Mysteltainn
+Map: gl_knt02 | ID: 1219 | Name: Abysmal Knight
+Map: gl_knt02 | ID: 1268 | Name: Bloody Knight
+Map: gl_knt02 | ID: 1275 | Name: Alice
+Map: gl_knt02 | ID: 1276 | Name: Raydric Archer
+Map: gl_knt02 | ID: 22363 | Name: Khalizent
+Map: gl_knt02 | ID: 22394 | Name: Raydenn
+Map: gl_knt02 | ID: 22441 | Name: Abyslor
+Map: gl_knt02 | ID: 22482 | Name: Karmasin
+Map: gl_knt02 | ID: 22489 | Name: Aelise
+Map: gl_knt02 | ID: 22490 | Name: Raydrixor
+Map: gl_prison | ID: 1035 | Name: Hunter Fly
+Map: gl_prison | ID: 1197 | Name: Zombie Prisoner
+Map: gl_prison | ID: 1201 | Name: Rybio
+Map: gl_prison | ID: 1257 | Name: Injustice
+Map: gl_prison | ID: 22268 | Name: Sanguivor
+Map: gl_prison | ID: 22422 | Name: Putricage
+Map: gl_prison | ID: 22426 | Name: Rybex
+Map: gl_prison | ID: 22471 | Name: Doomen
+Map: gl_prison1 | ID: 1035 | Name: Hunter Fly
+Map: gl_prison1 | ID: 1196 | Name: Skeleton Prisoner
+Map: gl_prison1 | ID: 1200 | Name: Zealotus
+Map: gl_prison1 | ID: 1201 | Name: Rybio
+Map: gl_prison1 | ID: 1202 | Name: Phendark
+Map: gl_prison1 | ID: 1209 | Name: Cramp
+Map: gl_prison1 | ID: 1257 | Name: Injustice
+Map: gl_prison1 | ID: 22268 | Name: Sanguivor
+Map: gl_prison1 | ID: 22421 | Name: Skelock
+Map: gl_prison1 | ID: 22425 | Name: Zelatiel
+Map: gl_prison1 | ID: 22426 | Name: Rybex
+Map: gl_prison1 | ID: 22427 | Name: Phenomyr
+Map: gl_prison1 | ID: 22434 | Name: Spasmon
+Map: gl_prison1 | ID: 22471 | Name: Doomen
+Map: gl_sew01 | ID: 1179 | Name: Whisper
+Map: gl_sew01 | ID: 1194 | Name: Arclouze
+Map: gl_sew01 | ID: 1253 | Name: Gargoyle
+Map: gl_sew01 | ID: 22406 | Name: Wispra
+Map: gl_sew01 | ID: 22419 | Name: Arclorax
+Map: gl_sew01 | ID: 22467 | Name: Garnor
+Map: gl_sew02 | ID: 1209 | Name: Cramp
+Map: gl_sew02 | ID: 1253 | Name: Gargoyle
+Map: gl_sew02 | ID: 22434 | Name: Spasmon
+Map: gl_sew02 | ID: 22467 | Name: Garnor
+Map: gl_sew03 | ID: 1207 | Name: Sting
+Map: gl_sew03 | ID: 1253 | Name: Gargoyle
+Map: gl_sew03 | ID: 22432 | Name: Venix
+Map: gl_sew03 | ID: 22467 | Name: Garnor
+Map: gl_sew04 | ID: 1111 | Name: Drainliar
+Map: gl_sew04 | ID: 1206 | Name: Anolian
+Map: gl_sew04 | ID: 1253 | Name: Gargoyle
+Map: gl_sew04 | ID: 22342 | Name: Siphylos
+Map: gl_sew04 | ID: 22431 | Name: Anodra
+Map: gl_sew04 | ID: 22467 | Name: Garnor
+Map: gl_step | ID: 1191 | Name: Mimic
+Map: gl_step | ID: 1263 | Name: Wind Ghost
+Map: gl_step | ID: 1276 | Name: Raydric Archer
+Map: gl_step | ID: 22416 | Name: Illusorym
+Map: gl_step | ID: 22477 | Name: Aeroctus
+Map: gl_step | ID: 22490 | Name: Raydrixor
+Map: glast_01 | ID: 1079 | Name: Blue Plant
+Map: glast_01 | ID: 1080 | Name: Green Plant
+Map: glast_01 | ID: 1083 | Name: Shining Plant
+Map: glast_01 | ID: 1219 | Name: Abysmal Knight
+Map: glast_01 | ID: 1253 | Name: Gargoyle
+Map: glast_01 | ID: 22441 | Name: Abyslor
+Map: glast_01 | ID: 22467 | Name: Garnor
+Map: gon_dun01 | ID: 1078 | Name: Red Plant
+Map: gon_dun01 | ID: 1081 | Name: Yellow Plant
+Map: gon_dun01 | ID: 1082 | Name: White Plant
+Map: gon_dun01 | ID: 1408 | Name: Bloody Butterfly
+Map: gon_dun01 | ID: 1410 | Name: Enchanted Peach Tree
+Map: gon_dun01 | ID: 1417 | Name: Zipper Bear
+Map: gon_dun01 | ID: 22620 | Name: Crimsona
+Map: gon_dun01 | ID: 22622 | Name: Aetherbloom
+Map: gon_dun01 | ID: 22627 | Name: Cogmaw
+Map: gon_dun02 | ID: 1081 | Name: Yellow Plant
+Map: gon_dun02 | ID: 1408 | Name: Bloody Butterfly
+Map: gon_dun02 | ID: 1410 | Name: Enchanted Peach Tree
+Map: gon_dun02 | ID: 1412 | Name: Taoist Hermit
+Map: gon_dun02 | ID: 1415 | Name: Baby Leopard
+Map: gon_dun02 | ID: 22620 | Name: Crimsona
+Map: gon_dun02 | ID: 22622 | Name: Aetherbloom
+Map: gon_dun02 | ID: 22623 | Name: Wuzhen
+Map: gon_dun02 | ID: 22625 | Name: Jaguardian
+Map: gon_dun03 | ID: 1082 | Name: White Plant
+Map: gon_dun03 | ID: 1412 | Name: Taoist Hermit
+Map: gon_dun03 | ID: 1413 | Name: Hermit Plant
+Map: gon_dun03 | ID: 1416 | Name: Evil Nymph
+Map: gon_dun03 | ID: 1418 | Name: Evil Snake Lord
+Map: gon_dun03 | ID: 22623 | Name: Wuzhen
+Map: gon_dun03 | ID: 22624 | Name: Cryptoflora
+Map: gon_dun03 | ID: 22626 | Name: Maladyn
+Map: gon_fild01 | ID: 1037 | Name: Side Winder
+Map: gon_fild01 | ID: 1080 | Name: Green Plant
+Map: gon_fild01 | ID: 1083 | Name: Shining Plant
+Map: gon_fild01 | ID: 1409 | Name: Dumpling Child
+Map: gon_fild01 | ID: 1415 | Name: Baby Leopard
+Map: gon_fild01 | ID: 22270 | Name: Serpentis
+Map: gon_fild01 | ID: 22621 | Name: Mantoku
+Map: gon_fild01 | ID: 22625 | Name: Jaguardian
+Map: hu_fild01 | ID: 1368 | Name: Geographer
+Map: hu_fild01 | ID: 1715 | Name: Novus
+Map: hu_fild01 | ID: 1718 | Name: Novus
+Map: hu_fild01 | ID: 1721 | Name: Dragon Egg
+Map: hu_fild01 | ID: 22581 | Name: Geodius
+Map: hu_fild01 | ID: 22923 | Name: Novalyn
+Map: hu_fild02 | ID: 1259 | Name: Gryphon
+Map: hu_fild02 | ID: 1368 | Name: Geographer
+Map: hu_fild02 | ID: 1715 | Name: Novus
+Map: hu_fild02 | ID: 1718 | Name: Novus
+Map: hu_fild02 | ID: 1721 | Name: Dragon Egg
+Map: hu_fild02 | ID: 22581 | Name: Geodius
+Map: hu_fild02 | ID: 22923 | Name: Novalyn
+Map: hu_fild04 | ID: 1079 | Name: Blue Plant
+Map: hu_fild04 | ID: 1081 | Name: Yellow Plant
+Map: hu_fild04 | ID: 1368 | Name: Geographer
+Map: hu_fild04 | ID: 1715 | Name: Novus
+Map: hu_fild04 | ID: 1718 | Name: Novus
+Map: hu_fild04 | ID: 1721 | Name: Dragon Egg
+Map: hu_fild04 | ID: 22581 | Name: Geodius
+Map: hu_fild04 | ID: 22923 | Name: Novalyn
+Map: hu_fild05 | ID: 1715 | Name: Novus
+Map: hu_fild05 | ID: 1718 | Name: Novus
+Map: hu_fild05 | ID: 1721 | Name: Dragon Egg
+Map: hu_fild05 | ID: 22923 | Name: Novalyn
+Map: hu_fild06 | ID: 1073 | Name: Crab
+Map: hu_fild06 | ID: 1074 | Name: Shellfish
+Map: hu_fild06 | ID: 1080 | Name: Green Plant
+Map: hu_fild06 | ID: 1081 | Name: Yellow Plant
+Map: hu_fild06 | ID: 1266 | Name: Aster
+Map: hu_fild06 | ID: 22305 | Name: Carapax
+Map: hu_fild06 | ID: 22306 | Name: Skelldra
+Map: hu_fild06 | ID: 22480 | Name: Astralit
+Map: ice_dun01 | ID: 1776 | Name: Siroma
+Map: ice_dun01 | ID: 1778 | Name: Gazeti
+Map: ice_dun01 | ID: 1780 | Name: Muscipular
+Map: ice_dun01 | ID: 1782 | Name: Roween
+Map: ice_dun01 | ID: 22984 | Name: Siramic
+Map: ice_dun01 | ID: 22986 | Name: Gazarr
+Map: ice_dun01 | ID: 22988 | Name: Musciprex
+Map: ice_dun01 | ID: 22990 | Name: Rovenar
+Map: ice_dun02 | ID: 1775 | Name: Snowier
+Map: ice_dun02 | ID: 1776 | Name: Siroma
+Map: ice_dun02 | ID: 1777 | Name: Ice Titan
+Map: ice_dun02 | ID: 1778 | Name: Gazeti
+Map: ice_dun02 | ID: 1789 | Name: Iceicle
+Map: ice_dun02 | ID: 22983 | Name: Niveon
+Map: ice_dun02 | ID: 22984 | Name: Siramic
+Map: ice_dun02 | ID: 22985 | Name: Cryovast
+Map: ice_dun02 | ID: 22986 | Name: Gazarr
+Map: ice_dun03 | ID: 1775 | Name: Snowier
+Map: ice_dun03 | ID: 1777 | Name: Ice Titan
+Map: ice_dun03 | ID: 1778 | Name: Gazeti
+Map: ice_dun03 | ID: 1789 | Name: Iceicle
+Map: ice_dun03 | ID: 22983 | Name: Niveon
+Map: ice_dun03 | ID: 22985 | Name: Cryovast
+Map: ice_dun03 | ID: 22986 | Name: Gazarr
+Map: in_sphinx1 | ID: 1111 | Name: Drainliar
+Map: in_sphinx1 | ID: 1146 | Name: Matyr
+Map: in_sphinx1 | ID: 1164 | Name: Requiem
+Map: in_sphinx1 | ID: 1178 | Name: Zerom
+Map: in_sphinx1 | ID: 22342 | Name: Siphylos
+Map: in_sphinx1 | ID: 22377 | Name: Maltyr
+Map: in_sphinx1 | ID: 22395 | Name: Quiescent
+Map: in_sphinx1 | ID: 22405 | Name: Zerath
+Map: in_sphinx2 | ID: 1111 | Name: Drainliar
+Map: in_sphinx2 | ID: 1146 | Name: Matyr
+Map: in_sphinx2 | ID: 1164 | Name: Requiem
+Map: in_sphinx2 | ID: 1178 | Name: Zerom
+Map: in_sphinx2 | ID: 22342 | Name: Siphylos
+Map: in_sphinx2 | ID: 22377 | Name: Maltyr
+Map: in_sphinx2 | ID: 22395 | Name: Quiescent
+Map: in_sphinx2 | ID: 22405 | Name: Zerath
+Map: in_sphinx3 | ID: 1140 | Name: Marduk
+Map: in_sphinx3 | ID: 1146 | Name: Matyr
+Map: in_sphinx3 | ID: 1154 | Name: Pasana
+Map: in_sphinx3 | ID: 1191 | Name: Mimic
+Map: in_sphinx3 | ID: 22371 | Name: Marzorn
+Map: in_sphinx3 | ID: 22377 | Name: Maltyr
+Map: in_sphinx3 | ID: 22385 | Name: Sarphana
+Map: in_sphinx3 | ID: 22416 | Name: Illusorym
+Map: in_sphinx4 | ID: 1098 | Name: Anubis
+Map: in_sphinx4 | ID: 1149 | Name: Minorous
+Map: in_sphinx4 | ID: 1154 | Name: Pasana
+Map: in_sphinx4 | ID: 1191 | Name: Mimic
+Map: in_sphinx4 | ID: 22329 | Name: Anubyr
+Map: in_sphinx4 | ID: 22380 | Name: Minotrax
+Map: in_sphinx4 | ID: 22385 | Name: Sarphana
+Map: in_sphinx4 | ID: 22416 | Name: Illusorym
+Map: in_sphinx5 | ID: 1037 | Name: Side Winder
+Map: in_sphinx5 | ID: 1098 | Name: Anubis
+Map: in_sphinx5 | ID: 1146 | Name: Matyr
+Map: in_sphinx5 | ID: 1154 | Name: Pasana
+Map: in_sphinx5 | ID: 1157 | Name: Pharaoh
+Map: in_sphinx5 | ID: 1191 | Name: Mimic
+Map: in_sphinx5 | ID: 22270 | Name: Serpentis
+Map: in_sphinx5 | ID: 22329 | Name: Anubyr
+Map: in_sphinx5 | ID: 22377 | Name: Maltyr
+Map: in_sphinx5 | ID: 22385 | Name: Sarphana
+Map: in_sphinx5 | ID: 22416 | Name: Illusorym
+Map: int_land | ID: 1002 | Name: Poring
+Map: int_land01 | ID: 1002 | Name: Poring
+Map: int_land02 | ID: 1002 | Name: Poring
+Map: int_land03 | ID: 1002 | Name: Poring
+Map: int_land04 | ID: 1002 | Name: Poring
+Map: iz_dun00 | ID: 1066 | Name: Vadon
+Map: iz_dun00 | ID: 1068 | Name: Hydra
+Map: iz_dun00 | ID: 1070 | Name: Kukre
+Map: iz_dun00 | ID: 1084 | Name: Black Mushroom
+Map: iz_dun00 | ID: 1141 | Name: Marina
+Map: iz_dun00 | ID: 1161 | Name: Plankton
+Map: iz_dun00 | ID: 22298 | Name: Vandrus
+Map: iz_dun00 | ID: 22302 | Name: Kryxus
+Map: iz_dun00 | ID: 22372 | Name: Marisyn
+Map: iz_dun00 | ID: 22392 | Name: Aqualith
+Map: iz_dun01 | ID: 1066 | Name: Vadon
+Map: iz_dun01 | ID: 1067 | Name: Cornutus
+Map: iz_dun01 | ID: 1068 | Name: Hydra
+Map: iz_dun01 | ID: 1070 | Name: Kukre
+Map: iz_dun01 | ID: 1084 | Name: Black Mushroom
+Map: iz_dun01 | ID: 1141 | Name: Marina
+Map: iz_dun01 | ID: 1161 | Name: Plankton
+Map: iz_dun01 | ID: 22298 | Name: Vandrus
+Map: iz_dun01 | ID: 22299 | Name: Nucornus
+Map: iz_dun01 | ID: 22302 | Name: Kryxus
+Map: iz_dun01 | ID: 22372 | Name: Marisyn
+Map: iz_dun01 | ID: 22392 | Name: Aqualith
+Map: iz_dun02 | ID: 1044 | Name: Obeaune
+Map: iz_dun02 | ID: 1067 | Name: Cornutus
+Map: iz_dun02 | ID: 1068 | Name: Hydra
+Map: iz_dun02 | ID: 1084 | Name: Black Mushroom
+Map: iz_dun02 | ID: 1144 | Name: Marse
+Map: iz_dun02 | ID: 1264 | Name: Merman
+Map: iz_dun02 | ID: 22276 | Name: Obeauter
+Map: iz_dun02 | ID: 22299 | Name: Nucornus
+Map: iz_dun02 | ID: 22375 | Name: Marsor
+Map: iz_dun02 | ID: 22478 | Name: Maridox
+Map: iz_dun03 | ID: 1045 | Name: Marc
+Map: iz_dun03 | ID: 1068 | Name: Hydra
+Map: iz_dun03 | ID: 1069 | Name: Swordfish
+Map: iz_dun03 | ID: 1142 | Name: Marine Sphere
+Map: iz_dun03 | ID: 1158 | Name: Phen
+Map: iz_dun03 | ID: 1264 | Name: Merman
+Map: iz_dun03 | ID: 22277 | Name: Marctos
+Map: iz_dun03 | ID: 22301 | Name: Sordex
+Map: iz_dun03 | ID: 22389 | Name: Aetheron
+Map: iz_dun03 | ID: 22478 | Name: Maridox
+Map: iz_dun04 | ID: 1065 | Name: Strouf
+Map: iz_dun04 | ID: 1068 | Name: Hydra
+Map: iz_dun04 | ID: 1069 | Name: Swordfish
+Map: iz_dun04 | ID: 1108 | Name: Deviace
+Map: iz_dun04 | ID: 1142 | Name: Marine Sphere
+Map: iz_dun04 | ID: 1264 | Name: Merman
+Map: iz_dun04 | ID: 22297 | Name: Struftus
+Map: iz_dun04 | ID: 22301 | Name: Sordex
+Map: iz_dun04 | ID: 22339 | Name: Chaotrix
+Map: iz_dun04 | ID: 22478 | Name: Maridox
+Map: iz_dun05 | ID: 2198 | Name: King Dramoh
+Map: iz_dun05 | ID: 2201 | Name: Sropho
+Map: iz_dun05 | ID: 2202 | Name: Kraken
+Map: iz_dun05 | ID: 2203 | Name: Pot Dofle
+Map: iz_dun05 | ID: 2204 | Name: Sedora
+Map: iz_dun05 | ID: 23384 | Name: Srophyx
+Map: iz_dun05 | ID: 23386 | Name: Crucible Dofle
+Map: iz_dun05 | ID: 23387 | Name: Sedorax
+Map: jupe_core | ID: 1668 | Name: Archdam
+Map: jupe_core | ID: 1670 | Name: Dimik
+Map: jupe_core | ID: 1671 | Name: Dimik
+Map: jupe_core | ID: 1672 | Name: Dimik
+Map: jupe_core | ID: 1673 | Name: Dimik
+Map: jupe_core | ID: 1676 | Name: Venatu
+Map: jupe_core | ID: 1677 | Name: Venatu
+Map: jupe_core | ID: 1678 | Name: Venatu
+Map: jupe_core | ID: 1685 | Name: Vesper
+Map: jupe_core | ID: 22876 | Name: Archaos
+Map: juperos_01 | ID: 1670 | Name: Dimik
+Map: juperos_01 | ID: 1671 | Name: Dimik
+Map: juperos_01 | ID: 1672 | Name: Dimik
+Map: juperos_01 | ID: 1673 | Name: Dimik
+Map: juperos_01 | ID: 1676 | Name: Venatu
+Map: juperos_01 | ID: 1677 | Name: Venatu
+Map: juperos_01 | ID: 1678 | Name: Venatu
+Map: juperos_01 | ID: 1679 | Name: Venatu
+Map: juperos_02 | ID: 1365 | Name: Apocalypse
+Map: juperos_02 | ID: 1676 | Name: Venatu
+Map: juperos_02 | ID: 1677 | Name: Venatu
+Map: juperos_02 | ID: 1678 | Name: Venatu
+Map: juperos_02 | ID: 1679 | Name: Venatu
+Map: juperos_02 | ID: 22578 | Name: Apocalyzar
+Map: kh_dun01 | ID: 1275 | Name: Alice
+Map: kh_dun01 | ID: 1735 | Name: Alicel
+Map: kh_dun01 | ID: 1736 | Name: Aliot
+Map: kh_dun01 | ID: 1737 | Name: Aliza
+Map: kh_dun01 | ID: 1738 | Name: Constant
+Map: kh_dun01 | ID: 1745 | Name: Constant
+Map: kh_dun01 | ID: 22489 | Name: Aelise
+Map: kh_dun01 | ID: 22943 | Name: Aliciael
+Map: kh_dun01 | ID: 22944 | Name: Alistor
+Map: kh_dun01 | ID: 22945 | Name: Azalian
+Map: kh_dun01 | ID: 22946 | Name: Constelos
+Map: kh_dun02 | ID: 1734 | Name: Kiel D-01
+Map: kh_dun02 | ID: 1735 | Name: Alicel
+Map: kh_dun02 | ID: 1736 | Name: Aliot
+Map: kh_dun02 | ID: 1737 | Name: Aliza
+Map: kh_dun02 | ID: 1738 | Name: Constant
+Map: kh_dun02 | ID: 1745 | Name: Constant
+Map: kh_dun02 | ID: 22943 | Name: Aliciael
+Map: kh_dun02 | ID: 22944 | Name: Alistor
+Map: kh_dun02 | ID: 22945 | Name: Azalian
+Map: kh_dun02 | ID: 22946 | Name: Constelos
+Map: kh_kiehl01 | ID: 1735 | Name: Alicel
+Map: kh_kiehl01 | ID: 1736 | Name: Aliot
+Map: kh_kiehl01 | ID: 1737 | Name: Aliza
+Map: kh_kiehl01 | ID: 1739 | Name: Alicel
+Map: kh_kiehl01 | ID: 1740 | Name: Aliot
+Map: kh_kiehl01 | ID: 1745 | Name: Constant
+Map: kh_kiehl01 | ID: 1746 | Name: Aliza
+Map: kh_kiehl01 | ID: 22943 | Name: Aliciael
+Map: kh_kiehl01 | ID: 22944 | Name: Alistor
+Map: kh_kiehl01 | ID: 22945 | Name: Azalian
+Map: lhz_dun01 | ID: 1613 | Name: Metaling
+Map: lhz_dun01 | ID: 1627 | Name: Anopheles
+Map: lhz_dun01 | ID: 1652 | Name: Egnigem Cenia
+Map: lhz_dun01 | ID: 1653 | Name: Wickebine Tres
+Map: lhz_dun01 | ID: 1654 | Name: Armeyer Dinze
+Map: lhz_dun01 | ID: 1655 | Name: Errende Ebecee
+Map: lhz_dun01 | ID: 1656 | Name: Kavach Icarus
+Map: lhz_dun01 | ID: 1657 | Name: Laurell Weinder
+Map: lhz_dun01 | ID: 1681 | Name: Gemini-S58
+Map: lhz_dun01 | ID: 1682 | Name: Remover
+Map: lhz_dun01 | ID: 22821 | Name: Ferrix
+Map: lhz_dun01 | ID: 22835 | Name: Anophelum
+Map: lhz_dun01 | ID: 22860 | Name: Aegnum
+Map: lhz_dun01 | ID: 22861 | Name: Wickebis
+Map: lhz_dun01 | ID: 22862 | Name: Armezar
+Map: lhz_dun01 | ID: 22863 | Name: Ebexon
+Map: lhz_dun01 | ID: 22864 | Name: Kavox
+Map: lhz_dun01 | ID: 22865 | Name: Laurix
+Map: lhz_dun01 | ID: 22890 | Name: Revoker
+Map: lhz_dun02 | ID: 1635 | Name: Eremes Guile
+Map: lhz_dun02 | ID: 1652 | Name: Egnigem Cenia
+Map: lhz_dun02 | ID: 1653 | Name: Wickebine Tres
+Map: lhz_dun02 | ID: 1654 | Name: Armeyer Dinze
+Map: lhz_dun02 | ID: 1655 | Name: Errende Ebecee
+Map: lhz_dun02 | ID: 1656 | Name: Kavach Icarus
+Map: lhz_dun02 | ID: 1657 | Name: Laurell Weinder
+Map: lhz_dun02 | ID: 1658 | Name: Egnigem Cenia
+Map: lhz_dun02 | ID: 1681 | Name: Gemini-S58
+Map: lhz_dun02 | ID: 1682 | Name: Remover
+Map: lhz_dun02 | ID: 22843 | Name: Eremes Lyre
+Map: lhz_dun02 | ID: 22860 | Name: Aegnum
+Map: lhz_dun02 | ID: 22861 | Name: Wickebis
+Map: lhz_dun02 | ID: 22862 | Name: Armezar
+Map: lhz_dun02 | ID: 22863 | Name: Ebexon
+Map: lhz_dun02 | ID: 22864 | Name: Kavox
+Map: lhz_dun02 | ID: 22865 | Name: Laurix
+Map: lhz_dun02 | ID: 22890 | Name: Revoker
+Map: lhz_dun03 | ID: 1634 | Name: Seyren Windsor
+Map: lhz_dun03 | ID: 1635 | Name: Eremes Guile
+Map: lhz_dun03 | ID: 1636 | Name: Howard Alt-Eisen
+Map: lhz_dun03 | ID: 1637 | Name: Margaretha Sorin
+Map: lhz_dun03 | ID: 1638 | Name: Cecil Damon
+Map: lhz_dun03 | ID: 1639 | Name: Kathryne Keyron
+Map: lhz_dun03 | ID: 1640 | Name: Lord Knight Seyren
+Map: lhz_dun03 | ID: 1641 | Name: Assassin Cross Eremes
+Map: lhz_dun03 | ID: 1642 | Name: Whitesmith Howard
+Map: lhz_dun03 | ID: 1643 | Name: High Priest Margaretha
+Map: lhz_dun03 | ID: 1644 | Name: Sniper Cecil
+Map: lhz_dun03 | ID: 1645 | Name: High Wizard Kathryne
+Map: lhz_dun03 | ID: 22842 | Name: Syrindor
+Map: lhz_dun03 | ID: 22843 | Name: Eremes Lyre
+Map: lhz_dun03 | ID: 22844 | Name: Eisenhart
+Map: lhz_dun03 | ID: 22845 | Name: Margaros
+Map: lhz_dun03 | ID: 22846 | Name: Celeris
+Map: lhz_dun03 | ID: 22847 | Name: Kathron
+Map: lhz_dun04 | ID: 2221 | Name: Randel
+Map: lhz_dun04 | ID: 2222 | Name: Flamel
+Map: lhz_dun04 | ID: 2223 | Name: Celia
+Map: lhz_dun04 | ID: 2224 | Name: Chen
+Map: lhz_dun04 | ID: 2225 | Name: Gertie
+Map: lhz_dun04 | ID: 2226 | Name: Alphoccio
+Map: lhz_dun04 | ID: 2227 | Name: Trentini
+Map: lhz_dun04 | ID: 2228 | Name: Paladin Randel
+Map: lhz_dun04 | ID: 2229 | Name: Creator Flamel
+Map: lhz_dun04 | ID: 2230 | Name: Professor Celia
+Map: lhz_dun04 | ID: 2231 | Name: Champion Chen
+Map: lhz_dun04 | ID: 2232 | Name: Stalker Gertie
+Map: lhz_dun04 | ID: 2233 | Name: Clown Alphoccio
+Map: lhz_dun04 | ID: 2234 | Name: Gypsy Trentini
+Map: lhz_dun04 | ID: 23402 | Name: Rundal
+Map: lhz_dun04 | ID: 23403 | Name: Ignitus
+Map: lhz_dun04 | ID: 23404 | Name: Caelus
+Map: lhz_dun04 | ID: 23405 | Name: Chensai
+Map: lhz_dun04 | ID: 23406 | Name: Gyrta
+Map: lhz_dun04 | ID: 23407 | Name: Alphoxis
+Map: lhz_dun04 | ID: 23408 | Name: Trenityn
+Map: lhz_fild01 | ID: 1078 | Name: Red Plant
+Map: lhz_fild01 | ID: 1080 | Name: Green Plant
+Map: lhz_fild01 | ID: 1081 | Name: Yellow Plant
+Map: lhz_fild01 | ID: 1162 | Name: Rafflesia
+Map: lhz_fild01 | ID: 1215 | Name: Stem Worm
+Map: lhz_fild01 | ID: 1613 | Name: Metaling
+Map: lhz_fild01 | ID: 22393 | Name: Vermiara
+Map: lhz_fild01 | ID: 22439 | Name: Rhizon
+Map: lhz_fild01 | ID: 22821 | Name: Ferrix
+Map: lhz_fild02 | ID: 1080 | Name: Green Plant
+Map: lhz_fild02 | ID: 1081 | Name: Yellow Plant
+Map: lhz_fild02 | ID: 1162 | Name: Rafflesia
+Map: lhz_fild02 | ID: 1215 | Name: Stem Worm
+Map: lhz_fild02 | ID: 1378 | Name: Demon Pungus
+Map: lhz_fild02 | ID: 1613 | Name: Metaling
+Map: lhz_fild02 | ID: 1692 | Name: Breeze
+Map: lhz_fild02 | ID: 22393 | Name: Vermiara
+Map: lhz_fild02 | ID: 22439 | Name: Rhizon
+Map: lhz_fild02 | ID: 22591 | Name: Sporeus
+Map: lhz_fild02 | ID: 22821 | Name: Ferrix
+Map: lhz_fild02 | ID: 22900 | Name: Aelus
+Map: lhz_fild03 | ID: 1078 | Name: Red Plant
+Map: lhz_fild03 | ID: 1080 | Name: Green Plant
+Map: lhz_fild03 | ID: 1162 | Name: Rafflesia
+Map: lhz_fild03 | ID: 1215 | Name: Stem Worm
+Map: lhz_fild03 | ID: 1378 | Name: Demon Pungus
+Map: lhz_fild03 | ID: 1613 | Name: Metaling
+Map: lhz_fild03 | ID: 1692 | Name: Breeze
+Map: lhz_fild03 | ID: 22393 | Name: Vermiara
+Map: lhz_fild03 | ID: 22439 | Name: Rhizon
+Map: lhz_fild03 | ID: 22591 | Name: Sporeus
+Map: lhz_fild03 | ID: 22821 | Name: Ferrix
+Map: lhz_fild03 | ID: 22900 | Name: Aelus
+Map: lou_dun01 | ID: 1037 | Name: Side Winder
+Map: lou_dun01 | ID: 1083 | Name: Shining Plant
+Map: lou_dun01 | ID: 1084 | Name: Black Mushroom
+Map: lou_dun01 | ID: 1129 | Name: Horong
+Map: lou_dun01 | ID: 1306 | Name: Leib Olmai
+Map: lou_dun01 | ID: 1381 | Name: Grizzly
+Map: lou_dun01 | ID: 1516 | Name: Mi Gao
+Map: lou_dun01 | ID: 1517 | Name: Jing Guai
+Map: lou_dun01 | ID: 22270 | Name: Serpentis
+Map: lou_dun01 | ID: 22360 | Name: Horonix
+Map: lou_dun01 | ID: 22519 | Name: Leibolma
+Map: lou_dun01 | ID: 22594 | Name: Grizzaur
+Map: lou_dun01 | ID: 22724 | Name: Migaos
+Map: lou_dun01 | ID: 22725 | Name: Jingrai
+Map: lou_dun02 | ID: 1026 | Name: Munak
+Map: lou_dun02 | ID: 1191 | Name: Mimic
+Map: lou_dun02 | ID: 1512 | Name: Yao Jun
+Map: lou_dun02 | ID: 1514 | Name: Zhu Po Long
+Map: lou_dun02 | ID: 22260 | Name: Munax
+Map: lou_dun02 | ID: 22416 | Name: Illusorym
+Map: lou_dun02 | ID: 22720 | Name: Yajuno
+Map: lou_dun02 | ID: 22722 | Name: Zubolon
+Map: lou_dun03 | ID: 1512 | Name: Yao Jun
+Map: lou_dun03 | ID: 1513 | Name: Mao Guai
+Map: lou_dun03 | ID: 1514 | Name: Zhu Po Long
+Map: lou_dun03 | ID: 1630 | Name: White Lady
+Map: lou_dun03 | ID: 1631 | Name: Green Maiden
+Map: lou_dun03 | ID: 22720 | Name: Yajuno
+Map: lou_dun03 | ID: 22721 | Name: Maugra
+Map: lou_dun03 | ID: 22722 | Name: Zubolon
+Map: lou_fild01 | ID: 1081 | Name: Yellow Plant
+Map: lou_fild01 | ID: 1139 | Name: Mantis
+Map: lou_fild01 | ID: 1368 | Name: Geographer
+Map: lou_fild01 | ID: 1516 | Name: Mi Gao
+Map: lou_fild01 | ID: 22370 | Name: Mantrix
+Map: lou_fild01 | ID: 22581 | Name: Geodius
+Map: lou_fild01 | ID: 22724 | Name: Migaos
+Map: ma_fild01 | ID: 2313 | Name: Tikbalang
+Map: ma_fild01 | ID: 2314 | Name: Tiyanak
+Map: ma_fild01 | ID: 2316 | Name: Jejeling
+Map: ma_fild01 | ID: 23494 | Name: Tikbalus
+Map: ma_fild01 | ID: 23495 | Name: Tiyanok
+Map: ma_fild01 | ID: 23497 | Name: Jejelix
+Map: ma_fild02 | ID: 2309 | Name: Bungisngis
+Map: ma_fild02 | ID: 2310 | Name: Engkanto
+Map: ma_fild02 | ID: 2312 | Name: Mangkukulam
+Map: ma_fild02 | ID: 2315 | Name: Wakwak
+Map: ma_fild02 | ID: 2316 | Name: Jejeling
+Map: ma_fild02 | ID: 23490 | Name: Gisngar
+Map: ma_fild02 | ID: 23491 | Name: Engkaria
+Map: ma_fild02 | ID: 23493 | Name: Kulamystic
+Map: ma_fild02 | ID: 23496 | Name: Wakral
+Map: ma_fild02 | ID: 23497 | Name: Jejelix
+Map: mag_dun01 | ID: 1072 | Name: Kaho
+Map: mag_dun01 | ID: 1366 | Name: Lava Golem
+Map: mag_dun01 | ID: 1367 | Name: Blazer
+Map: mag_dun01 | ID: 1381 | Name: Grizzly
+Map: mag_dun01 | ID: 1383 | Name: Explosion
+Map: mag_dun01 | ID: 22304 | Name: Kahoran
+Map: mag_dun01 | ID: 22579 | Name: Magmavor
+Map: mag_dun01 | ID: 22580 | Name: Blazyr
+Map: mag_dun01 | ID: 22594 | Name: Grizzaur
+Map: mag_dun01 | ID: 22596 | Name: Ignitron
+Map: mag_dun02 | ID: 1367 | Name: Blazer
+Map: mag_dun02 | ID: 1379 | Name: Nightmare Terror
+Map: mag_dun02 | ID: 1382 | Name: Diabolic
+Map: mag_dun02 | ID: 1384 | Name: Deleter
+Map: mag_dun02 | ID: 1385 | Name: Deleter
+Map: mag_dun02 | ID: 1387 | Name: Gig
+Map: mag_dun02 | ID: 22580 | Name: Blazyr
+Map: mag_dun02 | ID: 22592 | Name: Oneiros
+Map: mag_dun02 | ID: 22595 | Name: Diablitus
+Map: mag_dun02 | ID: 22597 | Name: Eradix
+Map: mag_dun02 | ID: 22600 | Name: Gyxos
+Map: man_fild01 | ID: 1987 | Name: Centipede
+Map: man_fild01 | ID: 1988 | Name: Nepenthes
+Map: man_fild01 | ID: 1989 | Name: Hillslion
+Map: man_fild01 | ID: 1999 | Name: Centipede Larva
+Map: man_fild01 | ID: 23195 | Name: Centidrax
+Map: man_fild01 | ID: 23196 | Name: Nepthora
+Map: man_fild01 | ID: 23197 | Name: Lithrion
+Map: man_fild01 | ID: 23206 | Name: Centipax
+Map: man_fild02 | ID: 1986 | Name: Tatacho
+Map: man_fild02 | ID: 1987 | Name: Centipede
+Map: man_fild02 | ID: 2024 | Name: Bradium Golem
+Map: man_fild02 | ID: 23194 | Name: Tachoran
+Map: man_fild02 | ID: 23195 | Name: Centidrax
+Map: man_fild02 | ID: 23231 | Name: Bradionite
+Map: man_fild03 | ID: 1986 | Name: Tatacho
+Map: man_fild03 | ID: 1987 | Name: Centipede
+Map: man_fild03 | ID: 1989 | Name: Hillslion
+Map: man_fild03 | ID: 1990 | Name: Hardrock Mammoth
+Map: man_fild03 | ID: 23194 | Name: Tachoran
+Map: man_fild03 | ID: 23195 | Name: Centidrax
+Map: man_fild03 | ID: 23197 | Name: Lithrion
+Map: mjo_dun01 | ID: 1005 | Name: Familiar
+Map: mjo_dun01 | ID: 1145 | Name: Martin
+Map: mjo_dun01 | ID: 1175 | Name: Tarou
+Map: mjo_dun01 | ID: 22243 | Name: Umbrion
+Map: mjo_dun01 | ID: 22376 | Name: Martivus
+Map: mjo_dun01 | ID: 22402 | Name: Taruke
+Map: mjo_dun02 | ID: 1111 | Name: Drainliar
+Map: mjo_dun02 | ID: 1121 | Name: Giearth
+Map: mjo_dun02 | ID: 1145 | Name: Martin
+Map: mjo_dun02 | ID: 1169 | Name: Skeleton Worker
+Map: mjo_dun02 | ID: 22342 | Name: Siphylos
+Map: mjo_dun02 | ID: 22352 | Name: Gravelax
+Map: mjo_dun02 | ID: 22376 | Name: Martivus
+Map: mjo_dun02 | ID: 22399 | Name: Kranium
+Map: mjo_dun03 | ID: 1121 | Name: Giearth
+Map: mjo_dun03 | ID: 1145 | Name: Martin
+Map: mjo_dun03 | ID: 1151 | Name: Myst
+Map: mjo_dun03 | ID: 1169 | Name: Skeleton Worker
+Map: mjo_dun03 | ID: 1209 | Name: Cramp
+Map: mjo_dun03 | ID: 22352 | Name: Gravelax
+Map: mjo_dun03 | ID: 22376 | Name: Martivus
+Map: mjo_dun03 | ID: 22382 | Name: Phantoma
+Map: mjo_dun03 | ID: 22399 | Name: Kranium
+Map: mjo_dun03 | ID: 22434 | Name: Spasmon
+Map: mjolnir_01 | ID: 1018 | Name: Creamy
+Map: mjolnir_01 | ID: 1060 | Name: Bigfoot
+Map: mjolnir_01 | ID: 1079 | Name: Blue Plant
+Map: mjolnir_01 | ID: 1080 | Name: Green Plant
+Map: mjolnir_01 | ID: 1083 | Name: Shining Plant
+Map: mjolnir_01 | ID: 1103 | Name: Caramel
+Map: mjolnir_01 | ID: 1174 | Name: Stainer
+Map: mjolnir_01 | ID: 22254 | Name: Cremave
+Map: mjolnir_01 | ID: 22292 | Name: Goliathus
+Map: mjolnir_01 | ID: 22334 | Name: Carmellion
+Map: mjolnir_01 | ID: 22401 | Name: Steinar
+Map: mjolnir_02 | ID: 1031 | Name: Poporing
+Map: mjolnir_02 | ID: 1033 | Name: Elder Willow
+Map: mjolnir_02 | ID: 1057 | Name: Yoyo
+Map: mjolnir_02 | ID: 1078 | Name: Red Plant
+Map: mjolnir_02 | ID: 1079 | Name: Blue Plant
+Map: mjolnir_02 | ID: 1080 | Name: Green Plant
+Map: mjolnir_02 | ID: 1128 | Name: Horn
+Map: mjolnir_02 | ID: 22264 | Name: Poxus
+Map: mjolnir_02 | ID: 22266 | Name: Arborealith
+Map: mjolnir_02 | ID: 22289 | Name: Yovian
+Map: mjolnir_02 | ID: 22359 | Name: Hordis
+Map: mjolnir_03 | ID: 1037 | Name: Side Winder
+Map: mjolnir_03 | ID: 1080 | Name: Green Plant
+Map: mjolnir_03 | ID: 1083 | Name: Shining Plant
+Map: mjolnir_03 | ID: 1139 | Name: Mantis
+Map: mjolnir_03 | ID: 1380 | Name: Driller
+Map: mjolnir_03 | ID: 22270 | Name: Serpentis
+Map: mjolnir_03 | ID: 22370 | Name: Mantrix
+Map: mjolnir_03 | ID: 22593 | Name: Borith
+Map: mjolnir_04 | ID: 1037 | Name: Side Winder
+Map: mjolnir_04 | ID: 1059 | Name: Mistress
+Map: mjolnir_04 | ID: 1080 | Name: Green Plant
+Map: mjolnir_04 | ID: 1083 | Name: Shining Plant
+Map: mjolnir_04 | ID: 1139 | Name: Mantis
+Map: mjolnir_04 | ID: 1380 | Name: Driller
+Map: mjolnir_04 | ID: 22270 | Name: Serpentis
+Map: mjolnir_04 | ID: 22370 | Name: Mantrix
+Map: mjolnir_04 | ID: 22593 | Name: Borith
+Map: mjolnir_05 | ID: 1078 | Name: Red Plant
+Map: mjolnir_05 | ID: 1079 | Name: Blue Plant
+Map: mjolnir_05 | ID: 1083 | Name: Shining Plant
+Map: mjolnir_05 | ID: 1099 | Name: Argiope
+Map: mjolnir_05 | ID: 1139 | Name: Mantis
+Map: mjolnir_05 | ID: 1380 | Name: Driller
+Map: mjolnir_05 | ID: 22330 | Name: Argylla
+Map: mjolnir_05 | ID: 22370 | Name: Mantrix
+Map: mjolnir_05 | ID: 22593 | Name: Borith
+Map: mjolnir_06 | ID: 1018 | Name: Creamy
+Map: mjolnir_06 | ID: 1056 | Name: Smokie
+Map: mjolnir_06 | ID: 1077 | Name: Poison Spore
+Map: mjolnir_06 | ID: 1079 | Name: Blue Plant
+Map: mjolnir_06 | ID: 1085 | Name: Red Mushroom
+Map: mjolnir_06 | ID: 22254 | Name: Cremave
+Map: mjolnir_06 | ID: 22288 | Name: Fumajin
+Map: mjolnir_06 | ID: 22308 | Name: Toxifume
+Map: mjolnir_07 | ID: 1079 | Name: Blue Plant
+Map: mjolnir_07 | ID: 1080 | Name: Green Plant
+Map: mjolnir_07 | ID: 1085 | Name: Red Mushroom
+Map: mjolnir_07 | ID: 1118 | Name: Flora
+Map: mjolnir_07 | ID: 1166 | Name: Savage
+Map: mjolnir_07 | ID: 1494 | Name: Beetle King
+Map: mjolnir_07 | ID: 22349 | Name: Vineria
+Map: mjolnir_07 | ID: 22397 | Name: Savarin
+Map: mjolnir_07 | ID: 22704 | Name: Dynastor
+Map: mjolnir_08 | ID: 1079 | Name: Blue Plant
+Map: mjolnir_08 | ID: 1080 | Name: Green Plant
+Map: mjolnir_08 | ID: 1118 | Name: Flora
+Map: mjolnir_08 | ID: 1166 | Name: Savage
+Map: mjolnir_08 | ID: 1494 | Name: Beetle King
+Map: mjolnir_08 | ID: 22349 | Name: Vineria
+Map: mjolnir_08 | ID: 22397 | Name: Savarin
+Map: mjolnir_08 | ID: 22704 | Name: Dynastor
+Map: mjolnir_09 | ID: 1004 | Name: Hornet
+Map: mjolnir_09 | ID: 1010 | Name: Willow
+Map: mjolnir_09 | ID: 1085 | Name: Red Mushroom
+Map: mjolnir_09 | ID: 1167 | Name: Savage Babe
+Map: mjolnir_09 | ID: 22242 | Name: Vespix
+Map: mjolnir_09 | ID: 22247 | Name: Salixia
+Map: mjolnir_09 | ID: 22398 | Name: Babbel
+Map: mjolnir_10 | ID: 1080 | Name: Green Plant
+Map: mjolnir_10 | ID: 1083 | Name: Shining Plant
+Map: mjolnir_10 | ID: 1100 | Name: Argos
+Map: mjolnir_10 | ID: 1118 | Name: Flora
+Map: mjolnir_10 | ID: 1494 | Name: Beetle King
+Map: mjolnir_10 | ID: 22331 | Name: Argonax
+Map: mjolnir_10 | ID: 22349 | Name: Vineria
+Map: mjolnir_10 | ID: 22704 | Name: Dynastor
+Map: mjolnir_11 | ID: 1079 | Name: Blue Plant
+Map: mjolnir_11 | ID: 1080 | Name: Green Plant
+Map: mjolnir_11 | ID: 1099 | Name: Argiope
+Map: mjolnir_11 | ID: 1100 | Name: Argos
+Map: mjolnir_11 | ID: 1118 | Name: Flora
+Map: mjolnir_11 | ID: 22330 | Name: Argylla
+Map: mjolnir_11 | ID: 22331 | Name: Argonax
+Map: mjolnir_11 | ID: 22349 | Name: Vineria
+Map: mjolnir_12 | ID: 1035 | Name: Hunter Fly
+Map: mjolnir_12 | ID: 1114 | Name: Dustiness
+Map: mjolnir_12 | ID: 1139 | Name: Mantis
+Map: mjolnir_12 | ID: 22268 | Name: Sanguivor
+Map: mjolnir_12 | ID: 22345 | Name: Pulvix
+Map: mjolnir_12 | ID: 22370 | Name: Mantrix
+Map: moc_fild01 | ID: 1019 | Name: Peco Peco
+Map: moc_fild01 | ID: 1047 | Name: Peco Peco Egg
+Map: moc_fild01 | ID: 1055 | Name: Muka
+Map: moc_fild01 | ID: 1081 | Name: Yellow Plant
+Map: moc_fild01 | ID: 22255 | Name: Pecorix
+Map: moc_fild01 | ID: 22287 | Name: Deserion
+Map: moc_fild02 | ID: 1019 | Name: Peco Peco
+Map: moc_fild02 | ID: 1047 | Name: Peco Peco Egg
+Map: moc_fild02 | ID: 1055 | Name: Muka
+Map: moc_fild02 | ID: 1080 | Name: Green Plant
+Map: moc_fild02 | ID: 1081 | Name: Yellow Plant
+Map: moc_fild02 | ID: 22255 | Name: Pecorix
+Map: moc_fild02 | ID: 22287 | Name: Deserion
+Map: moc_fild03 | ID: 1013 | Name: Wolf
+Map: moc_fild03 | ID: 1042 | Name: Steel Chonchon
+Map: moc_fild03 | ID: 1080 | Name: Green Plant
+Map: moc_fild03 | ID: 1100 | Name: Argos
+Map: moc_fild03 | ID: 22250 | Name: Volkur
+Map: moc_fild03 | ID: 22275 | Name: Ferrichon
+Map: moc_fild03 | ID: 22331 | Name: Argonax
+Map: moc_fild07 | ID: 1011 | Name: Chonchon
+Map: moc_fild07 | ID: 1047 | Name: Peco Peco Egg
+Map: moc_fild07 | ID: 1049 | Name: Picky
+Map: moc_fild07 | ID: 1050 | Name: Picky
+Map: moc_fild07 | ID: 1081 | Name: Yellow Plant
+Map: moc_fild07 | ID: 1113 | Name: Drops
+Map: moc_fild07 | ID: 22248 | Name: Chonix
+Map: moc_fild07 | ID: 22281 | Name: Pikador
+Map: moc_fild07 | ID: 22344 | Name: Driplette
+Map: moc_fild11 | ID: 1001 | Name: Scorpion
+Map: moc_fild11 | ID: 1009 | Name: Condor
+Map: moc_fild11 | ID: 1107 | Name: Baby Desert Wolf
+Map: moc_fild11 | ID: 22240 | Name: Scorpix
+Map: moc_fild11 | ID: 22246 | Name: Aetheros
+Map: moc_fild11 | ID: 22338 | Name: Cubsol
+Map: moc_fild12 | ID: 1009 | Name: Condor
+Map: moc_fild12 | ID: 1047 | Name: Peco Peco Egg
+Map: moc_fild12 | ID: 1049 | Name: Picky
+Map: moc_fild12 | ID: 1050 | Name: Picky
+Map: moc_fild12 | ID: 1081 | Name: Yellow Plant
+Map: moc_fild12 | ID: 1113 | Name: Drops
+Map: moc_fild12 | ID: 22246 | Name: Aetheros
+Map: moc_fild12 | ID: 22281 | Name: Pikador
+Map: moc_fild12 | ID: 22344 | Name: Driplette
+Map: moc_fild13 | ID: 1013 | Name: Wolf
+Map: moc_fild13 | ID: 1042 | Name: Steel Chonchon
+Map: moc_fild13 | ID: 1058 | Name: Metaller
+Map: moc_fild13 | ID: 1081 | Name: Yellow Plant
+Map: moc_fild13 | ID: 1085 | Name: Red Mushroom
+Map: moc_fild13 | ID: 1100 | Name: Argos
+Map: moc_fild13 | ID: 1138 | Name: Magnolia
+Map: moc_fild13 | ID: 22250 | Name: Volkur
+Map: moc_fild13 | ID: 22275 | Name: Ferrichon
+Map: moc_fild13 | ID: 22290 | Name: Metacron
+Map: moc_fild13 | ID: 22331 | Name: Argonax
+Map: moc_fild13 | ID: 22369 | Name: Magnalis
+Map: moc_fild16 | ID: 1119 | Name: Frilldora
+Map: moc_fild16 | ID: 1127 | Name: Hode
+Map: moc_fild16 | ID: 1165 | Name: Sandman
+Map: moc_fild16 | ID: 22350 | Name: Crystilla
+Map: moc_fild16 | ID: 22358 | Name: Hoderus
+Map: moc_fild16 | ID: 22396 | Name: Somnius
+Map: moc_fild17 | ID: 1079 | Name: Blue Plant
+Map: moc_fild17 | ID: 1081 | Name: Yellow Plant
+Map: moc_fild17 | ID: 1119 | Name: Frilldora
+Map: moc_fild17 | ID: 1127 | Name: Hode
+Map: moc_fild17 | ID: 1159 | Name: Phreeoni
+Map: moc_fild17 | ID: 1165 | Name: Sandman
+Map: moc_fild17 | ID: 22350 | Name: Crystilla
+Map: moc_fild17 | ID: 22358 | Name: Hoderus
+Map: moc_fild17 | ID: 22396 | Name: Somnius
+Map: moc_fild18 | ID: 1001 | Name: Scorpion
+Map: moc_fild18 | ID: 1009 | Name: Condor
+Map: moc_fild18 | ID: 1081 | Name: Yellow Plant
+Map: moc_fild18 | ID: 1091 | Name: Dragon Fly
+Map: moc_fild18 | ID: 1107 | Name: Baby Desert Wolf
+Map: moc_fild18 | ID: 22240 | Name: Scorpix
+Map: moc_fild18 | ID: 22246 | Name: Aetheros
+Map: moc_fild18 | ID: 22338 | Name: Cubsol
+Map: moc_fild20 | ID: 1918 | Name: Incarnation of Morocc
+Map: moc_fild20 | ID: 1919 | Name: Incarnation of Morocc
+Map: moc_fild20 | ID: 1920 | Name: Incarnation of Morocc
+Map: moc_fild20 | ID: 1921 | Name: Incarnation of Morocc
+Map: moc_fild21 | ID: 1918 | Name: Incarnation of Morocc
+Map: moc_fild21 | ID: 1919 | Name: Incarnation of Morocc
+Map: moc_fild21 | ID: 1920 | Name: Incarnation of Morocc
+Map: moc_fild21 | ID: 1921 | Name: Incarnation of Morocc
+Map: moc_fild22 | ID: 1917 | Name: Wounded Morocc
+Map: moc_fild22 | ID: 1918 | Name: Incarnation of Morocc
+Map: moc_fild22 | ID: 1919 | Name: Incarnation of Morocc
+Map: moc_fild22 | ID: 1920 | Name: Incarnation of Morocc
+Map: moc_fild22 | ID: 1921 | Name: Incarnation of Morocc
+Map: moc_pryd01 | ID: 1005 | Name: Familiar
+Map: moc_pryd01 | ID: 1031 | Name: Poporing
+Map: moc_pryd01 | ID: 22243 | Name: Umbrion
+Map: moc_pryd01 | ID: 22264 | Name: Poxus
+Map: moc_pryd02 | ID: 1016 | Name: Archer Skeleton
+Map: moc_pryd02 | ID: 1028 | Name: Soldier Skeleton
+Map: moc_pryd02 | ID: 1029 | Name: Isis
+Map: moc_pryd02 | ID: 1031 | Name: Poporing
+Map: moc_pryd02 | ID: 1041 | Name: Mummy
+Map: moc_pryd02 | ID: 1111 | Name: Drainliar
+Map: moc_pryd02 | ID: 22253 | Name: Ossian Aim
+Map: moc_pryd02 | ID: 22261 | Name: Skeldius
+Map: moc_pryd02 | ID: 22262 | Name: Isira
+Map: moc_pryd02 | ID: 22264 | Name: Poxus
+Map: moc_pryd02 | ID: 22274 | Name: Mummis
+Map: moc_pryd02 | ID: 22342 | Name: Siphylos
+Map: moc_pryd03 | ID: 1032 | Name: Verit
+Map: moc_pryd03 | ID: 1041 | Name: Mummy
+Map: moc_pryd03 | ID: 1111 | Name: Drainliar
+Map: moc_pryd03 | ID: 1146 | Name: Matyr
+Map: moc_pryd03 | ID: 1191 | Name: Mimic
+Map: moc_pryd03 | ID: 22265 | Name: Verran
+Map: moc_pryd03 | ID: 22274 | Name: Mummis
+Map: moc_pryd03 | ID: 22342 | Name: Siphylos
+Map: moc_pryd03 | ID: 22377 | Name: Maltyr
+Map: moc_pryd03 | ID: 22416 | Name: Illusorym
+Map: moc_pryd04 | ID: 1029 | Name: Isis
+Map: moc_pryd04 | ID: 1038 | Name: Osiris
+Map: moc_pryd04 | ID: 1041 | Name: Mummy
+Map: moc_pryd04 | ID: 1146 | Name: Matyr
+Map: moc_pryd04 | ID: 1191 | Name: Mimic
+Map: moc_pryd04 | ID: 1297 | Name: Ancient Mummy
+Map: moc_pryd04 | ID: 22262 | Name: Isira
+Map: moc_pryd04 | ID: 22274 | Name: Mummis
+Map: moc_pryd04 | ID: 22377 | Name: Maltyr
+Map: moc_pryd04 | ID: 22416 | Name: Illusorym
+Map: moc_pryd04 | ID: 22510 | Name: Sarcophos
+Map: moc_pryd05 | ID: 1032 | Name: Verit
+Map: moc_pryd05 | ID: 1041 | Name: Mummy
+Map: moc_pryd05 | ID: 1149 | Name: Minorous
+Map: moc_pryd05 | ID: 22265 | Name: Verran
+Map: moc_pryd05 | ID: 22274 | Name: Mummis
+Map: moc_pryd05 | ID: 22380 | Name: Minotrax
+Map: moc_pryd06 | ID: 1032 | Name: Verit
+Map: moc_pryd06 | ID: 1191 | Name: Mimic
+Map: moc_pryd06 | ID: 1194 | Name: Arclouze
+Map: moc_pryd06 | ID: 1297 | Name: Ancient Mummy
+Map: moc_pryd06 | ID: 1511 | Name: Amon Ra
+Map: moc_pryd06 | ID: 22265 | Name: Verran
+Map: moc_pryd06 | ID: 22416 | Name: Illusorym
+Map: moc_pryd06 | ID: 22419 | Name: Arclorax
+Map: moc_pryd06 | ID: 22510 | Name: Sarcophos
+Map: mosk_dun01 | ID: 1031 | Name: Poporing
+Map: mosk_dun01 | ID: 1139 | Name: Mantis
+Map: mosk_dun01 | ID: 1880 | Name: Wood Goblin
+Map: mosk_dun01 | ID: 1881 | Name: Les
+Map: mosk_dun01 | ID: 22264 | Name: Poxus
+Map: mosk_dun01 | ID: 22370 | Name: Mantrix
+Map: mosk_dun01 | ID: 23088 | Name: Leshyar
+Map: mosk_dun01 | ID: 23089 | Name: Lesavara
+Map: mosk_dun02 | ID: 1880 | Name: Wood Goblin
+Map: mosk_dun02 | ID: 1881 | Name: Les
+Map: mosk_dun02 | ID: 1882 | Name: Baba Yaga
+Map: mosk_dun02 | ID: 1883 | Name: Uzhas
+Map: mosk_dun02 | ID: 23088 | Name: Leshyar
+Map: mosk_dun02 | ID: 23089 | Name: Lesavara
+Map: mosk_dun02 | ID: 23090 | Name: Babaruun
+Map: mosk_dun02 | ID: 23091 | Name: Kikryma
+Map: mosk_dun03 | ID: 1081 | Name: Yellow Plant
+Map: mosk_dun03 | ID: 1082 | Name: White Plant
+Map: mosk_dun03 | ID: 1083 | Name: Shining Plant
+Map: mosk_dun03 | ID: 1882 | Name: Baba Yaga
+Map: mosk_dun03 | ID: 1883 | Name: Uzhas
+Map: mosk_dun03 | ID: 1884 | Name: Mavka
+Map: mosk_dun03 | ID: 1885 | Name: Gopinich
+Map: mosk_dun03 | ID: 23090 | Name: Babaruun
+Map: mosk_dun03 | ID: 23091 | Name: Kikryma
+Map: mosk_dun03 | ID: 23092 | Name: Mavlora
+Map: mosk_fild02 | ID: 1037 | Name: Side Winder
+Map: mosk_fild02 | ID: 1081 | Name: Yellow Plant
+Map: mosk_fild02 | ID: 1082 | Name: White Plant
+Map: mosk_fild02 | ID: 1099 | Name: Argiope
+Map: mosk_fild02 | ID: 1139 | Name: Mantis
+Map: mosk_fild02 | ID: 1368 | Name: Geographer
+Map: mosk_fild02 | ID: 22270 | Name: Serpentis
+Map: mosk_fild02 | ID: 22330 | Name: Argylla
+Map: mosk_fild02 | ID: 22370 | Name: Mantrix
+Map: mosk_fild02 | ID: 22581 | Name: Geodius
+Map: nameless_n | ID: 1036 | Name: Ghoul
+Map: nameless_n | ID: 1864 | Name: Zombie Slaughter
+Map: nameless_n | ID: 1865 | Name: Ragged Zombie
+Map: nameless_n | ID: 1866 | Name: Hellhound
+Map: nameless_n | ID: 1867 | Name: Banshee
+Map: nameless_n | ID: 1869 | Name: Flame Skull
+Map: nameless_n | ID: 22269 | Name: Gholast
+Map: nameless_n | ID: 23072 | Name: Carnifex
+Map: nameless_n | ID: 23073 | Name: Moribundus
+Map: nameless_n | ID: 23074 | Name: Cerberon
+Map: nameless_n | ID: 23075 | Name: Screalia
+Map: nameless_n | ID: 23077 | Name: Pyrocran
+Map: new_1-3 | ID: 2398 | Name: Little Poring
+Map: nif_fild01 | ID: 1503 | Name: Gibbet
+Map: nif_fild01 | ID: 1504 | Name: Dullahan
+Map: nif_fild01 | ID: 1506 | Name: Disguise
+Map: nif_fild01 | ID: 1508 | Name: Quve
+Map: nif_fild01 | ID: 1510 | Name: Heirozoist
+Map: nif_fild01 | ID: 22711 | Name: Gallowynd
+Map: nif_fild01 | ID: 22712 | Name: Dullacel
+Map: nif_fild01 | ID: 22714 | Name: Veilon
+Map: nif_fild01 | ID: 22716 | Name: Quvellum
+Map: nif_fild01 | ID: 22718 | Name: Hierophyl
+Map: nif_fild02 | ID: 1503 | Name: Gibbet
+Map: nif_fild02 | ID: 1504 | Name: Dullahan
+Map: nif_fild02 | ID: 1505 | Name: Loli Ruri
+Map: nif_fild02 | ID: 1507 | Name: Bloody Murderer
+Map: nif_fild02 | ID: 1509 | Name: Lude
+Map: nif_fild02 | ID: 1510 | Name: Heirozoist
+Map: nif_fild02 | ID: 22711 | Name: Gallowynd
+Map: nif_fild02 | ID: 22712 | Name: Dullacel
+Map: nif_fild02 | ID: 22713 | Name: Rurilith
+Map: nif_fild02 | ID: 22715 | Name: Crimsonyx
+Map: nif_fild02 | ID: 22717 | Name: Ludraken
+Map: nif_fild02 | ID: 22718 | Name: Hierophyl
+Map: niflheim | ID: 1503 | Name: Gibbet
+Map: niflheim | ID: 1504 | Name: Dullahan
+Map: niflheim | ID: 1508 | Name: Quve
+Map: niflheim | ID: 1509 | Name: Lude
+Map: niflheim | ID: 1510 | Name: Heirozoist
+Map: niflheim | ID: 22711 | Name: Gallowynd
+Map: niflheim | ID: 22712 | Name: Dullacel
+Map: niflheim | ID: 22716 | Name: Quvellum
+Map: niflheim | ID: 22717 | Name: Ludraken
+Map: niflheim | ID: 22718 | Name: Hierophyl
+Map: nyd_dun01 | ID: 2013 | Name: Draco
+Map: nyd_dun01 | ID: 2014 | Name: Draco Egg
+Map: nyd_dun01 | ID: 2015 | Name: Dark Pinguicula
+Map: nyd_dun01 | ID: 2016 | Name: Aqua Elemental
+Map: nyd_dun01 | ID: 2017 | Name: Rata
+Map: nyd_dun01 | ID: 2018 | Name: Duneyrr
+Map: nyd_dun01 | ID: 23222 | Name: Noxflora
+Map: nyd_dun01 | ID: 23223 | Name: Maridius
+Map: nyd_dun01 | ID: 23224 | Name: Ratara
+Map: nyd_dun01 | ID: 23225 | Name: Dunerion
+Map: odin_tem01 | ID: 1079 | Name: Blue Plant
+Map: odin_tem01 | ID: 1080 | Name: Green Plant
+Map: odin_tem01 | ID: 1081 | Name: Yellow Plant
+Map: odin_tem01 | ID: 1692 | Name: Breeze
+Map: odin_tem01 | ID: 1693 | Name: Plasma
+Map: odin_tem01 | ID: 1694 | Name: Plasma
+Map: odin_tem01 | ID: 1695 | Name: Plasma
+Map: odin_tem01 | ID: 1696 | Name: Plasma
+Map: odin_tem01 | ID: 1697 | Name: Plasma
+Map: odin_tem01 | ID: 1752 | Name: Skogul
+Map: odin_tem01 | ID: 1753 | Name: Frus
+Map: odin_tem01 | ID: 22900 | Name: Aelus
+Map: odin_tem01 | ID: 22901 | Name: Voltix
+Map: odin_tem01 | ID: 22960 | Name: Skogulm
+Map: odin_tem01 | ID: 22961 | Name: Frusarion
+Map: odin_tem02 | ID: 1079 | Name: Blue Plant
+Map: odin_tem02 | ID: 1693 | Name: Plasma
+Map: odin_tem02 | ID: 1752 | Name: Skogul
+Map: odin_tem02 | ID: 1753 | Name: Frus
+Map: odin_tem02 | ID: 1754 | Name: Skeggiold
+Map: odin_tem02 | ID: 1755 | Name: Skeggiold
+Map: odin_tem02 | ID: 1761 | Name: Skogul
+Map: odin_tem02 | ID: 1762 | Name: Frus
+Map: odin_tem02 | ID: 22901 | Name: Voltix
+Map: odin_tem02 | ID: 22960 | Name: Skogulm
+Map: odin_tem02 | ID: 22961 | Name: Frusarion
+Map: odin_tem03 | ID: 1079 | Name: Blue Plant
+Map: odin_tem03 | ID: 1083 | Name: Shining Plant
+Map: odin_tem03 | ID: 1693 | Name: Plasma
+Map: odin_tem03 | ID: 1751 | Name: Valkyrie Randgris
+Map: odin_tem03 | ID: 1752 | Name: Skogul
+Map: odin_tem03 | ID: 1753 | Name: Frus
+Map: odin_tem03 | ID: 1754 | Name: Skeggiold
+Map: odin_tem03 | ID: 1755 | Name: Skeggiold
+Map: odin_tem03 | ID: 1761 | Name: Skogul
+Map: odin_tem03 | ID: 1762 | Name: Frus
+Map: odin_tem03 | ID: 1765 | Name: Valkyrie
+Map: odin_tem03 | ID: 22901 | Name: Voltix
+Map: odin_tem03 | ID: 22960 | Name: Skogulm
+Map: odin_tem03 | ID: 22961 | Name: Frusarion
+Map: orcsdun01 | ID: 1005 | Name: Familiar
+Map: orcsdun01 | ID: 1042 | Name: Steel Chonchon
+Map: orcsdun01 | ID: 1082 | Name: White Plant
+Map: orcsdun01 | ID: 1084 | Name: Black Mushroom
+Map: orcsdun01 | ID: 1111 | Name: Drainliar
+Map: orcsdun01 | ID: 1152 | Name: Orc Skeleton
+Map: orcsdun01 | ID: 1153 | Name: Orc Zombie
+Map: orcsdun01 | ID: 22243 | Name: Umbrion
+Map: orcsdun01 | ID: 22275 | Name: Ferrichon
+Map: orcsdun01 | ID: 22342 | Name: Siphylos
+Map: orcsdun01 | ID: 22383 | Name: Ossifex
+Map: orcsdun01 | ID: 22384 | Name: Ghulgrim
+Map: orcsdun02 | ID: 1042 | Name: Steel Chonchon
+Map: orcsdun02 | ID: 1082 | Name: White Plant
+Map: orcsdun02 | ID: 1084 | Name: Black Mushroom
+Map: orcsdun02 | ID: 1111 | Name: Drainliar
+Map: orcsdun02 | ID: 1152 | Name: Orc Skeleton
+Map: orcsdun02 | ID: 1177 | Name: Zenorc
+Map: orcsdun02 | ID: 1189 | Name: Orc Archer
+Map: orcsdun02 | ID: 22275 | Name: Ferrichon
+Map: orcsdun02 | ID: 22342 | Name: Siphylos
+Map: orcsdun02 | ID: 22383 | Name: Ossifex
+Map: orcsdun02 | ID: 22404 | Name: Zenorok
+Map: orcsdun02 | ID: 22414 | Name: Orcturion
+Map: pay_dun00 | ID: 1005 | Name: Familiar
+Map: pay_dun00 | ID: 1015 | Name: Zombie
+Map: pay_dun00 | ID: 1031 | Name: Poporing
+Map: pay_dun00 | ID: 1076 | Name: Skeleton
+Map: pay_dun00 | ID: 1078 | Name: Red Plant
+Map: pay_dun00 | ID: 1084 | Name: Black Mushroom
+Map: pay_dun00 | ID: 22243 | Name: Umbrion
+Map: pay_dun00 | ID: 22252 | Name: Zomarin
+Map: pay_dun00 | ID: 22264 | Name: Poxus
+Map: pay_dun00 | ID: 22307 | Name: Osteon
+Map: pay_dun01 | ID: 1016 | Name: Archer Skeleton
+Map: pay_dun01 | ID: 1028 | Name: Soldier Skeleton
+Map: pay_dun01 | ID: 1078 | Name: Red Plant
+Map: pay_dun01 | ID: 1084 | Name: Black Mushroom
+Map: pay_dun01 | ID: 1111 | Name: Drainliar
+Map: pay_dun01 | ID: 1116 | Name: Eggyra
+Map: pay_dun01 | ID: 22253 | Name: Ossian Aim
+Map: pay_dun01 | ID: 22261 | Name: Skeldius
+Map: pay_dun01 | ID: 22342 | Name: Siphylos
+Map: pay_dun01 | ID: 22347 | Name: Spectrus
+Map: pay_dun02 | ID: 1016 | Name: Archer Skeleton
+Map: pay_dun02 | ID: 1020 | Name: Mandragora
+Map: pay_dun02 | ID: 1026 | Name: Munak
+Map: pay_dun02 | ID: 1028 | Name: Soldier Skeleton
+Map: pay_dun02 | ID: 1031 | Name: Poporing
+Map: pay_dun02 | ID: 1068 | Name: Hydra
+Map: pay_dun02 | ID: 1078 | Name: Red Plant
+Map: pay_dun02 | ID: 1082 | Name: White Plant
+Map: pay_dun02 | ID: 1084 | Name: Black Mushroom
+Map: pay_dun02 | ID: 1180 | Name: Nine Tail
+Map: pay_dun02 | ID: 1188 | Name: Bongun
+Map: pay_dun02 | ID: 22253 | Name: Ossian Aim
+Map: pay_dun02 | ID: 22260 | Name: Munax
+Map: pay_dun02 | ID: 22261 | Name: Skeldius
+Map: pay_dun02 | ID: 22264 | Name: Poxus
+Map: pay_dun02 | ID: 22407 | Name: Kyuubiin
+Map: pay_dun02 | ID: 22413 | Name: Bongurin
+Map: pay_dun03 | ID: 1020 | Name: Mandragora
+Map: pay_dun03 | ID: 1026 | Name: Munak
+Map: pay_dun03 | ID: 1068 | Name: Hydra
+Map: pay_dun03 | ID: 1078 | Name: Red Plant
+Map: pay_dun03 | ID: 1079 | Name: Blue Plant
+Map: pay_dun03 | ID: 1080 | Name: Green Plant
+Map: pay_dun03 | ID: 1081 | Name: Yellow Plant
+Map: pay_dun03 | ID: 1082 | Name: White Plant
+Map: pay_dun03 | ID: 1170 | Name: Sohee
+Map: pay_dun03 | ID: 1180 | Name: Nine Tail
+Map: pay_dun03 | ID: 1185 | Name: Whisper
+Map: pay_dun03 | ID: 1186 | Name: Giant Whisper
+Map: pay_dun03 | ID: 1188 | Name: Bongun
+Map: pay_dun03 | ID: 1277 | Name: Greatest General
+Map: pay_dun03 | ID: 22260 | Name: Munax
+Map: pay_dun03 | ID: 22400 | Name: Sohyon
+Map: pay_dun03 | ID: 22407 | Name: Kyuubiin
+Map: pay_dun03 | ID: 22413 | Name: Bongurin
+Map: pay_dun03 | ID: 22491 | Name: Sovranis
+Map: pay_dun04 | ID: 1016 | Name: Archer Skeleton
+Map: pay_dun04 | ID: 1078 | Name: Red Plant
+Map: pay_dun04 | ID: 1082 | Name: White Plant
+Map: pay_dun04 | ID: 1083 | Name: Shining Plant
+Map: pay_dun04 | ID: 1110 | Name: Dokebi
+Map: pay_dun04 | ID: 1129 | Name: Horong
+Map: pay_dun04 | ID: 1150 | Name: Moonlight Flower
+Map: pay_dun04 | ID: 1180 | Name: Nine Tail
+Map: pay_dun04 | ID: 1277 | Name: Greatest General
+Map: pay_dun04 | ID: 1290 | Name: Skeleton General
+Map: pay_dun04 | ID: 1301 | Name: Am Mut
+Map: pay_dun04 | ID: 1307 | Name: Cat o' Nine Tails
+Map: pay_dun04 | ID: 22253 | Name: Ossian Aim
+Map: pay_dun04 | ID: 22341 | Name: Doekahn
+Map: pay_dun04 | ID: 22360 | Name: Horonix
+Map: pay_dun04 | ID: 22407 | Name: Kyuubiin
+Map: pay_dun04 | ID: 22491 | Name: Sovranis
+Map: pay_dun04 | ID: 22514 | Name: Ammutra
+Map: pay_fild01 | ID: 1002 | Name: Poring
+Map: pay_fild01 | ID: 1007 | Name: Fabre
+Map: pay_fild01 | ID: 1010 | Name: Willow
+Map: pay_fild01 | ID: 1080 | Name: Green Plant
+Map: pay_fild01 | ID: 22241 | Name: Porion
+Map: pay_fild01 | ID: 22244 | Name: Fabron
+Map: pay_fild01 | ID: 22247 | Name: Salixia
+Map: pay_fild02 | ID: 1014 | Name: Spore
+Map: pay_fild02 | ID: 1024 | Name: Wormtail
+Map: pay_fild02 | ID: 1025 | Name: Boa
+Map: pay_fild02 | ID: 1080 | Name: Green Plant
+Map: pay_fild02 | ID: 1085 | Name: Red Mushroom
+Map: pay_fild02 | ID: 22251 | Name: Sporula
+Map: pay_fild02 | ID: 22258 | Name: Wyrmis
+Map: pay_fild02 | ID: 22259 | Name: Constrix
+Map: pay_fild03 | ID: 1002 | Name: Poring
+Map: pay_fild03 | ID: 1007 | Name: Fabre
+Map: pay_fild03 | ID: 1008 | Name: Pupa
+Map: pay_fild03 | ID: 1010 | Name: Willow
+Map: pay_fild03 | ID: 1080 | Name: Green Plant
+Map: pay_fild03 | ID: 1085 | Name: Red Mushroom
+Map: pay_fild03 | ID: 22241 | Name: Porion
+Map: pay_fild03 | ID: 22244 | Name: Fabron
+Map: pay_fild03 | ID: 22247 | Name: Salixia
+Map: pay_fild04 | ID: 1002 | Name: Poring
+Map: pay_fild04 | ID: 1031 | Name: Poporing
+Map: pay_fild04 | ID: 1080 | Name: Green Plant
+Map: pay_fild04 | ID: 1083 | Name: Shining Plant
+Map: pay_fild04 | ID: 1090 | Name: Mastering
+Map: pay_fild04 | ID: 1096 | Name: Angeling
+Map: pay_fild04 | ID: 1113 | Name: Drops
+Map: pay_fild04 | ID: 1120 | Name: Ghostring
+Map: pay_fild04 | ID: 1242 | Name: Marin
+Map: pay_fild04 | ID: 1582 | Name: Deviling
+Map: pay_fild04 | ID: 22241 | Name: Porion
+Map: pay_fild04 | ID: 22264 | Name: Poxus
+Map: pay_fild04 | ID: 22344 | Name: Driplette
+Map: pay_fild04 | ID: 22456 | Name: Marinus
+Map: pay_fild06 | ID: 1014 | Name: Spore
+Map: pay_fild06 | ID: 1024 | Name: Wormtail
+Map: pay_fild06 | ID: 1025 | Name: Boa
+Map: pay_fild06 | ID: 1080 | Name: Green Plant
+Map: pay_fild06 | ID: 1083 | Name: Shining Plant
+Map: pay_fild06 | ID: 1085 | Name: Red Mushroom
+Map: pay_fild06 | ID: 22251 | Name: Sporula
+Map: pay_fild06 | ID: 22258 | Name: Wyrmis
+Map: pay_fild06 | ID: 22259 | Name: Constrix
+Map: pay_fild07 | ID: 1018 | Name: Creamy
+Map: pay_fild07 | ID: 1060 | Name: Bigfoot
+Map: pay_fild07 | ID: 1080 | Name: Green Plant
+Map: pay_fild07 | ID: 1103 | Name: Caramel
+Map: pay_fild07 | ID: 1174 | Name: Stainer
+Map: pay_fild07 | ID: 22254 | Name: Cremave
+Map: pay_fild07 | ID: 22292 | Name: Goliathus
+Map: pay_fild07 | ID: 22334 | Name: Carmellion
+Map: pay_fild07 | ID: 22401 | Name: Steinar
+Map: pay_fild08 | ID: 1014 | Name: Spore
+Map: pay_fild08 | ID: 1024 | Name: Wormtail
+Map: pay_fild08 | ID: 1025 | Name: Boa
+Map: pay_fild08 | ID: 1080 | Name: Green Plant
+Map: pay_fild08 | ID: 1083 | Name: Shining Plant
+Map: pay_fild08 | ID: 22251 | Name: Sporula
+Map: pay_fild08 | ID: 22258 | Name: Wyrmis
+Map: pay_fild08 | ID: 22259 | Name: Constrix
+Map: pay_fild09 | ID: 1033 | Name: Elder Willow
+Map: pay_fild09 | ID: 1080 | Name: Green Plant
+Map: pay_fild09 | ID: 1083 | Name: Shining Plant
+Map: pay_fild09 | ID: 1104 | Name: Coco
+Map: pay_fild09 | ID: 1128 | Name: Horn
+Map: pay_fild09 | ID: 22266 | Name: Arborealith
+Map: pay_fild09 | ID: 22335 | Name: Cocovus
+Map: pay_fild09 | ID: 22359 | Name: Hordis
+Map: pay_fild10 | ID: 1079 | Name: Blue Plant
+Map: pay_fild10 | ID: 1080 | Name: Green Plant
+Map: pay_fild10 | ID: 1115 | Name: Eddga
+Map: pay_fild10 | ID: 1166 | Name: Savage
+Map: pay_fild10 | ID: 1277 | Name: Greatest General
+Map: pay_fild10 | ID: 1494 | Name: Beetle King
+Map: pay_fild10 | ID: 22397 | Name: Savarin
+Map: pay_fild10 | ID: 22491 | Name: Sovranis
+Map: pay_fild10 | ID: 22704 | Name: Dynastor
+Map: prt_cas | ID: 3455 | Name: Plate
+Map: prt_fild00 | ID: 1012 | Name: Roda Frog
+Map: prt_fild00 | ID: 1080 | Name: Green Plant
+Map: prt_fild00 | ID: 1083 | Name: Shining Plant
+Map: prt_fild00 | ID: 1094 | Name: Ambernite
+Map: prt_fild00 | ID: 1167 | Name: Savage Babe
+Map: prt_fild00 | ID: 22249 | Name: Rodagon
+Map: prt_fild00 | ID: 22325 | Name: Ambroxide
+Map: prt_fild00 | ID: 22398 | Name: Babbel
+Map: prt_fild01 | ID: 1002 | Name: Poring
+Map: prt_fild01 | ID: 1007 | Name: Fabre
+Map: prt_fild01 | ID: 1063 | Name: Lunatic
+Map: prt_fild01 | ID: 1079 | Name: Blue Plant
+Map: prt_fild01 | ID: 1080 | Name: Green Plant
+Map: prt_fild01 | ID: 22241 | Name: Porion
+Map: prt_fild01 | ID: 22244 | Name: Fabron
+Map: prt_fild01 | ID: 22295 | Name: Celestia
+Map: prt_fild02 | ID: 1018 | Name: Creamy
+Map: prt_fild02 | ID: 1031 | Name: Poporing
+Map: prt_fild02 | ID: 1083 | Name: Shining Plant
+Map: prt_fild02 | ID: 1093 | Name: Eclipse
+Map: prt_fild02 | ID: 1174 | Name: Stainer
+Map: prt_fild02 | ID: 22254 | Name: Cremave
+Map: prt_fild02 | ID: 22264 | Name: Poxus
+Map: prt_fild02 | ID: 22401 | Name: Steinar
+Map: prt_fild03 | ID: 1031 | Name: Poporing
+Map: prt_fild03 | ID: 1057 | Name: Yoyo
+Map: prt_fild03 | ID: 1079 | Name: Blue Plant
+Map: prt_fild03 | ID: 1080 | Name: Green Plant
+Map: prt_fild03 | ID: 1128 | Name: Horn
+Map: prt_fild03 | ID: 1214 | Name: Choco
+Map: prt_fild03 | ID: 22264 | Name: Poxus
+Map: prt_fild03 | ID: 22289 | Name: Yovian
+Map: prt_fild03 | ID: 22359 | Name: Hordis
+Map: prt_fild03 | ID: 22438 | Name: Choculus
+Map: prt_fild04 | ID: 1012 | Name: Roda Frog
+Map: prt_fild04 | ID: 1080 | Name: Green Plant
+Map: prt_fild04 | ID: 1088 | Name: Vocal
+Map: prt_fild04 | ID: 1094 | Name: Ambernite
+Map: prt_fild04 | ID: 22249 | Name: Rodagon
+Map: prt_fild04 | ID: 22319 | Name: Phonas
+Map: prt_fild04 | ID: 22325 | Name: Ambroxide
+Map: prt_fild05 | ID: 1004 | Name: Hornet
+Map: prt_fild05 | ID: 1048 | Name: Thief Bug Egg
+Map: prt_fild05 | ID: 1051 | Name: Thief Bug
+Map: prt_fild05 | ID: 1079 | Name: Blue Plant
+Map: prt_fild05 | ID: 1080 | Name: Green Plant
+Map: prt_fild05 | ID: 22242 | Name: Vespix
+Map: prt_fild05 | ID: 22283 | Name: Skulken
+Map: prt_fild06 | ID: 1002 | Name: Poring
+Map: prt_fild06 | ID: 1007 | Name: Fabre
+Map: prt_fild06 | ID: 1063 | Name: Lunatic
+Map: prt_fild06 | ID: 1080 | Name: Green Plant
+Map: prt_fild06 | ID: 22241 | Name: Porion
+Map: prt_fild06 | ID: 22244 | Name: Fabron
+Map: prt_fild06 | ID: 22295 | Name: Celestia
+Map: prt_fild07 | ID: 1052 | Name: Rocker
+Map: prt_fild07 | ID: 1084 | Name: Black Mushroom
+Map: prt_fild07 | ID: 1088 | Name: Vocal
+Map: prt_fild07 | ID: 1167 | Name: Savage Babe
+Map: prt_fild07 | ID: 22284 | Name: Vibrokk
+Map: prt_fild07 | ID: 22319 | Name: Phonas
+Map: prt_fild07 | ID: 22398 | Name: Babbel
+Map: prt_fild08 | ID: 1002 | Name: Poring
+Map: prt_fild08 | ID: 1007 | Name: Fabre
+Map: prt_fild08 | ID: 1008 | Name: Pupa
+Map: prt_fild08 | ID: 1063 | Name: Lunatic
+Map: prt_fild08 | ID: 22241 | Name: Porion
+Map: prt_fild08 | ID: 22244 | Name: Fabron
+Map: prt_fild08 | ID: 22295 | Name: Celestia
+Map: prt_fild08 | ID: 2398 | Name: Little Poring
+Map: prt_fild08a | ID: 1002 | Name: Poring
+Map: prt_fild08a | ID: 1007 | Name: Fabre
+Map: prt_fild08a | ID: 1063 | Name: Lunatic
+Map: prt_fild08a | ID: 2398 | Name: Little Poring
+Map: prt_fild08b | ID: 1002 | Name: Poring
+Map: prt_fild08b | ID: 1007 | Name: Fabre
+Map: prt_fild08b | ID: 1063 | Name: Lunatic
+Map: prt_fild08b | ID: 2398 | Name: Little Poring
+Map: prt_fild08c | ID: 1002 | Name: Poring
+Map: prt_fild08c | ID: 1007 | Name: Fabre
+Map: prt_fild08c | ID: 1063 | Name: Lunatic
+Map: prt_fild08c | ID: 2398 | Name: Little Poring
+Map: prt_fild08d | ID: 1002 | Name: Poring
+Map: prt_fild08d | ID: 1007 | Name: Fabre
+Map: prt_fild08d | ID: 1063 | Name: Lunatic
+Map: prt_fild08d | ID: 2398 | Name: Little Poring
+Map: prt_fild09 | ID: 1058 | Name: Metaller
+Map: prt_fild09 | ID: 1081 | Name: Yellow Plant
+Map: prt_fild09 | ID: 1138 | Name: Magnolia
+Map: prt_fild09 | ID: 22290 | Name: Metacron
+Map: prt_fild09 | ID: 22369 | Name: Magnalis
+Map: prt_fild10 | ID: 1031 | Name: Poporing
+Map: prt_fild10 | ID: 1033 | Name: Elder Willow
+Map: prt_fild10 | ID: 1083 | Name: Shining Plant
+Map: prt_fild10 | ID: 1085 | Name: Red Mushroom
+Map: prt_fild10 | ID: 1104 | Name: Coco
+Map: prt_fild10 | ID: 1128 | Name: Horn
+Map: prt_fild10 | ID: 22264 | Name: Poxus
+Map: prt_fild10 | ID: 22266 | Name: Arborealith
+Map: prt_fild10 | ID: 22335 | Name: Cocovus
+Map: prt_fild10 | ID: 22359 | Name: Hordis
+Map: prt_fild11 | ID: 1085 | Name: Red Mushroom
+Map: prt_fild11 | ID: 1122 | Name: Goblin
+Map: prt_fild11 | ID: 1123 | Name: Goblin
+Map: prt_fild11 | ID: 1124 | Name: Goblin
+Map: prt_fild11 | ID: 1125 | Name: Goblin
+Map: prt_fild11 | ID: 1126 | Name: Goblin
+Map: prt_fild11 | ID: 1258 | Name: Goblin Archer
+Map: prt_fild11 | ID: 1280 | Name: Goblin Steamrider
+Map: prt_fild11 | ID: 1308 | Name: Panzer Goblin
+Map: prt_fild11 | ID: 1392 | Name: Rotar Zairo
+Map: prt_fild11 | ID: 22472 | Name: Goblarc
+Map: prt_fild11 | ID: 22494 | Name: Mecharion
+Map: prt_fild11 | ID: 22521 | Name: Panzaar
+Map: prt_fild11 | ID: 22605 | Name: Zairocron
+Map: prt_maze01 | ID: 1002 | Name: Poring
+Map: prt_maze01 | ID: 1007 | Name: Fabre
+Map: prt_maze01 | ID: 1008 | Name: Pupa
+Map: prt_maze01 | ID: 1011 | Name: Chonchon
+Map: prt_maze01 | ID: 1013 | Name: Wolf
+Map: prt_maze01 | ID: 1018 | Name: Creamy
+Map: prt_maze01 | ID: 1025 | Name: Boa
+Map: prt_maze01 | ID: 1031 | Name: Poporing
+Map: prt_maze01 | ID: 1035 | Name: Hunter Fly
+Map: prt_maze01 | ID: 1037 | Name: Side Winder
+Map: prt_maze01 | ID: 1042 | Name: Steel Chonchon
+Map: prt_maze01 | ID: 1052 | Name: Rocker
+Map: prt_maze01 | ID: 1056 | Name: Smokie
+Map: prt_maze01 | ID: 1057 | Name: Yoyo
+Map: prt_maze01 | ID: 1060 | Name: Bigfoot
+Map: prt_maze01 | ID: 1063 | Name: Lunatic
+Map: prt_maze01 | ID: 1078 | Name: Red Plant
+Map: prt_maze01 | ID: 1079 | Name: Blue Plant
+Map: prt_maze01 | ID: 1081 | Name: Yellow Plant
+Map: prt_maze01 | ID: 1082 | Name: White Plant
+Map: prt_maze01 | ID: 1083 | Name: Shining Plant
+Map: prt_maze01 | ID: 1084 | Name: Black Mushroom
+Map: prt_maze01 | ID: 1085 | Name: Red Mushroom
+Map: prt_maze01 | ID: 1092 | Name: Vagabond Wolf
+Map: prt_maze01 | ID: 1099 | Name: Argiope
+Map: prt_maze01 | ID: 1100 | Name: Argos
+Map: prt_maze01 | ID: 1103 | Name: Caramel
+Map: prt_maze01 | ID: 1104 | Name: Coco
+Map: prt_maze01 | ID: 1114 | Name: Dustiness
+Map: prt_maze01 | ID: 1128 | Name: Horn
+Map: prt_maze01 | ID: 1139 | Name: Mantis
+Map: prt_maze01 | ID: 1145 | Name: Martin
+Map: prt_maze01 | ID: 1166 | Name: Savage
+Map: prt_maze01 | ID: 1174 | Name: Stainer
+Map: prt_maze01 | ID: 1214 | Name: Choco
+Map: prt_maze01 | ID: 22241 | Name: Porion
+Map: prt_maze01 | ID: 22244 | Name: Fabron
+Map: prt_maze01 | ID: 22248 | Name: Chonix
+Map: prt_maze01 | ID: 22250 | Name: Volkur
+Map: prt_maze01 | ID: 22254 | Name: Cremave
+Map: prt_maze01 | ID: 22259 | Name: Constrix
+Map: prt_maze01 | ID: 22264 | Name: Poxus
+Map: prt_maze01 | ID: 22268 | Name: Sanguivor
+Map: prt_maze01 | ID: 22270 | Name: Serpentis
+Map: prt_maze01 | ID: 22275 | Name: Ferrichon
+Map: prt_maze01 | ID: 22284 | Name: Vibrokk
+Map: prt_maze01 | ID: 22288 | Name: Fumajin
+Map: prt_maze01 | ID: 22289 | Name: Yovian
+Map: prt_maze01 | ID: 22292 | Name: Goliathus
+Map: prt_maze01 | ID: 22295 | Name: Celestia
+Map: prt_maze01 | ID: 22330 | Name: Argylla
+Map: prt_maze01 | ID: 22331 | Name: Argonax
+Map: prt_maze01 | ID: 22334 | Name: Carmellion
+Map: prt_maze01 | ID: 22335 | Name: Cocovus
+Map: prt_maze01 | ID: 22345 | Name: Pulvix
+Map: prt_maze01 | ID: 22359 | Name: Hordis
+Map: prt_maze01 | ID: 22370 | Name: Mantrix
+Map: prt_maze01 | ID: 22376 | Name: Martivus
+Map: prt_maze01 | ID: 22397 | Name: Savarin
+Map: prt_maze01 | ID: 22401 | Name: Steinar
+Map: prt_maze01 | ID: 22438 | Name: Choculus
+Map: prt_maze02 | ID: 1031 | Name: Poporing
+Map: prt_maze02 | ID: 1060 | Name: Bigfoot
+Map: prt_maze02 | ID: 1243 | Name: Sasquatch
+Map: prt_maze02 | ID: 1306 | Name: Leib Olmai
+Map: prt_maze02 | ID: 22264 | Name: Poxus
+Map: prt_maze02 | ID: 22292 | Name: Goliathus
+Map: prt_maze02 | ID: 22457 | Name: Squatros
+Map: prt_maze02 | ID: 22519 | Name: Leibolma
+Map: prt_maze03 | ID: 1031 | Name: Poporing
+Map: prt_maze03 | ID: 1035 | Name: Hunter Fly
+Map: prt_maze03 | ID: 1037 | Name: Side Winder
+Map: prt_maze03 | ID: 1039 | Name: Baphomet
+Map: prt_maze03 | ID: 1078 | Name: Red Plant
+Map: prt_maze03 | ID: 1079 | Name: Blue Plant
+Map: prt_maze03 | ID: 1081 | Name: Yellow Plant
+Map: prt_maze03 | ID: 1083 | Name: Shining Plant
+Map: prt_maze03 | ID: 1084 | Name: Black Mushroom
+Map: prt_maze03 | ID: 1085 | Name: Red Mushroom
+Map: prt_maze03 | ID: 1088 | Name: Vocal
+Map: prt_maze03 | ID: 1090 | Name: Mastering
+Map: prt_maze03 | ID: 1092 | Name: Vagabond Wolf
+Map: prt_maze03 | ID: 1093 | Name: Eclipse
+Map: prt_maze03 | ID: 1101 | Name: Baphomet Jr.
+Map: prt_maze03 | ID: 1120 | Name: Ghostring
+Map: prt_maze03 | ID: 1139 | Name: Mantis
+Map: prt_maze03 | ID: 1215 | Name: Stem Worm
+Map: prt_maze03 | ID: 1294 | Name: Killer Mantis
+Map: prt_maze03 | ID: 22264 | Name: Poxus
+Map: prt_maze03 | ID: 22268 | Name: Sanguivor
+Map: prt_maze03 | ID: 22270 | Name: Serpentis
+Map: prt_maze03 | ID: 22319 | Name: Phonas
+Map: prt_maze03 | ID: 22332 | Name: Baphodius
+Map: prt_maze03 | ID: 22370 | Name: Mantrix
+Map: prt_maze03 | ID: 22439 | Name: Rhizon
+Map: prt_maze03 | ID: 22507 | Name: Scythrax
+Map: prt_sewb1 | ID: 1005 | Name: Familiar
+Map: prt_sewb1 | ID: 1048 | Name: Thief Bug Egg
+Map: prt_sewb1 | ID: 1051 | Name: Thief Bug
+Map: prt_sewb1 | ID: 1175 | Name: Tarou
+Map: prt_sewb1 | ID: 22243 | Name: Umbrion
+Map: prt_sewb1 | ID: 22283 | Name: Skulken
+Map: prt_sewb1 | ID: 22402 | Name: Taruke
+Map: prt_sewb2 | ID: 1005 | Name: Familiar
+Map: prt_sewb2 | ID: 1014 | Name: Spore
+Map: prt_sewb2 | ID: 1048 | Name: Thief Bug Egg
+Map: prt_sewb2 | ID: 1051 | Name: Thief Bug
+Map: prt_sewb2 | ID: 1053 | Name: Thief Bug Female
+Map: prt_sewb2 | ID: 1161 | Name: Plankton
+Map: prt_sewb2 | ID: 1175 | Name: Tarou
+Map: prt_sewb2 | ID: 22243 | Name: Umbrion
+Map: prt_sewb2 | ID: 22251 | Name: Sporula
+Map: prt_sewb2 | ID: 22283 | Name: Skulken
+Map: prt_sewb2 | ID: 22285 | Name: Aetheria
+Map: prt_sewb2 | ID: 22392 | Name: Aqualith
+Map: prt_sewb2 | ID: 22402 | Name: Taruke
+Map: prt_sewb3 | ID: 1005 | Name: Familiar
+Map: prt_sewb3 | ID: 1048 | Name: Thief Bug Egg
+Map: prt_sewb3 | ID: 1051 | Name: Thief Bug
+Map: prt_sewb3 | ID: 1053 | Name: Thief Bug Female
+Map: prt_sewb3 | ID: 1054 | Name: Thief Bug Male
+Map: prt_sewb3 | ID: 1077 | Name: Poison Spore
+Map: prt_sewb3 | ID: 1175 | Name: Tarou
+Map: prt_sewb3 | ID: 22243 | Name: Umbrion
+Map: prt_sewb3 | ID: 22283 | Name: Skulken
+Map: prt_sewb3 | ID: 22285 | Name: Aetheria
+Map: prt_sewb3 | ID: 22286 | Name: Chitinox
+Map: prt_sewb3 | ID: 22308 | Name: Toxifume
+Map: prt_sewb3 | ID: 22402 | Name: Taruke
+Map: prt_sewb4 | ID: 1048 | Name: Thief Bug Egg
+Map: prt_sewb4 | ID: 1051 | Name: Thief Bug
+Map: prt_sewb4 | ID: 1053 | Name: Thief Bug Female
+Map: prt_sewb4 | ID: 1054 | Name: Thief Bug Male
+Map: prt_sewb4 | ID: 1086 | Name: Golden Thief Bug
+Map: prt_sewb4 | ID: 1111 | Name: Drainliar
+Map: prt_sewb4 | ID: 1209 | Name: Cramp
+Map: prt_sewb4 | ID: 22283 | Name: Skulken
+Map: prt_sewb4 | ID: 22285 | Name: Aetheria
+Map: prt_sewb4 | ID: 22286 | Name: Chitinox
+Map: prt_sewb4 | ID: 22342 | Name: Siphylos
+Map: prt_sewb4 | ID: 22434 | Name: Spasmon
+Map: ra_fild01 | ID: 1106 | Name: Desert Wolf
+Map: ra_fild01 | ID: 1107 | Name: Baby Desert Wolf
+Map: ra_fild01 | ID: 1627 | Name: Anopheles
+Map: ra_fild01 | ID: 1782 | Name: Roween
+Map: ra_fild01 | ID: 22337 | Name: Desolup
+Map: ra_fild01 | ID: 22338 | Name: Cubsol
+Map: ra_fild01 | ID: 22835 | Name: Anophelum
+Map: ra_fild01 | ID: 22990 | Name: Rovenar
+Map: ra_fild03 | ID: 1030 | Name: Anacondaq
+Map: ra_fild03 | ID: 1627 | Name: Anopheles
+Map: ra_fild03 | ID: 1680 | Name: Hill Wind
+Map: ra_fild03 | ID: 1782 | Name: Roween
+Map: ra_fild03 | ID: 1785 | Name: Atroce
+Map: ra_fild03 | ID: 22263 | Name: Anaxion
+Map: ra_fild03 | ID: 22835 | Name: Anophelum
+Map: ra_fild03 | ID: 22990 | Name: Rovenar
+Map: ra_fild04 | ID: 1106 | Name: Desert Wolf
+Map: ra_fild04 | ID: 1627 | Name: Anopheles
+Map: ra_fild04 | ID: 1680 | Name: Hill Wind
+Map: ra_fild04 | ID: 1782 | Name: Roween
+Map: ra_fild04 | ID: 1785 | Name: Atroce
+Map: ra_fild04 | ID: 22337 | Name: Desolup
+Map: ra_fild04 | ID: 22835 | Name: Anophelum
+Map: ra_fild04 | ID: 22990 | Name: Rovenar
+Map: ra_fild05 | ID: 1133 | Name: Kobold
+Map: ra_fild05 | ID: 1134 | Name: Kobold
+Map: ra_fild05 | ID: 1135 | Name: Kobold
+Map: ra_fild05 | ID: 1627 | Name: Anopheles
+Map: ra_fild05 | ID: 22364 | Name: Kobalite
+Map: ra_fild05 | ID: 22835 | Name: Anophelum
+Map: ra_fild06 | ID: 1133 | Name: Kobold
+Map: ra_fild06 | ID: 1134 | Name: Kobold
+Map: ra_fild06 | ID: 1135 | Name: Kobold
+Map: ra_fild06 | ID: 1282 | Name: Kobold Archer
+Map: ra_fild06 | ID: 1296 | Name: Kobold Leader
+Map: ra_fild06 | ID: 1627 | Name: Anopheles
+Map: ra_fild06 | ID: 22364 | Name: Kobalite
+Map: ra_fild06 | ID: 22496 | Name: Kovolt
+Map: ra_fild06 | ID: 22509 | Name: Kobalix
+Map: ra_fild06 | ID: 22835 | Name: Anophelum
+Map: ra_fild08 | ID: 1030 | Name: Anacondaq
+Map: ra_fild08 | ID: 1107 | Name: Baby Desert Wolf
+Map: ra_fild08 | ID: 1627 | Name: Anopheles
+Map: ra_fild08 | ID: 1680 | Name: Hill Wind
+Map: ra_fild08 | ID: 1782 | Name: Roween
+Map: ra_fild08 | ID: 22263 | Name: Anaxion
+Map: ra_fild08 | ID: 22338 | Name: Cubsol
+Map: ra_fild08 | ID: 22835 | Name: Anophelum
+Map: ra_fild08 | ID: 22990 | Name: Rovenar
+Map: ra_fild12 | ID: 1078 | Name: Red Plant
+Map: ra_fild12 | ID: 1081 | Name: Yellow Plant
+Map: ra_fild12 | ID: 1107 | Name: Baby Desert Wolf
+Map: ra_fild12 | ID: 1627 | Name: Anopheles
+Map: ra_fild12 | ID: 1782 | Name: Roween
+Map: ra_fild12 | ID: 22338 | Name: Cubsol
+Map: ra_fild12 | ID: 22835 | Name: Anophelum
+Map: ra_fild12 | ID: 22990 | Name: Rovenar
+Map: ra_san01 | ID: 1632 | Name: Gremlin
+Map: ra_san01 | ID: 1633 | Name: Beholder
+Map: ra_san01 | ID: 1771 | Name: Vanberk
+Map: ra_san01 | ID: 1772 | Name: Isilla
+Map: ra_san01 | ID: 1773 | Name: Hodremlin
+Map: ra_san01 | ID: 22840 | Name: Gremlynx
+Map: ra_san01 | ID: 22841 | Name: Beholdron
+Map: ra_san01 | ID: 22979 | Name: Vandrim
+Map: ra_san01 | ID: 22980 | Name: Isilith
+Map: ra_san01 | ID: 22981 | Name: Hordevin
+Map: ra_san02 | ID: 1632 | Name: Gremlin
+Map: ra_san02 | ID: 1633 | Name: Beholder
+Map: ra_san02 | ID: 1771 | Name: Vanberk
+Map: ra_san02 | ID: 1772 | Name: Isilla
+Map: ra_san02 | ID: 1773 | Name: Hodremlin
+Map: ra_san02 | ID: 1774 | Name: Seeker
+Map: ra_san02 | ID: 22840 | Name: Gremlynx
+Map: ra_san02 | ID: 22841 | Name: Beholdron
+Map: ra_san02 | ID: 22979 | Name: Vandrim
+Map: ra_san02 | ID: 22980 | Name: Isilith
+Map: ra_san02 | ID: 22981 | Name: Hordevin
+Map: ra_san02 | ID: 22982 | Name: Vigilor
+Map: ra_san03 | ID: 1632 | Name: Gremlin
+Map: ra_san03 | ID: 1633 | Name: Beholder
+Map: ra_san03 | ID: 1773 | Name: Hodremlin
+Map: ra_san03 | ID: 1774 | Name: Seeker
+Map: ra_san03 | ID: 22840 | Name: Gremlynx
+Map: ra_san03 | ID: 22841 | Name: Beholdron
+Map: ra_san03 | ID: 22981 | Name: Hordevin
+Map: ra_san03 | ID: 22982 | Name: Vigilor
+Map: ra_san04 | ID: 1769 | Name: Agav
+Map: ra_san04 | ID: 1770 | Name: Echio
+Map: ra_san04 | ID: 1773 | Name: Hodremlin
+Map: ra_san04 | ID: 1774 | Name: Seeker
+Map: ra_san04 | ID: 22977 | Name: Gavarim
+Map: ra_san04 | ID: 22978 | Name: Echion
+Map: ra_san04 | ID: 22981 | Name: Hordevin
+Map: ra_san04 | ID: 22982 | Name: Vigilor
+Map: ra_san05 | ID: 1768 | Name: Gloom Under Night
+Map: ra_san05 | ID: 1769 | Name: Agav
+Map: ra_san05 | ID: 1770 | Name: Echio
+Map: ra_san05 | ID: 1772 | Name: Isilla
+Map: ra_san05 | ID: 1773 | Name: Hodremlin
+Map: ra_san05 | ID: 1774 | Name: Seeker
+Map: ra_san05 | ID: 22977 | Name: Gavarim
+Map: ra_san05 | ID: 22978 | Name: Echion
+Map: ra_san05 | ID: 22980 | Name: Isilith
+Map: ra_san05 | ID: 22981 | Name: Hordevin
+Map: ra_san05 | ID: 22982 | Name: Vigilor
+Map: spl_fild01 | ID: 1992 | Name: Cornus
+Map: spl_fild01 | ID: 1993 | Name: Naga
+Map: spl_fild01 | ID: 2015 | Name: Dark Pinguicula
+Map: spl_fild01 | ID: 23200 | Name: Corvitas
+Map: spl_fild01 | ID: 23201 | Name: Nagath
+Map: spl_fild01 | ID: 23222 | Name: Noxflora
+Map: spl_fild02 | ID: 1994 | Name: Luciola Vespa
+Map: spl_fild02 | ID: 1995 | Name: Pinguicula
+Map: spl_fild02 | ID: 23202 | Name: Vesplux
+Map: spl_fild02 | ID: 23203 | Name: Trappic
+Map: spl_fild03 | ID: 1991 | Name: Tendrilion
+Map: spl_fild03 | ID: 1992 | Name: Cornus
+Map: spl_fild03 | ID: 1993 | Name: Naga
+Map: spl_fild03 | ID: 1994 | Name: Luciola Vespa
+Map: spl_fild03 | ID: 23200 | Name: Corvitas
+Map: spl_fild03 | ID: 23201 | Name: Nagath
+Map: spl_fild03 | ID: 23202 | Name: Vesplux
+Map: tha_t01 | ID: 1191 | Name: Mimic
+Map: tha_t01 | ID: 1195 | Name: Rideword
+Map: tha_t01 | ID: 1275 | Name: Alice
+Map: tha_t01 | ID: 1695 | Name: Plasma
+Map: tha_t01 | ID: 1703 | Name: Lady Solace
+Map: tha_t01 | ID: 22416 | Name: Illusorym
+Map: tha_t01 | ID: 22420 | Name: Codexia
+Map: tha_t01 | ID: 22489 | Name: Aelise
+Map: tha_t02 | ID: 1191 | Name: Mimic
+Map: tha_t02 | ID: 1195 | Name: Rideword
+Map: tha_t02 | ID: 1275 | Name: Alice
+Map: tha_t02 | ID: 1377 | Name: Elder
+Map: tha_t02 | ID: 1697 | Name: Plasma
+Map: tha_t02 | ID: 1698 | Name: Death Word
+Map: tha_t02 | ID: 1699 | Name: Ancient Mimic
+Map: tha_t02 | ID: 1702 | Name: Baroness of Retribution
+Map: tha_t02 | ID: 22416 | Name: Illusorym
+Map: tha_t02 | ID: 22420 | Name: Codexia
+Map: tha_t02 | ID: 22489 | Name: Aelise
+Map: tha_t02 | ID: 22590 | Name: Ancien
+Map: tha_t02 | ID: 22906 | Name: Veridict
+Map: tha_t02 | ID: 22907 | Name: Vestigo
+Map: tha_t03 | ID: 1191 | Name: Mimic
+Map: tha_t03 | ID: 1195 | Name: Rideword
+Map: tha_t03 | ID: 1377 | Name: Elder
+Map: tha_t03 | ID: 1696 | Name: Plasma
+Map: tha_t03 | ID: 1698 | Name: Death Word
+Map: tha_t03 | ID: 1699 | Name: Ancient Mimic
+Map: tha_t03 | ID: 1701 | Name: Mistress of Shelter
+Map: tha_t03 | ID: 22416 | Name: Illusorym
+Map: tha_t03 | ID: 22420 | Name: Codexia
+Map: tha_t03 | ID: 22590 | Name: Ancien
+Map: tha_t03 | ID: 22906 | Name: Veridict
+Map: tha_t03 | ID: 22907 | Name: Vestigo
+Map: tha_t04 | ID: 1191 | Name: Mimic
+Map: tha_t04 | ID: 1195 | Name: Rideword
+Map: tha_t04 | ID: 1295 | Name: Owl Baron
+Map: tha_t04 | ID: 1320 | Name: Owl Duke
+Map: tha_t04 | ID: 1377 | Name: Elder
+Map: tha_t04 | ID: 1694 | Name: Plasma
+Map: tha_t04 | ID: 1698 | Name: Death Word
+Map: tha_t04 | ID: 1699 | Name: Ancient Mimic
+Map: tha_t04 | ID: 1700 | Name: Dame of Sentinel
+Map: tha_t04 | ID: 22416 | Name: Illusorym
+Map: tha_t04 | ID: 22420 | Name: Codexia
+Map: tha_t04 | ID: 22590 | Name: Ancien
+Map: tha_t04 | ID: 22906 | Name: Veridict
+Map: tha_t04 | ID: 22907 | Name: Vestigo
+Map: tha_t05 | ID: 1295 | Name: Owl Baron
+Map: tha_t05 | ID: 1320 | Name: Owl Duke
+Map: tha_t05 | ID: 1377 | Name: Elder
+Map: tha_t05 | ID: 1694 | Name: Plasma
+Map: tha_t05 | ID: 1695 | Name: Plasma
+Map: tha_t05 | ID: 1696 | Name: Plasma
+Map: tha_t05 | ID: 1697 | Name: Plasma
+Map: tha_t05 | ID: 1698 | Name: Death Word
+Map: tha_t05 | ID: 1699 | Name: Ancient Mimic
+Map: tha_t05 | ID: 1707 | Name: Dolor of Thanatos
+Map: tha_t05 | ID: 22590 | Name: Ancien
+Map: tha_t05 | ID: 22906 | Name: Veridict
+Map: tha_t05 | ID: 22907 | Name: Vestigo
+Map: tha_t06 | ID: 1295 | Name: Owl Baron
+Map: tha_t06 | ID: 1320 | Name: Owl Duke
+Map: tha_t06 | ID: 1377 | Name: Elder
+Map: tha_t06 | ID: 1694 | Name: Plasma
+Map: tha_t06 | ID: 1695 | Name: Plasma
+Map: tha_t06 | ID: 1696 | Name: Plasma
+Map: tha_t06 | ID: 1697 | Name: Plasma
+Map: tha_t06 | ID: 1698 | Name: Death Word
+Map: tha_t06 | ID: 1699 | Name: Ancient Mimic
+Map: tha_t06 | ID: 1706 | Name: Maero of Thanatos
+Map: tha_t06 | ID: 22590 | Name: Ancien
+Map: tha_t06 | ID: 22906 | Name: Veridict
+Map: tha_t06 | ID: 22907 | Name: Vestigo
+Map: tha_t07 | ID: 1698 | Name: Death Word
+Map: tha_t07 | ID: 1699 | Name: Ancient Mimic
+Map: tha_t07 | ID: 1700 | Name: Dame of Sentinel
+Map: tha_t07 | ID: 1701 | Name: Mistress of Shelter
+Map: tha_t07 | ID: 1702 | Name: Baroness of Retribution
+Map: tha_t07 | ID: 1703 | Name: Lady Solace
+Map: tha_t07 | ID: 1705 | Name: Despero of Thanatos
+Map: tha_t07 | ID: 22906 | Name: Veridict
+Map: tha_t07 | ID: 22907 | Name: Vestigo
+Map: tha_t08 | ID: 1698 | Name: Death Word
+Map: tha_t08 | ID: 1699 | Name: Ancient Mimic
+Map: tha_t08 | ID: 1700 | Name: Dame of Sentinel
+Map: tha_t08 | ID: 1701 | Name: Mistress of Shelter
+Map: tha_t08 | ID: 1702 | Name: Baroness of Retribution
+Map: tha_t08 | ID: 1703 | Name: Lady Solace
+Map: tha_t08 | ID: 1704 | Name: Odium of Thanatos
+Map: tha_t08 | ID: 22906 | Name: Veridict
+Map: tha_t08 | ID: 22907 | Name: Vestigo
+Map: tha_t09 | ID: 1694 | Name: Plasma
+Map: tha_t09 | ID: 1700 | Name: Dame of Sentinel
+Map: tha_t09 | ID: 1701 | Name: Mistress of Shelter
+Map: tha_t09 | ID: 1702 | Name: Baroness of Retribution
+Map: tha_t09 | ID: 1703 | Name: Lady Solace
+Map: tha_t09 | ID: 1707 | Name: Dolor of Thanatos
+Map: tha_t09 | ID: 1712 | Name: Dolor of Thanatos
+Map: tha_t10 | ID: 1697 | Name: Plasma
+Map: tha_t10 | ID: 1700 | Name: Dame of Sentinel
+Map: tha_t10 | ID: 1701 | Name: Mistress of Shelter
+Map: tha_t10 | ID: 1702 | Name: Baroness of Retribution
+Map: tha_t10 | ID: 1703 | Name: Lady Solace
+Map: tha_t10 | ID: 1706 | Name: Maero of Thanatos
+Map: tha_t10 | ID: 1711 | Name: Maero of Thanatos
+Map: tha_t11 | ID: 1695 | Name: Plasma
+Map: tha_t11 | ID: 1700 | Name: Dame of Sentinel
+Map: tha_t11 | ID: 1701 | Name: Mistress of Shelter
+Map: tha_t11 | ID: 1702 | Name: Baroness of Retribution
+Map: tha_t11 | ID: 1703 | Name: Lady Solace
+Map: tha_t11 | ID: 1705 | Name: Despero of Thanatos
+Map: tha_t11 | ID: 1710 | Name: Despero of Thanatos
+Map: tha_t12 | ID: 1693 | Name: Plasma
+Map: tha_t12 | ID: 1700 | Name: Dame of Sentinel
+Map: tha_t12 | ID: 1701 | Name: Mistress of Shelter
+Map: tha_t12 | ID: 1702 | Name: Baroness of Retribution
+Map: tha_t12 | ID: 1703 | Name: Lady Solace
+Map: tha_t12 | ID: 1709 | Name: Odium of Thanatos
+Map: tha_t12 | ID: 22901 | Name: Voltix
+Map: thor_v01 | ID: 1829 | Name: Sword Guardian
+Map: thor_v01 | ID: 1830 | Name: Bow Guardian
+Map: thor_v01 | ID: 1831 | Name: Salamander
+Map: thor_v01 | ID: 1833 | Name: Kasa
+Map: thor_v01 | ID: 1836 | Name: Magmaring
+Map: thor_v01 | ID: 1837 | Name: Imp
+Map: thor_v01 | ID: 1839 | Name: Byrogue
+Map: thor_v01 | ID: 23044 | Name: Magmavis
+Map: thor_v01 | ID: 23045 | Name: Impar
+Map: thor_v02 | ID: 1072 | Name: Kaho
+Map: thor_v02 | ID: 1829 | Name: Sword Guardian
+Map: thor_v02 | ID: 1830 | Name: Bow Guardian
+Map: thor_v02 | ID: 1831 | Name: Salamander
+Map: thor_v02 | ID: 1836 | Name: Magmaring
+Map: thor_v02 | ID: 1837 | Name: Imp
+Map: thor_v02 | ID: 1838 | Name: Knocker
+Map: thor_v02 | ID: 22304 | Name: Kahoran
+Map: thor_v02 | ID: 23044 | Name: Magmavis
+Map: thor_v02 | ID: 23045 | Name: Impar
+Map: thor_v02 | ID: 23046 | Name: Knockerite
+Map: thor_v03 | ID: 1829 | Name: Sword Guardian
+Map: thor_v03 | ID: 1830 | Name: Bow Guardian
+Map: thor_v03 | ID: 1831 | Name: Salamander
+Map: thor_v03 | ID: 1832 | Name: Ifrit
+Map: thor_v03 | ID: 1833 | Name: Kasa
+Map: thor_v03 | ID: 1839 | Name: Byrogue
+Map: treasure01 | ID: 1068 | Name: Hydra
+Map: treasure01 | ID: 1070 | Name: Kukre
+Map: treasure01 | ID: 1071 | Name: Pirate Skeleton
+Map: treasure01 | ID: 22302 | Name: Kryxus
+Map: treasure01 | ID: 22303 | Name: Marcurse
+Map: treasure02 | ID: 1068 | Name: Hydra
+Map: treasure02 | ID: 1070 | Name: Kukre
+Map: treasure02 | ID: 1071 | Name: Pirate Skeleton
+Map: treasure02 | ID: 1112 | Name: Drake
+Map: treasure02 | ID: 1120 | Name: Ghostring
+Map: treasure02 | ID: 1143 | Name: Marionette
+Map: treasure02 | ID: 1179 | Name: Whisper
+Map: treasure02 | ID: 1191 | Name: Mimic
+Map: treasure02 | ID: 22302 | Name: Kryxus
+Map: treasure02 | ID: 22303 | Name: Marcurse
+Map: treasure02 | ID: 22374 | Name: Marinetta
+Map: treasure02 | ID: 22406 | Name: Wispra
+Map: treasure02 | ID: 22416 | Name: Illusorym
+Map: treasure_n1 | ID: 1012 | Name: Roda Frog
+Map: treasure_n1 | ID: 1014 | Name: Spore
+Map: treasure_n1 | ID: 1015 | Name: Zombie
+Map: treasure_n1 | ID: 1078 | Name: Red Plant
+Map: treasure_n1 | ID: 1079 | Name: Blue Plant
+Map: treasure_n1 | ID: 1080 | Name: Green Plant
+Map: treasure_n1 | ID: 1081 | Name: Yellow Plant
+Map: treasure_n1 | ID: 1082 | Name: White Plant
+Map: treasure_n1 | ID: 1084 | Name: Black Mushroom
+Map: treasure_n1 | ID: 1085 | Name: Red Mushroom
+Map: treasure_n1 | ID: 2404 | Name: Dead Plankton
+Map: treasure_n1 | ID: 2405 | Name: Weak Skeleton
+Map: treasure_n2 | ID: 1015 | Name: Zombie
+Map: treasure_n2 | ID: 1078 | Name: Red Plant
+Map: treasure_n2 | ID: 1079 | Name: Blue Plant
+Map: treasure_n2 | ID: 1080 | Name: Green Plant
+Map: treasure_n2 | ID: 1081 | Name: Yellow Plant
+Map: treasure_n2 | ID: 1082 | Name: White Plant
+Map: treasure_n2 | ID: 1084 | Name: Black Mushroom
+Map: treasure_n2 | ID: 1085 | Name: Red Mushroom
+Map: treasure_n2 | ID: 2404 | Name: Dead Plankton
+Map: treasure_n2 | ID: 2405 | Name: Weak Skeleton
+Map: treasure_n2 | ID: 2406 | Name: Weak Soldier Skeleton
+Map: tur_dun01 | ID: 1034 | Name: Thara Frog
+Map: tur_dun01 | ID: 1256 | Name: Pest
+Map: tur_dun01 | ID: 1314 | Name: Permeter
+Map: tur_dun01 | ID: 1321 | Name: Dragon Tail
+Map: tur_dun01 | ID: 1322 | Name: Spring Rabbit
+Map: tur_dun01 | ID: 22267 | Name: Tharalux
+Map: tur_dun01 | ID: 22470 | Name: Pestil
+Map: tur_dun01 | ID: 22527 | Name: Permetric
+Map: tur_dun01 | ID: 22534 | Name: Dracorax
+Map: tur_dun01 | ID: 22535 | Name: Vibrit
+Map: tur_dun02 | ID: 1256 | Name: Pest
+Map: tur_dun02 | ID: 1314 | Name: Permeter
+Map: tur_dun02 | ID: 1316 | Name: Solider
+Map: tur_dun02 | ID: 1319 | Name: Freezer
+Map: tur_dun02 | ID: 22470 | Name: Pestil
+Map: tur_dun02 | ID: 22527 | Name: Permetric
+Map: tur_dun02 | ID: 22529 | Name: Solitus
+Map: tur_dun02 | ID: 22532 | Name: Frizzae
+Map: tur_dun03 | ID: 1314 | Name: Permeter
+Map: tur_dun03 | ID: 1315 | Name: Assaulter
+Map: tur_dun03 | ID: 1318 | Name: Heater
+Map: tur_dun03 | ID: 1319 | Name: Freezer
+Map: tur_dun03 | ID: 22527 | Name: Permetric
+Map: tur_dun03 | ID: 22528 | Name: Astrault
+Map: tur_dun03 | ID: 22531 | Name: Hestor
+Map: tur_dun03 | ID: 22532 | Name: Frizzae
+Map: tur_dun04 | ID: 1312 | Name: Turtle General
+Map: tur_dun04 | ID: 1314 | Name: Permeter
+Map: tur_dun04 | ID: 1315 | Name: Assaulter
+Map: tur_dun04 | ID: 1318 | Name: Heater
+Map: tur_dun04 | ID: 1319 | Name: Freezer
+Map: tur_dun04 | ID: 22527 | Name: Permetric
+Map: tur_dun04 | ID: 22528 | Name: Astrault
+Map: tur_dun04 | ID: 22531 | Name: Hestor
+Map: tur_dun04 | ID: 22532 | Name: Frizzae
+Map: tur_dun05 | ID: 1314 | Name: Permeter
+Map: tur_dun05 | ID: 1315 | Name: Assaulter
+Map: tur_dun05 | ID: 1319 | Name: Freezer
+Map: tur_dun05 | ID: 22527 | Name: Permetric
+Map: tur_dun05 | ID: 22532 | Name: Frizzae
+Map: um_fild01 | ID: 1080 | Name: Green Plant
+Map: um_fild01 | ID: 1081 | Name: Yellow Plant
+Map: um_fild01 | ID: 1083 | Name: Shining Plant
+Map: um_fild01 | ID: 1493 | Name: Dryad
+Map: um_fild01 | ID: 1495 | Name: Stone Shooter
+Map: um_fild01 | ID: 1497 | Name: Wooden Golem
+Map: um_fild01 | ID: 1498 | Name: Wootan Shooter
+Map: um_fild01 | ID: 1499 | Name: Wootan Fighter
+Map: um_fild01 | ID: 22703 | Name: Dryalia
+Map: um_fild01 | ID: 22705 | Name: Lithocast
+Map: um_fild01 | ID: 22706 | Name: Xylomus
+Map: um_fild01 | ID: 22707 | Name: Wutaria
+Map: um_fild01 | ID: 22708 | Name: Wutanaar
+Map: um_fild02 | ID: 1078 | Name: Red Plant
+Map: um_fild02 | ID: 1081 | Name: Yellow Plant
+Map: um_fild02 | ID: 1214 | Name: Choco
+Map: um_fild02 | ID: 1495 | Name: Stone Shooter
+Map: um_fild02 | ID: 1498 | Name: Wootan Shooter
+Map: um_fild02 | ID: 1499 | Name: Wootan Fighter
+Map: um_fild02 | ID: 22438 | Name: Choculus
+Map: um_fild02 | ID: 22705 | Name: Lithocast
+Map: um_fild02 | ID: 22707 | Name: Wutaria
+Map: um_fild02 | ID: 22708 | Name: Wutanaar
+Map: um_fild03 | ID: 1079 | Name: Blue Plant
+Map: um_fild03 | ID: 1080 | Name: Green Plant
+Map: um_fild03 | ID: 1083 | Name: Shining Plant
+Map: um_fild03 | ID: 1495 | Name: Stone Shooter
+Map: um_fild03 | ID: 1498 | Name: Wootan Shooter
+Map: um_fild03 | ID: 1499 | Name: Wootan Fighter
+Map: um_fild03 | ID: 1500 | Name: Parasite
+Map: um_fild03 | ID: 22705 | Name: Lithocast
+Map: um_fild03 | ID: 22707 | Name: Wutaria
+Map: um_fild03 | ID: 22708 | Name: Wutanaar
+Map: um_fild03 | ID: 22709 | Name: Siphonus
+Map: um_fild04 | ID: 1078 | Name: Red Plant
+Map: um_fild04 | ID: 1081 | Name: Yellow Plant
+Map: um_fild04 | ID: 1214 | Name: Choco
+Map: um_fild04 | ID: 1261 | Name: Wild Rose
+Map: um_fild04 | ID: 1495 | Name: Stone Shooter
+Map: um_fild04 | ID: 1497 | Name: Wooden Golem
+Map: um_fild04 | ID: 1498 | Name: Wootan Shooter
+Map: um_fild04 | ID: 1499 | Name: Wootan Fighter
+Map: um_fild04 | ID: 22438 | Name: Choculus
+Map: um_fild04 | ID: 22475 | Name: Rosavox
+Map: um_fild04 | ID: 22705 | Name: Lithocast
+Map: um_fild04 | ID: 22706 | Name: Xylomus
+Map: um_fild04 | ID: 22707 | Name: Wutaria
+Map: um_fild04 | ID: 22708 | Name: Wutanaar
+Map: ve_fild01 | ID: 1078 | Name: Red Plant
+Map: ve_fild01 | ID: 1079 | Name: Blue Plant
+Map: ve_fild01 | ID: 1081 | Name: Yellow Plant
+Map: ve_fild01 | ID: 1083 | Name: Shining Plant
+Map: ve_fild01 | ID: 1780 | Name: Muscipular
+Map: ve_fild01 | ID: 1781 | Name: Drosera
+Map: ve_fild01 | ID: 1783 | Name: Galion
+Map: ve_fild01 | ID: 1784 | Name: Stapo
+Map: ve_fild01 | ID: 1785 | Name: Atroce
+Map: ve_fild01 | ID: 22988 | Name: Musciprex
+Map: ve_fild01 | ID: 22989 | Name: Droserith
+Map: ve_fild01 | ID: 22992 | Name: Staplon
+Map: ve_fild02 | ID: 1078 | Name: Red Plant
+Map: ve_fild02 | ID: 1081 | Name: Yellow Plant
+Map: ve_fild02 | ID: 1780 | Name: Muscipular
+Map: ve_fild02 | ID: 1781 | Name: Drosera
+Map: ve_fild02 | ID: 1783 | Name: Galion
+Map: ve_fild02 | ID: 1785 | Name: Atroce
+Map: ve_fild02 | ID: 22988 | Name: Musciprex
+Map: ve_fild02 | ID: 22989 | Name: Droserith
+Map: ve_fild03 | ID: 1078 | Name: Red Plant
+Map: ve_fild03 | ID: 1081 | Name: Yellow Plant
+Map: ve_fild03 | ID: 1780 | Name: Muscipular
+Map: ve_fild03 | ID: 1781 | Name: Drosera
+Map: ve_fild03 | ID: 1836 | Name: Magmaring
+Map: ve_fild03 | ID: 22988 | Name: Musciprex
+Map: ve_fild03 | ID: 22989 | Name: Droserith
+Map: ve_fild03 | ID: 23044 | Name: Magmavis
+Map: ve_fild04 | ID: 1079 | Name: Blue Plant
+Map: ve_fild04 | ID: 1081 | Name: Yellow Plant
+Map: ve_fild04 | ID: 1780 | Name: Muscipular
+Map: ve_fild04 | ID: 1781 | Name: Drosera
+Map: ve_fild04 | ID: 1783 | Name: Galion
+Map: ve_fild04 | ID: 22988 | Name: Musciprex
+Map: ve_fild04 | ID: 22989 | Name: Droserith
+Map: ve_fild07 | ID: 1082 | Name: White Plant
+Map: ve_fild07 | ID: 1780 | Name: Muscipular
+Map: ve_fild07 | ID: 1781 | Name: Drosera
+Map: ve_fild07 | ID: 1784 | Name: Stapo
+Map: ve_fild07 | ID: 22988 | Name: Musciprex
+Map: ve_fild07 | ID: 22989 | Name: Droserith
+Map: ve_fild07 | ID: 22992 | Name: Staplon
+Map: xmas_dun01 | ID: 1002 | Name: Poring
+Map: xmas_dun01 | ID: 1031 | Name: Poporing
+Map: xmas_dun01 | ID: 1090 | Name: Mastering
+Map: xmas_dun01 | ID: 1096 | Name: Angeling
+Map: xmas_dun01 | ID: 1113 | Name: Drops
+Map: xmas_dun01 | ID: 1242 | Name: Marin
+Map: xmas_dun01 | ID: 1246 | Name: Christmas Cookie
+Map: xmas_dun01 | ID: 1249 | Name: Myst Case
+Map: xmas_dun01 | ID: 1250 | Name: Chepet
+Map: xmas_dun01 | ID: 1265 | Name: Cookie
+Map: xmas_dun01 | ID: 22241 | Name: Porion
+Map: xmas_dun01 | ID: 22264 | Name: Poxus
+Map: xmas_dun01 | ID: 22344 | Name: Driplette
+Map: xmas_dun01 | ID: 22456 | Name: Marinus
+Map: xmas_dun01 | ID: 22460 | Name: Crumblor
+Map: xmas_dun01 | ID: 22463 | Name: Arcanam
+Map: xmas_dun01 | ID: 22464 | Name: Chepol
+Map: xmas_dun01 | ID: 22479 | Name: Confectus
+Map: xmas_dun02 | ID: 1246 | Name: Christmas Cookie
+Map: xmas_dun02 | ID: 1248 | Name: Cruiser
+Map: xmas_dun02 | ID: 1249 | Name: Myst Case
+Map: xmas_dun02 | ID: 1251 | Name: Stormy Knight
+Map: xmas_dun02 | ID: 1265 | Name: Cookie
+Map: xmas_dun02 | ID: 22460 | Name: Crumblor
+Map: xmas_dun02 | ID: 22462 | Name: Cruxion
+Map: xmas_dun02 | ID: 22463 | Name: Arcanam
+Map: xmas_dun02 | ID: 22479 | Name: Confectus
+Map: xmas_fild01 | ID: 1242 | Name: Marin
+Map: xmas_fild01 | ID: 1243 | Name: Sasquatch
+Map: xmas_fild01 | ID: 1252 | Name: Garm
+Map: xmas_fild01 | ID: 1515 | Name: Garm Baby
+Map: xmas_fild01 | ID: 22456 | Name: Marinus
+Map: xmas_fild01 | ID: 22457 | Name: Squatros
+Map: xmas_fild01 | ID: 22723 | Name: Hatyll
+Map: yggdrasil01 | ID: 1078 | Name: Red Plant
+Map: yggdrasil01 | ID: 1079 | Name: Blue Plant
+Map: yggdrasil01 | ID: 1080 | Name: Green Plant
+Map: yggdrasil01 | ID: 1081 | Name: Yellow Plant
+Map: yggdrasil01 | ID: 1082 | Name: White Plant
+Map: yggdrasil01 | ID: 1083 | Name: Shining Plant
+Map: yuno_fild01 | ID: 1078 | Name: Red Plant
+Map: yuno_fild01 | ID: 1079 | Name: Blue Plant
+Map: yuno_fild01 | ID: 1080 | Name: Green Plant
+Map: yuno_fild01 | ID: 1081 | Name: Yellow Plant
+Map: yuno_fild01 | ID: 1083 | Name: Shining Plant
+Map: yuno_fild01 | ID: 1114 | Name: Dustiness
+Map: yuno_fild01 | ID: 1139 | Name: Mantis
+Map: yuno_fild01 | ID: 1368 | Name: Geographer
+Map: yuno_fild01 | ID: 22345 | Name: Pulvix
+Map: yuno_fild01 | ID: 22370 | Name: Mantrix
+Map: yuno_fild01 | ID: 22581 | Name: Geodius
+Map: yuno_fild02 | ID: 1078 | Name: Red Plant
+Map: yuno_fild02 | ID: 1080 | Name: Green Plant
+Map: yuno_fild02 | ID: 1081 | Name: Yellow Plant
+Map: yuno_fild02 | ID: 1369 | Name: Grand Peco
+Map: yuno_fild02 | ID: 1376 | Name: Harpy
+Map: yuno_fild02 | ID: 1386 | Name: Sleeper
+Map: yuno_fild02 | ID: 22582 | Name: Pecovian
+Map: yuno_fild02 | ID: 22589 | Name: Sirenus
+Map: yuno_fild02 | ID: 22599 | Name: Hypnor
+Map: yuno_fild03 | ID: 1078 | Name: Red Plant
+Map: yuno_fild03 | ID: 1079 | Name: Blue Plant
+Map: yuno_fild03 | ID: 1080 | Name: Green Plant
+Map: yuno_fild03 | ID: 1081 | Name: Yellow Plant
+Map: yuno_fild03 | ID: 1083 | Name: Shining Plant
+Map: yuno_fild03 | ID: 1096 | Name: Angeling
+Map: yuno_fild03 | ID: 1372 | Name: Goat
+Map: yuno_fild03 | ID: 1376 | Name: Harpy
+Map: yuno_fild03 | ID: 1386 | Name: Sleeper
+Map: yuno_fild03 | ID: 1582 | Name: Deviling
+Map: yuno_fild03 | ID: 22585 | Name: Goathos
+Map: yuno_fild03 | ID: 22589 | Name: Sirenus
+Map: yuno_fild03 | ID: 22599 | Name: Hypnor
+Map: yuno_fild04 | ID: 1078 | Name: Red Plant
+Map: yuno_fild04 | ID: 1080 | Name: Green Plant
+Map: yuno_fild04 | ID: 1081 | Name: Yellow Plant
+Map: yuno_fild04 | ID: 1090 | Name: Mastering
+Map: yuno_fild04 | ID: 1368 | Name: Geographer
+Map: yuno_fild04 | ID: 1372 | Name: Goat
+Map: yuno_fild04 | ID: 1376 | Name: Harpy
+Map: yuno_fild04 | ID: 1388 | Name: Arc Angeling
+Map: yuno_fild04 | ID: 22581 | Name: Geodius
+Map: yuno_fild04 | ID: 22585 | Name: Goathos
+Map: yuno_fild04 | ID: 22589 | Name: Sirenus
+Map: yuno_fild06 | ID: 1078 | Name: Red Plant
+Map: yuno_fild06 | ID: 1080 | Name: Green Plant
+Map: yuno_fild06 | ID: 1081 | Name: Yellow Plant
+Map: yuno_fild06 | ID: 1368 | Name: Geographer
+Map: yuno_fild06 | ID: 1386 | Name: Sleeper
+Map: yuno_fild06 | ID: 22581 | Name: Geodius
+Map: yuno_fild06 | ID: 22599 | Name: Hypnor
+Map: yuno_fild07 | ID: 1078 | Name: Red Plant
+Map: yuno_fild07 | ID: 1080 | Name: Green Plant
+Map: yuno_fild07 | ID: 1081 | Name: Yellow Plant
+Map: yuno_fild07 | ID: 1369 | Name: Grand Peco
+Map: yuno_fild07 | ID: 1372 | Name: Goat
+Map: yuno_fild07 | ID: 1376 | Name: Harpy
+Map: yuno_fild07 | ID: 22582 | Name: Pecovian
+Map: yuno_fild07 | ID: 22585 | Name: Goathos
+Map: yuno_fild07 | ID: 22589 | Name: Sirenus
+Map: yuno_fild08 | ID: 1078 | Name: Red Plant
+Map: yuno_fild08 | ID: 1080 | Name: Green Plant
+Map: yuno_fild08 | ID: 1081 | Name: Yellow Plant
+Map: yuno_fild08 | ID: 1368 | Name: Geographer
+Map: yuno_fild08 | ID: 1369 | Name: Grand Peco
+Map: yuno_fild08 | ID: 1372 | Name: Goat
+Map: yuno_fild08 | ID: 22581 | Name: Geodius
+Map: yuno_fild08 | ID: 22582 | Name: Pecovian
+Map: yuno_fild08 | ID: 22585 | Name: Goathos
+Map: yuno_fild09 | ID: 1078 | Name: Red Plant
+Map: yuno_fild09 | ID: 1080 | Name: Green Plant
+Map: yuno_fild09 | ID: 1081 | Name: Yellow Plant
+Map: yuno_fild09 | ID: 1368 | Name: Geographer
+Map: yuno_fild09 | ID: 1369 | Name: Grand Peco
+Map: yuno_fild09 | ID: 1386 | Name: Sleeper
+Map: yuno_fild09 | ID: 22581 | Name: Geodius
+Map: yuno_fild09 | ID: 22582 | Name: Pecovian
+Map: yuno_fild09 | ID: 22599 | Name: Hypnor
+Map: yuno_fild11 | ID: 1078 | Name: Red Plant
+Map: yuno_fild11 | ID: 1080 | Name: Green Plant
+Map: yuno_fild11 | ID: 1081 | Name: Yellow Plant
+Map: yuno_fild11 | ID: 1368 | Name: Geographer
+Map: yuno_fild11 | ID: 1372 | Name: Goat
+Map: yuno_fild11 | ID: 22581 | Name: Geodius
+Map: yuno_fild11 | ID: 22585 | Name: Goathos
+Map: yuno_fild12 | ID: 1139 | Name: Mantis
+Map: yuno_fild12 | ID: 1368 | Name: Geographer
+Map: yuno_fild12 | ID: 22370 | Name: Mantrix
+Map: yuno_fild12 | ID: 22581 | Name: Geodius

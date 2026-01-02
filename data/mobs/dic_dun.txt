@@ -1,0 +1,43 @@
+//===== rAthena Script =======================================
+//= El Dicastes Dungeon Monster Spawn Script
+//===== By: ==================================================
+//= Kisuka
+//===== Current Version: =====================================
+//= 1.2
+//===== Compatible With: =====================================
+//= rAthena Project
+//===== Description: =========================================
+//= Official monster spawns in El Dicastes Dungeon.
+//===== Additional Comments: =================================
+//= 1.0 Official spawns from Aegis [Kisuka]
+//= 1.1 Added Nightmare Scaraba Hole [Chilly]
+//= 1.2 Updated Nightmare spawns and names. [Euphy]
+//============================================================
+
+//==================================================
+// dic_dun01 - Underground Passage Kamidal Tunnel
+//==================================================
+dic_dun01,0,0	monster	One-Horned Scaraba	2083,50,5000
+dic_dun01,0,0	monster	Unicara	23278,5,5000
+
+dic_dun01,0,0	monster	Two-Horned Scaraba	2084,45,5000
+dic_dun01,0,0	monster	Duocara	23279,4,5000
+
+dic_dun01,0,0	monster	Scaraba Egg	2088,15,5000
+
+dic_dun01,0,0	monster	Scaraba Egg	2089,15,5000
+
+//==================================================
+// dic_dun02 - Underground Nest Scaraba Hole
+//==================================================
+dic_dun02,0,0	monster	Antler Scaraba	2085,50,5000
+dic_dun02,0,0	monster	Cornix	23280,5,5000
+
+dic_dun02,0,0	monster	Rake Scaraba	2086,45,5000
+dic_dun02,0,0	monster	Scaurus	23281,4,5000
+
+dic_dun02,0,0	monster	Antler Scaraba Egg	2090,15,5000
+
+dic_dun02,0,0	monster	Rake Scaraba Egg	2091,15,5000
+
+dic_dun02,0,0,0,0	boss_monster	Scaraba Queen	2087,1,7200000,0,1

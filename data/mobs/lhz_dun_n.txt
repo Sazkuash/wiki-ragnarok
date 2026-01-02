@@ -1,0 +1,10 @@
+//===== rAthena Script =======================================
+//= Nightmare Biolabs
+//===== Description: =========================================
+//= Nightmare Biolabs Monster Spawn Script.
+//===== Additional Comments: =================================
+//= 1.0 First version. Boss and slaves spawn are assumptions
+//		based on lhz_dun.txt monsters spawn. [Capuche]
+//= 1.1 Changed MvP spawn based on the amount of
+//		monsters killed. [Capuche]
+//============================================================

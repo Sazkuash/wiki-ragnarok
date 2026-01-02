@@ -1,0 +1,7 @@
+//===== rAthena Script =======================================
+//= Flame Basin Monster Spawn Script
+//===== Description: =========================================
+//= Spawns monsters on Flame Basin.
+//===== Additional Comments: =================================
+//= 1.0 First version. [Capuche]
+//============================================================

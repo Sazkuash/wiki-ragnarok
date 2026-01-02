@@ -1,0 +1,16 @@
+//===== rAthena Script =======================================
+//= Malangdo Dungeon Monster Spawn Script
+//===== By: ==================================================
+//= Chilly
+//===== Current Version: =====================================
+//= 1.2
+//===== Compatible With: =====================================
+//= rAthena Project
+//===== Description: =========================================
+//= Official kRO monster spawns
+//===== Additional Comments: =================================
+//= 1.0 First Release
+//= 1.1 Updated to official script. [Euphy]
+//= 1.2 Added Pouring spawn, source iRO. [Euphy]
+//============================================================
+

@@ -1,0 +1,7 @@
+//===== rAthena Script =======================================
+//= TE Guild Dungeon Monster
+//===== Description: =========================================
+//= Official monster spawn for TE Guild Dungeons
+//===== Changelogs: ==========================================
+//= 1.0 First version
+//============================================================

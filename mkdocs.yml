@@ -1,14 +1,24 @@
-site_name: Ragnarok Wiki
+site_name: Tanelorn Chronicles
 
 theme:
   name: material
   palette:
     scheme: slate
     primary: red
+    accent: red
   features:
     - navigation.instant
-    - navigation.tracking
     - navigation.indexes
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+  language: pt-BR
+  icon:
+    logo: material/sword-cross
+
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - search
@@ -16,4 +26,5 @@ plugins:
 
 nav:
   - Home: index.md
-  - Database: itens/index.md
+  - Items: items/index.md
+  - Monsters: monsters/index.md

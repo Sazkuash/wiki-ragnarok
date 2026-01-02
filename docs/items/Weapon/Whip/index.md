@@ -1,0 +1,25 @@
+# Whip
+
+Items:
+
+- [Blade Whip](1969.md)
+- [Carrot Whip](1974.md)
+- [Chemeti Whip](1964.md)
+- [Electric Eel](1972.md)
+- [Electric Wire](1971.md)
+- [Gaia Whip](1967.md)
+- [Icicle Whip](1966.md)
+- [Lariat Whip](1962.md)
+- [Queen's Whip](1970.md)
+- [Rante Whip](1956.md)
+- [Rante Whip](1957.md)
+- [Rapture Rose](1963.md)
+- [Red Flame Whip](1965.md)
+- [Sea Witch's Foot](1973.md)
+- [Skipping Rope](1968.md)
+- [Stem of Nepenthes](1979.md)
+- [Tail Whip](1959.md)
+- [Whip](1953.md)
+- [Whip](1961.md)
+- [Whip of Balance](1980.md)
+- [Wire Whip](1955.md)
