@@ -17,4 +17,6 @@ Items:
 - [Tidal Shoes](2424.md)
 - [Black Leather Boots](2425.md)
 - [Diabolus Boots](2433.md)
+- [Shadow Walk](2486.md)
+- [Vital Tree Shoes](2487.md)
 - [Shackles (jRO)](22105.md)

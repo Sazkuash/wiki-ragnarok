@@ -10,6 +10,7 @@ echo.
 echo --- 3. PUBLICANDO SITE ONLINE ---
 mkdocs gh-deploy --force
 echo.
-echo PRONTO! O site estara online em:
+echo PROCESSO CONCLUIDO!
+echo O site estara online em:
 echo https://Sazkuash.github.io/wiki-tanelorn/
 pause

@@ -1,4 +1,6 @@
-site_name: Tanelorn Chronicles
+site_name: Tanelorn Chronicles Wiki
+site_url: https://Sazkuash.github.io/wiki-tanelorn/
+repo_url: https://github.com/Sazkuash/wiki-tanelorn
 
 theme:
   name: material
@@ -13,7 +15,7 @@ theme:
     - navigation.top
     - search.suggest
     - search.highlight
-  language: pt-BR
+  language: en
   icon:
     logo: material/sword-cross
 
@@ -23,6 +25,9 @@ extra_css:
 plugins:
   - search
   - awesome-pages
+
+remote_name: origin
+remote_branch: gh-pages
 
 nav:
   - Home: index.md
