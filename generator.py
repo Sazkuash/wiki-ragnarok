@@ -11,43 +11,45 @@ from collections import defaultdict
 
 def get_mapped_categories(raw_type):
     """
-    Organiza armas com divisao de maos e unifica armaduras.
+    Usa o Type literal do LUA para criar as subcategorias dentro de Weapons ou Armor.
     """
-    t = raw_type.lower().replace("_", " ").strip()
+    t = raw_type.strip()
+    t_lower = t.lower()
     
-    # --- GRUPO WEAPONS (Com divisao de maos para todos) ---
-    weapon_list = ["sword", "axe", "spear", "mace", "staff", "bow", "dagger", "katar", "knuckle", "whip", "instrument"]
-    
-    for w in weapon_list:
-        if w in t:
-            cat_mae = "Weapons"
-            # Identifica se e 1H ou 2H para qualquer arma da lista
-            if "2h" in t or "two handed" in t or "two-handed" in t:
-                sub_cat = f"Two-Handed {w.title()}"
-            else:
-                # Se nao encontrar 2H, define como 1H por padrao para manter a organizacao
-                sub_cat = f"One-Handed {w.title()}"
-            return cat_mae, sub_cat
+    # --- LISTA DE TIPOS QUE SAO ARMAS ---
+    weapons_keywords = [
+        "sword", "spear", "axe", "mace", "staff", "bow", "dagger", 
+        "katar", "book", "knuckle", "whip", "instrument", "handgun", 
+        "rifle", "shotgun", "gatling", "grenade"
+    ]
 
-    # --- GRUPO ARMOR ---
-    if t in ["armor", "headgear", "shield", "garment", "cape", "shoes", "boots", "footgear"]:
-        cat_mae = "Armor"
-        if t in ["garment", "cape"]:
-            sub_cat = "Garment and Cape"
-        elif t in ["shoes", "boots", "footgear"]:
-            sub_cat = "Shoes"
-        else:
-            sub_cat = t.title()
-        return cat_mae, sub_cat
+    # Verifica se o tipo bruto contem alguma palavra de arma
+    for wk in weapons_keywords:
+        if wk in t_lower:
+            return "Weapons", t # Retorna o nome exato (ex: One-Handed Spear)
 
-    # --- CONSUMIVEIS E OUTROS ---
-    if t in ["healing", "usable", "delayconsume", "recovery", "support"]:
-        return "Consumables", t.title()
+    # --- LISTA DE TIPOS QUE SAO ARMADURAS ---
+    armor_keywords = ["armor", "headgear", "shield", "garment", "cape", "shoes", "boots", "footgear"]
+    for ak in armor_keywords:
+        if ak in t_lower:
+            cat_mae = "Armor"
+            # Unificacoes basicas pedidas anteriormente
+            if ak in ["shoes", "boots", "footgear"]:
+                return cat_mae, "Shoes"
+            if ak in ["garment", "cape"]:
+                return cat_mae, "Garment and Cape"
+            return cat_mae, t.title()
+
+    # --- CONSUMIVEIS ---
+    consumable_keywords = ["healing", "usable", "delayconsume", "recovery", "support"]
+    for ck in consumable_keywords:
+        if ck in t_lower:
+            return "Consumables", t.title()
 
     return "Other", t.title()
 
 # =========================
-# FUNCOES DE SUPORTE
+# UTILITIES
 # =========================
 
 def load_yaml(path):
@@ -78,6 +80,7 @@ def parse_lua_item_info(file_path):
             for l in lines:
                 clean_l = re.sub(r'\^[0-9a-fA-F]{6}', '', l).strip()
                 if "Type:" in clean_l:
+                    # Captura tudo apos o Type:
                     found_type = clean_l.split("Type:")[-1].strip()
                 if clean_l and "____" not in clean_l:
                     lines_clean.append(clean_l)
@@ -90,7 +93,7 @@ def write_file(path, lines):
         f.write("\n".join(lines))
 
 # =========================
-# GERADOR
+# MAIN GENERATOR
 # =========================
 
 def generate():
@@ -144,8 +147,8 @@ def generate():
         write_file(f"docs/items/{main_cat}/{sub_cat}/{it_id}.md", item_page)
 
     print("--- 3. Gerando Monstros ---")
-    mob_locations = defaultdict(set)
     if os.path.exists("data/mobs_totais.txt"):
+        mob_locations = defaultdict(set)
         with open("data/mobs_totais.txt", "r", encoding="utf-8", errors="ignore") as f:
             for line in f:
                 match = re.search(r'Map:\s*([^\s|]+).*?ID:\s*(\d+)', line, re.I)
@@ -163,7 +166,7 @@ def generate():
                 link = f"[{it_lua['name']}](../items/{m_cat}/{s_cat}/{it_id}.md)"
                 m_drops_table.append(f"| {link} | {it_id} | {d['Rate']/100:.2f}% |")
 
-        locs = sorted(list(mob_locations.get(m_id, [])))
+        locs = sorted(list(mob_locations.get(m_id, []))) if 'mob_locations' in locals() else []
         mob_page = [f"# {m['Name']} (ID: {m_id})", "\n## Location", "\n".join([f"* {l}" for l in locs]) or "* Spawn Especial", 
                     "\n## Status", "| HP | Race | Element |", "| :--- | :--- | :--- |", f"| {m.get('Hp')} | {m.get('Race')} | {m.get('Element')} |",
                     "\n## Drop Table", *m_drops_table]
@@ -188,6 +191,6 @@ def generate():
             write_file(f"docs/items/{mc}/{sc}/index.md", sub_file)
     write_file("docs/items/index.md", item_main_idx)
 
-    print("Success! Wiki gerada com todas as subcategorias de armas.")
+    print("Success! Wiki gerada respeitando os tipos literais do LUA.")
 
 if __name__ == "__main__": generate()
