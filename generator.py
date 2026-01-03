@@ -10,7 +10,7 @@ from collections import defaultdict
 # =========================
 
 def get_mapped_categories(raw_type):
-    t = raw_type.strip()
+    t = str(raw_type).strip()
     t_lower = t.lower()
     
     weapons_keywords = ["sword", "spear", "axe", "mace", "staff", "bow", "dagger", "katar", "book", "knuckle", "whip", "instrument"]
@@ -25,7 +25,7 @@ def get_mapped_categories(raw_type):
             if ak in ["garment", "cape"]: return "Armor", "Garment and Cape"
             return "Armor", t.title()
 
-    if any(ck in t_lower for ck in ["healing", "usable", "recovery"]):
+    if any(ck in t_lower for ck in ["healing", "usable", "recovery", "support"]):
         return "Consumables", t.title()
 
     return "Other", t.title()
@@ -103,15 +103,16 @@ def generate():
     print("--- 2. Gerando Paginas de Itens ---")
     tree = defaultdict(lambda: defaultdict(list))
     for it_id in ids_que_dropam:
+        # Pega info do LUA ou cria padrão se falhar
         info = lua_data.get(it_id, {"name": f"Item {it_id}", "desc": [], "type": "Etc"})
-        main_cat, sub_cat = get_mapped_categories(info["type"])
+        main_cat, sub_cat = get_mapped_categories(info.get("type", "Etc"))
         tree[main_cat][sub_cat].append(it_id)
         
         item_page = [
-            f"# {info['name']}",
+            f"# {info.get('name', f'Item {it_id}')}",
             f'\n<div class="result" markdown>',
             f"!!! abstract \"Descricao do Item (ID: {it_id})\"",
-            "    " + "\n    ".join(info['desc']) if info['desc'] else "    *Sem descricao disponivel.*",
+            "    " + "\n    ".join(info.get('desc', [])) if info.get('desc') else "    *Sem descricao disponivel.*",
             f'</div>',
             "\n## ?? Obtencao via Drop",
             "| Monstro | Chance |", "| :--- | :--- |",
@@ -134,8 +135,8 @@ def generate():
             it_id = aegis_to_id.get(d["Item"].strip().strip('_').lower())
             if it_id:
                 it_lua = lua_data.get(it_id, {"name": d["Item"], "type": "Etc"})
-                m_cat, s_cat = get_mapped_categories(it_lua["type"])
-                m_page.append(f"| [{it_lua['name']}](../items/{m_cat}/{s_cat}/{it_id}.md) | {it_id} | {d['Rate']/100:.2f}% |")
+                m_cat, s_cat = get_mapped_categories(it_lua.get("type", "Etc"))
+                m_page.append(f"| [{it_lua.get('name', d['Item'])}](../items/{m_cat}/{s_cat}/{it_id}.md) | {it_id} | {d['Rate']/100:.2f}% |")
         write_file(f"docs/monsters/{m_id}.md", m_page)
 
     # --- GERACAO DE INDICES VISUAIS ---
@@ -157,17 +158,20 @@ def generate():
             # Lista de Itens final
             it_list = [f"# Lista: {sc}", "\n| ID | Nome |", "| :--- | :--- |"]
             for iid in sorted(tree[mc][sc]):
-                it_list.append(f"| {iid} | [{lua_data.get(iid)['name']}]({iid}.md) |")
+                # Proteção contra NoneType
+                it_info = lua_data.get(iid, {"name": f"Item {iid}"})
+                nome_item = it_info.get("name", f"Item {iid}")
+                it_list.append(f"| {iid} | [{nome_item}]({iid}.md) |")
             write_file(f"docs/items/{mc}/{sc}/index.md", it_list)
         sub_idx.append("\n</div>")
         write_file(f"docs/items/{mc}/index.md", sub_idx)
 
     # Indice Monstros
     m_idx = ["# ?? Bestiario", "\n| Level | Monstro | ID |", "| :---: | :--- | :---: |"]
-    for m in sorted(mobs, key=lambda x: (int(x.get('Level', 0)), x['Id'])):
+    for m in sorted(mobs, key=lambda x: (int(str(x.get('Level', 0))) if x.get('Level') else 0, x['Id'])):
         m_idx.append(f"| {m.get('Level', 0)} | [{m['Name']}]({m['Id']}.md) | {m['Id']} |")
     write_file("docs/monsters/index.md", m_idx)
 
-    print("Sucesso! Wiki visual gerada.")
+    print("Success! Wiki visual gerada.")
 
 if __name__ == "__main__": generate()
