@@ -5,12 +5,15 @@ import shutil
 import re
 from collections import defaultdict
 
-# ==========================================
-# 0. GERAÇÃO AUTOMÁTICA DO CONFIG (MKDOCS.YML)
-# ==========================================
+# =========================
+# 0. GERAÇÃO DO MKDOCS.YML
+# =========================
 
 def generate_mkdocs_config():
-    """Cria o arquivo de configuração com as extensões de Grid e Design"""
+    """Gera o arquivo de configuração na raiz para garantir o visual de Cards."""
+    # Garante que o arquivo seja criado no diretório atual de execução
+    config_path = os.path.join(os.getcwd(), "mkdocs.yml")
+    
     content = """site_name: Tanelorn Chronicles Wiki
 site_url: https://Sazkuash.github.io/wiki-tanelorn/
 repo_url: https://github.com/Sazkuash/wiki-tanelorn
@@ -61,9 +64,9 @@ nav:
   - Items: items/index.md
   - Monsters: monsters/index.md
 """
-    with open("mkdocs.yml", "w", encoding="utf-8") as f:
+    with open(config_path, "w", encoding="utf-8") as f:
         f.write(content)
-    print("--- 0. mkdocs.yml REGERADO COM SUCESSO ---")
+    print(f"--- 0. mkdocs.yml gerado em: {config_path} ---")
 
 # =========================
 # 1. LÓGICA DE CATEGORIAS
@@ -73,10 +76,12 @@ def get_mapped_categories(raw_type):
     t = str(raw_type).strip()
     t_lower = t.lower()
     
+    # Weapons
     weapons = ["sword", "spear", "axe", "mace", "staff", "bow", "dagger", "katar", "book", "knuckle", "whip", "instrument"]
     for wk in weapons:
         if wk in t_lower: return "Weapons", t
 
+    # Armor
     armors = ["armor", "headgear", "shield", "garment", "cape", "shoes", "boots", "footgear"]
     for ak in armors:
         if ak in t_lower:
@@ -123,6 +128,7 @@ def parse_lua_item_info(file_path):
 
 def write_file(path, lines):
     os.makedirs(os.path.dirname(path), exist_ok=True)
+    # newline='' para evitar problemas de quebra de linha no Windows
     with open(path, "w", encoding="utf-8", newline='') as f:
         f.write("\n".join(lines))
 
@@ -131,7 +137,7 @@ def write_file(path, lines):
 # =========================
 
 def generate():
-    # PASSO 0: Sempre regerar o mkdocs.yml para garantir o visual
+    # Passo obrigatório: Regerar a configuração visual
     generate_mkdocs_config()
 
     print("--- 1. Carregando dados ---")
@@ -162,7 +168,7 @@ def generate():
         path = os.path.join("docs", folder)
         if os.path.exists(path): shutil.rmtree(path)
 
-    print("--- 2. Gerando Paginas de Itens ---")
+    print("--- 2. Gerando Páginas de Itens ---")
     tree = defaultdict(lambda: defaultdict(list))
     for it_id in ids_que_dropam:
         info = lua_data.get(it_id, {"name": f"Item {it_id}", "desc": [], "type": "Etc"})
@@ -179,19 +185,19 @@ def generate():
             "",
             "</div>",
             "",
-            "## :material-sword: Obtencao via Drop",
+            "## :material-sword: Obtenção via Drop",
             "| Monstro | Chance |", "| :--- | :--- |",
             *(item_drop_map[it_id] if item_drop_map[it_id] else ["| - | Especial |"])
         ]
         write_file(f"docs/items/{main_cat}/{sub_cat}/{it_id}.md", item_page)
 
-    print("--- 3. Gerando Paginas de Monstros ---")
+    print("--- 3. Gerando Páginas de Monstros ---")
     for m in mobs:
         if not m: continue
         m_page = [
             f"# {m['Name']} (ID: {m['Id']})",
             "",
-            "!!! info \"Status Basicos\"",
+            "!!! info \"Status Básicos\"",
             f"    HP: **{m.get('Hp')}** | Level: **{m.get('Level')}**",
             "",
             "## :material-treasure-chest: Drops", "| Item | ID | Rate |", "| :--- | :--- | :--- |"
@@ -204,9 +210,9 @@ def generate():
                 m_page.append(f"| [{it_lua.get('name')}](../items/{m_cat}/{s_cat}/{it_id}.md) | {it_id} | {d['Rate']/100:.2f}% |")
         write_file(f"docs/monsters/{m['Id']}.md", m_page)
 
-    print("--- 4. Criando Indices Visuais ---")
+    print("--- 4. Criando Índices com Cards ---")
     
-    # Home (index.md)
+    # Home (index.md) - Requer linhas vazias para renderizar Cards
     write_file("docs/index.md", [
         "# Tanelorn Chronicles Wiki",
         "Escolha uma categoria abaixo para navegar.",
@@ -224,7 +230,7 @@ def generate():
         "</div>"
     ])
 
-    # Indice Principal de Itens
+    # Índices de Itens
     item_idx = ["# Banco de Dados de Itens", "", '<div class="grid cards" markdown>', ""]
     for mc in sorted(tree.keys()):
         item_idx.extend([
@@ -234,7 +240,6 @@ def generate():
             ""
         ])
         
-        # Subcategorias
         sub_idx = [f"# {mc}", "", '<div class="grid cards" markdown>', ""]
         for sc in sorted(tree[mc].keys()):
             sub_idx.extend([
@@ -244,7 +249,6 @@ def generate():
                 ""
             ])
             
-            # Lista Final
             it_list = [f"# {sc}", "", "| ID | Nome |", "| :--- | :--- |"]
             for iid in sorted(tree[mc][sc]):
                 it_n = lua_data.get(iid, {'name': iid})['name']
@@ -257,7 +261,7 @@ def generate():
     item_idx.append("</div>")
     write_file("docs/items/index.md", item_idx)
 
-    # Indice Monstros
+    # Índice Monstros
     m_idx = ["# Bestiário", "", "| Level | Monstro | ID |", "| :---: | :--- | :---: |"]
     for m in sorted(mobs, key=lambda x: (int(str(x.get('Level', 0))) if x.get('Level') else 0, x['Id'])):
         m_idx.append(f"| {m.get('Level', 0)} | [{m['Name']}]({m['Id']}.md) | {m['Id']} |")
