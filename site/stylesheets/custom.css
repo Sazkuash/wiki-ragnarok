@@ -1,0 +1,48 @@
+
+:root {
+  --md-primary-fg-color: #000000;
+  --md-accent-fg-color: #ff0000;
+  --card-bg: linear-gradient(145deg, #1a1a1a, #0f0f0f);
+}
+.grid.cards > ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 20px;
+  list-style: none !important;
+  padding: 0 !important;
+}
+.grid.cards > ul > li {
+  background: var(--card-bg) !important;
+  border: 1px solid #2a2a2a !important;
+  border-radius: 4px !important;
+  transition: all 0.25s ease;
+}
+.grid.cards > ul > li:hover {
+  border-color: #ff0000 !important;
+  transform: translateY(-3px);
+  box-shadow: 0 0 15px rgba(255, 0, 0, 0.4);
+}
+.grid.cards a {
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  padding: 25px !important;
+  color: #fff !important;
+  font-weight: 800;
+  text-transform: uppercase;
+  text-decoration: none !important;
+  text-align: center;
+}
+.element-tag { font-weight: bold; padding: 2px 8px; border-radius: 3px; text-transform: uppercase; font-size: 0.7rem; color: white; display: inline-flex; align-items: center; gap: 5px;}
+.fire { background: #ff4500; }
+.water { background: #1e90ff; }
+.wind { background: #32cd32; color: #000; }
+.earth { background: #8b4513; }
+.neutral { background: #a9a9a9; color: #000; }
+.poison { background: #006400; }
+.holy { background: #ffd700; color: #000; }
+.dark { background: #4b0082; }
+.shadow { background: #4b0082; }
+.ghost { background: #ee82ee; color: #000; }
+.undead { background: #2f4f4f; }
+.race-tag { background: #333; color: #eee; border: 1px solid #555; }

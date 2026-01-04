@@ -1,21 +1,8 @@
-# Banco de Dados de Itens
+# Items Database
 
-<div class="grid cards" markdown>
-
--   __Armor__
-    ---
-    [:octicons-arrow-right-24: Ver Subcategorias de Armor](Armor/index.md)
-
--   __Consumables__
-    ---
-    [:octicons-arrow-right-24: Ver Subcategorias de Consumables](Consumables/index.md)
-
--   __Other__
-    ---
-    [:octicons-arrow-right-24: Ver Subcategorias de Other](Other/index.md)
-
--   __Weapons__
-    ---
-    [:octicons-arrow-right-24: Ver Subcategorias de Weapons](Weapons/index.md)
-
+<div class='grid cards' markdown>
+- [Armor](Armor/index.md)
+- [Consumables](Consumables/index.md)
+- [Etc](Etc/index.md)
+- [Weapons](Weapons/index.md)
 </div>

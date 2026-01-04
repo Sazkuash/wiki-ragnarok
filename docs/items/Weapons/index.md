@@ -1,69 +1,19 @@
 # Weapons
 
-<div class="grid cards" markdown>
-
--   __Axe__
-    ---
-    [:octicons-arrow-right-24: Ver Lista de Axe](Axe/index.md)
-
--   __Bow__
-    ---
-    [:octicons-arrow-right-24: Ver Lista de Bow](Bow/index.md)
-
--   __Dagger__
-    ---
-    [:octicons-arrow-right-24: Ver Lista de Dagger](Dagger/index.md)
-
--   __Katar__
-    ---
-    [:octicons-arrow-right-24: Ver Lista de Katar](Katar/index.md)
-
--   __Knuckle__
-    ---
-    [:octicons-arrow-right-24: Ver Lista de Knuckle](Knuckle/index.md)
-
--   __Mace__
-    ---
-    [:octicons-arrow-right-24: Ver Lista de Mace](Mace/index.md)
-
--   __Musical Instrument__
-    ---
-    [:octicons-arrow-right-24: Ver Lista de Musical Instrument](Musical Instrument/index.md)
-
--   __One-Handed Axe__
-    ---
-    [:octicons-arrow-right-24: Ver Lista de One-Handed Axe](One-Handed Axe/index.md)
-
--   __One-Handed Spear__
-    ---
-    [:octicons-arrow-right-24: Ver Lista de One-Handed Spear](One-Handed Spear/index.md)
-
--   __One-Handed Staff__
-    ---
-    [:octicons-arrow-right-24: Ver Lista de One-Handed Staff](One-Handed Staff/index.md)
-
--   __One-Handed Sword__
-    ---
-    [:octicons-arrow-right-24: Ver Lista de One-Handed Sword](One-Handed Sword/index.md)
-
--   __Two-Handed Axe__
-    ---
-    [:octicons-arrow-right-24: Ver Lista de Two-Handed Axe](Two-Handed Axe/index.md)
-
--   __Two-Handed Spear__
-    ---
-    [:octicons-arrow-right-24: Ver Lista de Two-Handed Spear](Two-Handed Spear/index.md)
-
--   __Two-Handed Staff__
-    ---
-    [:octicons-arrow-right-24: Ver Lista de Two-Handed Staff](Two-Handed Staff/index.md)
-
--   __Two-Handed Sword__
-    ---
-    [:octicons-arrow-right-24: Ver Lista de Two-Handed Sword](Two-Handed Sword/index.md)
-
--   __Whip__
-    ---
-    [:octicons-arrow-right-24: Ver Lista de Whip](Whip/index.md)
-
+<div class='grid cards' markdown>
+- [1H AXES](1H AXES/index.md)
+- [1H SPEARS](1H SPEARS/index.md)
+- [1H STAFFS](1H STAFFS/index.md)
+- [1H SWORDS](1H SWORDS/index.md)
+- [2H AXES](2H AXES/index.md)
+- [2H SPEARS](2H SPEARS/index.md)
+- [2H STAFFS](2H STAFFS/index.md)
+- [2H SWORDS](2H SWORDS/index.md)
+- [AXES](AXES/index.md)
+- [BOWS](BOWS/index.md)
+- [DAGGERS](DAGGERS/index.md)
+- [KATARS](KATARS/index.md)
+- [KNUCKLES](KNUCKLES/index.md)
+- [MACES](MACES/index.md)
+- [WHIPS](WHIPS/index.md)
 </div>

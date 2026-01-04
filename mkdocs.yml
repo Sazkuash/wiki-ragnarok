@@ -1,47 +1,28 @@
-site_name: Tanelorn Chronicles Wiki
+site_name: Tanelorn Wiki
 site_url: https://Sazkuash.github.io/wiki-tanelorn/
-repo_url: https://github.com/Sazkuash/wiki-tanelorn
-
 theme:
   name: material
-  language: pt-BR
+  language: en
   palette:
     - scheme: slate
-      primary: red
+      primary: black
       accent: red
-      toggle:
-        icon: material/brightness-4
-        name: Mudar para modo claro
-    - scheme: default
-      primary: red
-      accent: red
-      toggle:
-        icon: material/brightness-7
-        name: Mudar para modo escuro
   features:
     - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
-    - navigation.expand
     - navigation.top
     - search.suggest
     - search.highlight
-    - content.code.copy
+
+extra_css:
+  - stylesheets/custom.css
 
 markdown_extensions:
   - admonition
   - attr_list
   - md_in_html
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
-plugins:
-  - search
 
 nav:
   - Home: index.md
